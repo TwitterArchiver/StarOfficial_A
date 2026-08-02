@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063561882439671808"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2063561891084173705",
+    "created_at": "2026-06-07T10:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063561891084173705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMPngveRNK",
+          "end": 150,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2063561891084173705/photo/1",
+          "media_key": "3_2063561882439671808",
+          "start": 127,
+          "url": "https://t.co/tMPngveRNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063561891084173705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一名高考生咪，6号7号我要高考咪，希望群里的姐姐们给我发一张穿旗袍的照片祝我旗开得胜咪，或者发一张穿渔网的照片咪，祝我一网打尽咪，再发一张用竹叶遮住胸照片给我咪，祝我胸有成竹咪，胸最好是C以上的咪，让我C位出道咪，再来一张泳装照咪，让我泳往直前咪。 https://t.co/tMPngveRNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1395,
+        "media_key": "3_2063561882439671808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM-mU7aYAA5DNt.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063561882439671808"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2063561891084173705",
+        "created_at": "2026-06-07T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063561891084173705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMPngveRNK",
+              "end": 150,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2063561891084173705/photo/1",
+              "media_key": "3_2063561882439671808",
+              "start": 127,
+              "url": "https://t.co/tMPngveRNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063561891084173705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一名高考生咪，6号7号我要高考咪，希望群里的姐姐们给我发一张穿旗袍的照片祝我旗开得胜咪，或者发一张穿渔网的照片咪，祝我一网打尽咪，再发一张用竹叶遮住胸照片给我咪，祝我胸有成竹咪，胸最好是C以上的咪，让我C位出道咪，再来一张泳装照咪，让我泳往直前咪。 https://t.co/tMPngveRNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 296,
+          "like_count": 1295,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 286
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2063584080923635804",
+    "created_at": "2026-06-07T13:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063607083707294134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038929219703443456",
+          "start": 0,
+          "username": "marisa0721out"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063607083707294134",
+    "in_reply_to_user_id": "2038929219703443456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063606243638587533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marisa0721out 三脚架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2063584080923635804",
+        "created_at": "2026-06-07T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063607083707294134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038929219703443456",
+              "start": 0,
+              "username": "marisa0721out"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063607083707294134",
+        "in_reply_to_user_id": "2038929219703443456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063606243638587533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marisa0721out 三脚架"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038929219703443456",
+        "conversation_id": "2063584080923635804",
+        "created_at": "2026-06-07T12:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063606243638587533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063606243638587533",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063584080923635804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 請問這是怎麼攝影的?還是有人幫忙❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 298,
+          "like_count": 1302,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 286
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T10:39:55.000Z",
+        "description": "你好，我是MA，有事儘管找我。祝你幸福。",
+        "id": "2038929219703443456",
+        "location": "HongKong",
+        "name": "超級好人06",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038929514190020608/wTxtRrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "username": "marisa0721out",
+        "verified": false
+      }
+    ]
+  }
+}

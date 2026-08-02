@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1941165577932062930",
+    "created_at": "2025-07-05T13:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941487331032359117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521868547600764929",
+          "start": 0,
+          "username": "douhaosensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941487331032359117",
+    "in_reply_to_user_id": "1521868547600764929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941165577932062930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douhaosensei 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941165565810536448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBnzCBbcAAytLu.jpg",
+        "width": 1690
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1941165574693736448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBnzjHWUAA5dQv.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941165577932062930",
+        "created_at": "2025-07-05T13:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941487331032359117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521868547600764929",
+              "start": 0,
+              "username": "douhaosensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941487331032359117",
+        "in_reply_to_user_id": "1521868547600764929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941165577932062930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douhaosensei 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941165565810536448",
+            "3_1941165574693736448"
+          ]
+        },
+        "author_id": "1521868547600764929",
+        "conversation_id": "1941165577932062930",
+        "created_at": "2025-07-04T16:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T17:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941165577932062930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASF4OUfngr",
+              "end": 164,
+              "expanded_url": "https://x.com/douhaosensei/status/1941165577932062930/photo/1",
+              "media_key": "3_1941165565810536448",
+              "start": 141,
+              "url": "https://t.co/ASF4OUfngr"
+            },
+            {
+              "display_url": "pic.x.com/ASF4OUfngr",
+              "end": 164,
+              "expanded_url": "https://x.com/douhaosensei/status/1941165577932062930/photo/1",
+              "media_key": "3_1941165574693736448",
+              "start": 141,
+              "url": "https://t.co/ASF4OUfngr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941165577932062930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12247,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "已經不能在忍受了的說♡…最喜歡拉菲醬了♡像个笨蛋一樣的說一直…♡我……真的很喜欢拉菲醬♡嗚嗚拉菲醬♡的样子已经被我深深的刻在心里了♡除了拉菲醬之外什么都想不了了♡啊啊……好喜歡♡拉菲醬小小的♡軟軟的♡香香的♡啊啊……拉菲醬♡是一個香香軟軟糯糯膩膩酥酥脆脆滑滑嫩嫩酸酸甜甜的小蛋糕♡ https://t.co/ASF4OUfngr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 46,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 46
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "05年男生，cos爱好者，萝莉控大叔\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n懒惰哥布林，高p清水你喜欢就好。\n 扩列只接受同好，精虫顺直男滚粗",
+        "id": "1521868547600764929",
+        "location": "白鹰港口",
+        "name": "逗號先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 45,
+          "like_count": 303,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 233
+        },
+        "username": "douhaosensei",
+        "verified": false
+      }
+    ]
+  }
+}

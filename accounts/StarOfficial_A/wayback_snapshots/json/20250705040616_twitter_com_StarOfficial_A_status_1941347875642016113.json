@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941045810030125056"
+      ],
+      "media_source_tweet_id": [
+        "1941045823737155887"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1941347875642016113",
+    "created_at": "2025-07-05T04:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T05:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941347875642016113"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "药娘"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "男娘"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "线下"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "石家庄"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "济南"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "天津"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675953961579458566",
+          "start": 3,
+          "username": "xynxynm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QkeQ9dvvjT",
+          "end": 80,
+          "expanded_url": "https://x.com/xynxynm/status/1941045823737155887/photo/1",
+          "media_key": "3_1941045810030125056",
+          "start": 57,
+          "url": "https://t.co/QkeQ9dvvjT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941347875642016113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941045823737155887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xynxynm: #药娘 #男娘 #线下 #石家庄 #济南 #天津 #北京 \nCOS一下花瓶（我是烧杯） https://t.co/QkeQ9dvvjT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1941045810030125056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_64U-bIAAR-nC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941045810030125056"
+          ],
+          "media_source_tweet_id": [
+            "1941045823737155887"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941347875642016113",
+        "created_at": "2025-07-05T04:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T05:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941347875642016113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "药娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "线下"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "石家庄"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "济南"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "天津"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "北京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675953961579458566",
+              "start": 3,
+              "username": "xynxynm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkeQ9dvvjT",
+              "end": 80,
+              "expanded_url": "https://x.com/xynxynm/status/1941045823737155887/photo/1",
+              "media_key": "3_1941045810030125056",
+              "start": 57,
+              "url": "https://t.co/QkeQ9dvvjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941347875642016113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941045823737155887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xynxynm: #药娘 #男娘 #线下 #石家庄 #济南 #天津 #北京 \nCOS一下花瓶（我是烧杯） https://t.co/QkeQ9dvvjT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941045810030125056"
+          ]
+        },
+        "author_id": "1675953961579458566",
+        "conversation_id": "1941045823737155887",
+        "created_at": "2025-07-04T08:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941045823737155887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "药娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "线下"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "石家庄"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "济南"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "天津"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "北京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkeQ9dvvjT",
+              "end": 67,
+              "expanded_url": "https://x.com/xynxynm/status/1941045823737155887/photo/1",
+              "media_key": "3_1941045810030125056",
+              "start": 44,
+              "url": "https://t.co/QkeQ9dvvjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941045823737155887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3613,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#药娘 #男娘 #线下 #石家庄 #济南 #天津 #北京 \nCOS一下花瓶（我是烧杯） https://t.co/QkeQ9dvvjT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 46,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 42
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T19:45:50.000Z",
+        "description": "（大号被盗‼️不要相信）\n🍡‼️🍥联系方式微信（M2000M200Q）‼️‼️（坐标 #山东 #河北  #线下 🚪50‼️（接定制涩图.寄拍. #援交 ）。已经成年啦❗️#全国可飞 ✈️｜可玩 #SM ‼️\n‼️\n主播QQ群哦‼️（961045671）‼️\n大号（@M2000M200Q）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "山东"
+              },
+              {
+                "end": 50,
+                "start": 47,
+                "tag": "河北"
+              },
+              {
+                "end": 55,
+                "start": 52,
+                "tag": "线下"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "援交"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "全国可飞"
+              },
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "SM"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "M2000M200Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KIG18AU8iMIzN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KIG18AU8iMIzNWI1",
+                "start": 0,
+                "url": "https://t.co/h2lhyBpkjJ"
+              }
+            ]
+          }
+        },
+        "id": "1675953961579458566",
+        "location": "石家庄",
+        "name": "一只猫🍥接线下寄拍）（山东河北）",
+        "pinned_tweet_id": "1937551755061158274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926563514841174017/TqnqMKXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 92,
+          "like_count": 5,
+          "listed_count": 9,
+          "media_count": 33,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/h2lhyBpkjJ",
+        "username": "xynxynm",
+        "verified": false
+      }
+    ]
+  }
+}

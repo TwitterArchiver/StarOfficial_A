@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1942972761426763915",
+    "created_at": "2025-07-09T15:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942974610120839206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335663596626300928",
+          "start": 0,
+          "username": "Xinmo_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942974610120839206",
+    "in_reply_to_user_id": "1335663596626300928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942972761426763915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinmo_sama 饱饱我要钻你被窝（超主动"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1942972758671200257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbTbgDbkAEqy99.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1942972761426763915",
+        "created_at": "2025-07-09T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942974610120839206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335663596626300928",
+              "start": 0,
+              "username": "Xinmo_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942974610120839206",
+        "in_reply_to_user_id": "1335663596626300928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942972761426763915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinmo_sama 饱饱我要钻你被窝（超主动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942972758671200257"
+          ]
+        },
+        "author_id": "1335663596626300928",
+        "conversation_id": "1942972761426763915",
+        "created_at": "2025-07-09T15:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942972761426763915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "cos"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "男娘"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUUbvt3W2T",
+              "end": 95,
+              "expanded_url": "https://x.com/Xinmo_sama/status/1942972761426763915/photo/1",
+              "media_key": "3_1942972758671200257",
+              "start": 72,
+              "url": "https://t.co/sUUbvt3W2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942972761426763915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你有老婆吗？（拉一个推友进被窝）\n你有老婆吗？（拉一个推友进被窝）\n你有老婆吗？（拉一个推友进被窝）\n#cos #男娘 #可爱の男孩子 #伪娘 https://t.co/sUUbvt3W2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 55,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 56
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T19:13:22.000Z",
+        "description": "萌新画师+男娘。不线下！不线下！不线下！可能会分享画作与照片。拍图多为自己喜欢(*´ω｀*)偶尔会拍一下涩图（大概）大家喜欢就更好啦",
+        "id": "1335663596626300928",
+        "name": "Spee",
+        "pinned_tweet_id": "1933494843520819541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925218455592243200/OPYCQmeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 218,
+          "like_count": 354,
+          "listed_count": 9,
+          "media_count": 41,
+          "tweet_count": 95
+        },
+        "username": "Xinmo_sama",
+        "verified": false
+      }
+    ]
+  }
+}

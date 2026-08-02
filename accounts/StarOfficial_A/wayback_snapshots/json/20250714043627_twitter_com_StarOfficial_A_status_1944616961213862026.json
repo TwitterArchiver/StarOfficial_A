@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1944598713743131072",
+    "created_at": "2025-07-14T04:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T05:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944616961213862026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701267170297356288",
+          "start": 0,
+          "username": "chshu1897838236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944616961213862026",
+    "in_reply_to_user_id": "1701267170297356288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944598713743131072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chshu1897838236 好机会！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944598683640602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyaMykXIAAcpZK.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944598699742552064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyaNujXYAA-JAg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1944598713743131072",
+        "created_at": "2025-07-14T04:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T05:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944616961213862026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701267170297356288",
+              "start": 0,
+              "username": "chshu1897838236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944616961213862026",
+        "in_reply_to_user_id": "1701267170297356288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944598713743131072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chshu1897838236 好机会！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944598683640602624",
+            "3_1944598699742552064"
+          ]
+        },
+        "author_id": "1701267170297356288",
+        "conversation_id": "1944598713743131072",
+        "created_at": "2025-07-14T03:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944598713743131072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfbb4xj3xl",
+              "end": 48,
+              "expanded_url": "https://x.com/chshu1897838236/status/1944598713743131072/photo/1",
+              "media_key": "3_1944598683640602624",
+              "start": 25,
+              "url": "https://t.co/nfbb4xj3xl"
+            },
+            {
+              "display_url": "pic.x.com/nfbb4xj3xl",
+              "end": 48,
+              "expanded_url": "https://x.com/chshu1897838236/status/1944598713743131072/photo/1",
+              "media_key": "3_1944598699742552064",
+              "start": 25,
+              "url": "https://t.co/nfbb4xj3xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944598713743131072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1544,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "遭得住吗？赛博重女的压力可不是一般人承受得住的哦 https://t.co/nfbb4xj3xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 60,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 78
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T16:11:29.000Z",
+        "description": "169/135\n20岁，是粥批大王（兼职烧鸡），除了推特暂时没有在其他地方发放图包\n🚪88口令红包想要大家的赞助！～请最好不要转发图包到墙内哦（接广州线下陪玩～可指定目的地哦！）（置顶推广自辨）",
+        "id": "1701267170297356288",
+        "name": "趴来趴去的触手怪",
+        "pinned_tweet_id": "1943908367342481537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902190725971718144/Ybiu1MXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82504,
+          "following_count": 524,
+          "like_count": 4681,
+          "listed_count": 420,
+          "media_count": 416,
+          "tweet_count": 3930
+        },
+        "username": "chshu1897838236",
+        "verified": false
+      }
+    ]
+  }
+}

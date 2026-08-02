@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2072631484952011006",
+    "created_at": "2026-07-02T10:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072635222181724273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061274849375531008",
+          "start": 0,
+          "username": "Pasukalu0"
+        },
+        {
+          "end": 19,
+          "id": "1275413955242950659",
+          "start": 11,
+          "username": "Gob_aya"
+        },
+        {
+          "end": 28,
+          "id": "1275413955242950659",
+          "start": 20,
+          "username": "Gob_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072635222181724273",
+    "in_reply_to_user_id": "1061274849375531008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072631484952011006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pasukalu0 @Gob_aya @Gob_aya 我的呢我的呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2072631468371935232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN3VtabAAAe123.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2072631484952011006",
+        "created_at": "2026-07-02T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072635222181724273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061274849375531008",
+              "start": 0,
+              "username": "Pasukalu0"
+            },
+            {
+              "end": 19,
+              "id": "1275413955242950659",
+              "start": 11,
+              "username": "Gob_aya"
+            },
+            {
+              "end": 28,
+              "id": "1275413955242950659",
+              "start": 20,
+              "username": "Gob_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072635222181724273",
+        "in_reply_to_user_id": "1061274849375531008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072631484952011006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pasukalu0 @Gob_aya @Gob_aya 我的呢我的呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072631468371935232"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "conversation_id": "2072631484952011006",
+        "created_at": "2026-07-02T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072631484952011006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1275413955242950659",
+              "start": 8,
+              "username": "Gob_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAtQRMtWgr",
+              "end": 40,
+              "expanded_url": "https://x.com/Pasukalu0/status/2072631484952011006/photo/1",
+              "media_key": "3_2072631468371935232",
+              "start": 17,
+              "url": "https://t.co/lAtQRMtWgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072631484952011006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已获得哥布绫原味@Gob_aya https://t.co/lAtQRMtWgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 316,
+          "like_count": 1419,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "（日本語/ ENG/ 中文/ 廣東話OK）帕苏卡露（パスカル）｜HK AI Industry/ Remote Worker/ U.S. Stock Investor｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Kigurumi/ Delta Force｜日常垢 负能垢：@ChidoriNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "ChidoriNya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "location": "帕维度",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 1545,
+          "like_count": 38905,
+          "listed_count": 8,
+          "media_count": 1217,
+          "tweet_count": 5368
+        },
+        "url": "",
+        "username": "Pasukalu0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "我有易欲症！",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "pinned_tweet_id": "2027106267039469945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 503,
+          "like_count": 3142,
+          "listed_count": 44,
+          "media_count": 111,
+          "tweet_count": 2964
+        },
+        "url": "",
+        "username": "Gob_aya",
+        "verified": false
+      }
+    ]
+  }
+}

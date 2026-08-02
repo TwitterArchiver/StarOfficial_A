@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940010020197830656"
+      ],
+      "media_source_tweet_id": [
+        "1940010037914869826"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1940243532767535557",
+    "created_at": "2025-07-02T02:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940243532767535557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390586388647583747",
+          "start": 3,
+          "username": "itswords_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxkhoEzvAH",
+          "end": 38,
+          "expanded_url": "https://x.com/itswords_/status/1940010037914869826/photo/1",
+          "media_key": "3_1940010020197830656",
+          "start": 15,
+          "url": "https://t.co/mxkhoEzvAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940243532767535557",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9725
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940010037914869826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itswords_: https://t.co/mxkhoEzvAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_1940010020197830656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxM1bKXEAA1ZZl.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940010020197830656"
+          ],
+          "media_source_tweet_id": [
+            "1940010037914869826"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1940243532767535557",
+        "created_at": "2025-07-02T02:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940243532767535557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390586388647583747",
+              "start": 3,
+              "username": "itswords_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxkhoEzvAH",
+              "end": 38,
+              "expanded_url": "https://x.com/itswords_/status/1940010037914869826/photo/1",
+              "media_key": "3_1940010020197830656",
+              "start": 15,
+              "url": "https://t.co/mxkhoEzvAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940243532767535557",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9725
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940010037914869826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itswords_: https://t.co/mxkhoEzvAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940010020197830656"
+          ]
+        },
+        "author_id": "1390586388647583747",
+        "conversation_id": "1940010037914869826",
+        "created_at": "2025-07-01T11:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940010037914869826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxkhoEzvAH",
+              "end": 23,
+              "expanded_url": "https://x.com/itswords_/status/1940010037914869826/photo/1",
+              "media_key": "3_1940010020197830656",
+              "start": 0,
+              "url": "https://t.co/mxkhoEzvAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940010037914869826",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 757,
+          "impression_count": 640923,
+          "like_count": 24700,
+          "quote_count": 482,
+          "reply_count": 87,
+          "retweet_count": 9725
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mxkhoEzvAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 36,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T08:37:05.000Z",
+        "description": "random words & thoughts",
+        "id": "1390586388647583747",
+        "location": "📖",
+        "name": "Words",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417362314794201089/W8iRohTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943251,
+          "following_count": 1,
+          "like_count": 1920,
+          "listed_count": 1724,
+          "media_count": 7295,
+          "tweet_count": 23535
+        },
+        "username": "itswords_",
+        "verified": true
+      }
+    ]
+  }
+}

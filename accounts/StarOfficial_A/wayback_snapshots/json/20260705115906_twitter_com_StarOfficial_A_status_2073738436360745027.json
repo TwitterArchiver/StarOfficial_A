@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2073725709198258309",
+    "created_at": "2026-07-05T11:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073738436360745027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521868547600764929",
+          "start": 0,
+          "username": "douhaosensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073738436360745027",
+    "in_reply_to_user_id": "1521868547600764929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073738102418645404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douhaosensei 可能是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2073725709198258309",
+        "created_at": "2026-07-05T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738436360745027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521868547600764929",
+              "start": 0,
+              "username": "douhaosensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738436360745027",
+        "in_reply_to_user_id": "1521868547600764929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073738102418645404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douhaosensei 可能是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521868547600764929",
+        "conversation_id": "2073725709198258309",
+        "created_at": "2026-07-05T11:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738102418645404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738102418645404",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073725709198258309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 还是好女孩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 318,
+          "like_count": 1430,
+          "listed_count": 6,
+          "media_count": 66,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "图片仅供参考，谨以实物为准\n170/61|05年男生|爱玩cos|萌新绳匠|萝莉控大叔|高p哥布林|\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n以清水为主| 国内抖音b站同名",
+        "id": "1521868547600764929",
+        "name": "逗號先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3196,
+          "following_count": 170,
+          "like_count": 2468,
+          "listed_count": 14,
+          "media_count": 91,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "douhaosensei",
+        "verified": false
+      }
+    ]
+  }
+}

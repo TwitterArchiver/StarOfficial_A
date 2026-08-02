@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2067518930336268695",
+    "created_at": "2026-06-19T01:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067782410142654952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067782410142654952",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067518930336268695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 实际上这三种都不好看 慎选（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2066032455275180032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwFkl8a8AAJ-7R.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2067518930336268695",
+        "created_at": "2026-06-19T01:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067782410142654952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067782410142654952",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067518930336268695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 实际上这三种都不好看 慎选（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066032455275180032"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2067518930336268695",
+        "created_at": "2026-06-18T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067518930336268695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6i4p6DejP",
+              "end": 48,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2067518930336268695/photo/1",
+              "media_key": "3_2066032455275180032",
+              "start": 25,
+              "url": "https://t.co/T6i4p6DejP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067518930336268695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 32865,
+          "like_count": 668,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "男妹妹选鞋子干货分享\n如何挑选适合自己的女士鞋子 https://t.co/T6i4p6DejP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 306,
+          "like_count": 1364,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9278,
+          "following_count": 543,
+          "like_count": 1176,
+          "listed_count": 22,
+          "media_count": 298,
+          "tweet_count": 2257
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2063142201610453049",
+    "created_at": "2026-06-06T09:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063192093888254426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061274849375531008",
+          "start": 0,
+          "username": "Pasukalu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063192093888254426",
+    "in_reply_to_user_id": "1061274849375531008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063142201610453049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pasukalu0 怎么我没有绫神的原味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2063142201610453049",
+        "created_at": "2026-06-06T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192093888254426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061274849375531008",
+              "start": 0,
+              "username": "Pasukalu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192093888254426",
+        "in_reply_to_user_id": "1061274849375531008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063142201610453049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pasukalu0 怎么我没有绫神的原味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1061274849375531008",
+        "conversation_id": "2063142201610453049",
+        "created_at": "2026-06-06T06:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063142201610453049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pasukalu0/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/pasukalu0/status/2063141526075806142",
+              "start": 13,
+              "url": "https://t.co/4YhS8vi0OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063142201610453049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141526075806142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢哥布绫寄过来的原味😍 https://t.co/4YhS8vi0OZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 293,
+          "like_count": 1273,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 278
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "（日本語/ ENG/ 中文/ 廣東話OK）帕苏卡露（パスカル）｜HK AI Industry/ Remote Worker/ U.S. Stock Investor｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Kigurumi/ Delta Force｜日常垢 负能垢：@ChidoriNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "ChidoriNya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "location": "帕维度",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4541,
+          "following_count": 1532,
+          "like_count": 38173,
+          "listed_count": 7,
+          "media_count": 1186,
+          "tweet_count": 5258
+        },
+        "username": "Pasukalu0",
+        "verified": false
+      }
+    ]
+  }
+}

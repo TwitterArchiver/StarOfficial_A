@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1938997049925718350",
+    "created_at": "2025-07-02T11:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940377271581438018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521868547600764929",
+          "start": 0,
+          "username": "douhaosensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940377271581438018",
+    "in_reply_to_user_id": "1521868547600764929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940374278903652464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douhaosensei 我靠我靠我靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1938997049925718350",
+        "created_at": "2025-07-02T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940377271581438018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521868547600764929",
+              "start": 0,
+              "username": "douhaosensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940377271581438018",
+        "in_reply_to_user_id": "1521868547600764929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940374278903652464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douhaosensei 我靠我靠我靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521868547600764929",
+        "conversation_id": "1938997049925718350",
+        "created_at": "2025-07-02T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940374278903652464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940374278903652464",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938997049925718350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 虽然但是，拉菲是出自碧蓝航线的，tag不能乱打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 28
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "05年男生，cos爱好者，萝莉控大叔\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n懒惰哥布林，高p清水你喜欢就好。\n 扩列只接受同好，精虫顺直男滚粗",
+        "id": "1521868547600764929",
+        "location": "白鹰港口",
+        "name": "逗號先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 42,
+          "like_count": 276,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 221
+        },
+        "username": "douhaosensei",
+        "verified": false
+      }
+    ]
+  }
+}

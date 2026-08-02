@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043593347336712192",
+        "3_2043593346464313344"
+      ],
+      "media_source_tweet_id": [
+        "2043593349911978291",
+        "2043593349911978291"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2045583077968322705",
+    "created_at": "2026-04-18T19:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T20:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045583077968322705"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "男娘"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "小男孩"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "能天使"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891425601862713344",
+          "start": 3,
+          "username": "weiatbing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MhWtiO1eBx",
+          "end": 91,
+          "expanded_url": "https://x.com/iceyhuan/status/2043593349911978291/photo/1",
+          "media_key": "3_2043593347336712192",
+          "start": 68,
+          "url": "https://t.co/MhWtiO1eBx"
+        },
+        {
+          "display_url": "pic.x.com/MhWtiO1eBx",
+          "end": 91,
+          "expanded_url": "https://x.com/iceyhuan/status/2043593349911978291/photo/1",
+          "media_key": "3_2043593346464313344",
+          "start": 68,
+          "url": "https://t.co/MhWtiO1eBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045583077968322705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043593349911978291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiatbing: 我是笨比，不知道私信怎么设置，现在打开了，欢迎宝宝们）给我私信吖\n#男娘 #小男孩 #明日方舟 #能天使 https://t.co/MhWtiO1eBx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045583077968322705].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045583077968322705",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045583077968322705"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043593347336712192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxNUm1bMAAbzMI.jpg",
+        "width": 1159
+      },
+      {
+        "height": 960,
+        "media_key": "3_2043593346464313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxNUjlbcAAYjy3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043593347336712192",
+            "3_2043593346464313344"
+          ]
+        },
+        "author_id": "1891425601862713344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2043593349911978291",
+        "created_at": "2026-04-13T07:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043593349911978291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "小男孩"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "能天使"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhWtiO1eBx",
+              "end": 76,
+              "expanded_url": "https://x.com/iceyhuan/status/2043593349911978291/photo/1",
+              "media_key": "3_2043593347336712192",
+              "start": 53,
+              "url": "https://t.co/MhWtiO1eBx"
+            },
+            {
+              "display_url": "pic.x.com/MhWtiO1eBx",
+              "end": 76,
+              "expanded_url": "https://x.com/iceyhuan/status/2043593349911978291/photo/1",
+              "media_key": "3_2043593346464313344",
+              "start": 53,
+              "url": "https://t.co/MhWtiO1eBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043593349911978291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 15876,
+          "like_count": 253,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是笨比，不知道私信怎么设置，现在打开了，欢迎宝宝们）给我私信吖\n#男娘 #小男孩 #明日方舟 #能天使 https://t.co/MhWtiO1eBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 232,
+          "like_count": 993,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 173
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T09:53:13.000Z",
+        "description": "你可以叫我冰冰姐～",
+        "id": "1891425601862713344",
+        "name": "唯@冰",
+        "pinned_tweet_id": "2045181963074678899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042851277739298821/Q1voHI0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "weiatbing",
+        "verified": false
+      }
+    ]
+  }
+}

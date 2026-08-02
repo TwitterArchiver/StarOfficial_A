@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080837504492851200"
+      ],
+      "media_source_tweet_id": [
+        "2080837515066691778"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2081974765527699949",
+    "created_at": "2026-07-28T05:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081974765527699949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xT9W4Pe93x",
+          "end": 83,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2080837515066691778/photo/1",
+          "media_key": "3_2080837504492851200",
+          "start": 60,
+          "url": "https://t.co/xT9W4Pe93x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081974765527699949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080837515066691778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 要是我能变成一个帽子就好了\n现在推u都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/xT9W4Pe93x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2080837504492851200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCer4KbUAAj3Me.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080837504492851200"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2080837515066691778",
+        "created_at": "2026-07-25T02:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080837515066691778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xT9W4Pe93x",
+              "end": 63,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2080837515066691778/photo/1",
+              "media_key": "3_2080837504492851200",
+              "start": 40,
+              "url": "https://t.co/xT9W4Pe93x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080837515066691778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 10360,
+          "like_count": 382,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "要是我能变成一个帽子就好了\n现在推u都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/xT9W4Pe93x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080837504492851200"
+          ],
+          "media_source_tweet_id": [
+            "2080837515066691778"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2081974765527699949",
+        "created_at": "2026-07-28T05:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081974765527699949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xT9W4Pe93x",
+              "end": 83,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2080837515066691778/photo/1",
+              "media_key": "3_2080837504492851200",
+              "start": 60,
+              "url": "https://t.co/xT9W4Pe93x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081974765527699949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080837515066691778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 要是我能变成一个帽子就好了\n现在推u都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/xT9W4Pe93x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 325,
+          "like_count": 1585,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

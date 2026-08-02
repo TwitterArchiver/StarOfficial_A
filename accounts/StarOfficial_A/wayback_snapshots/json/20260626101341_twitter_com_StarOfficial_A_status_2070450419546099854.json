@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2069813671728201972",
+    "created_at": "2026-06-26T10:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070450419546099854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3039883009",
+          "start": 0,
+          "username": "taigafan"
+        },
+        {
+          "end": 23,
+          "id": "1536619672157978625",
+          "start": 10,
+          "username": "akashi_NYA12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070450419546099854",
+    "in_reply_to_user_id": "3039883009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069813671728201972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taigafan @akashi_NYA12 怎么不带我🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069813668997644288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl0kMvaQAAAXBf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2069813671728201972",
+        "created_at": "2026-06-26T10:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070450419546099854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3039883009",
+              "start": 0,
+              "username": "taigafan"
+            },
+            {
+              "end": 23,
+              "id": "1536619672157978625",
+              "start": 10,
+              "username": "akashi_NYA12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070450419546099854",
+        "in_reply_to_user_id": "3039883009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813671728201972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taigafan @akashi_NYA12 怎么不带我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069813668997644288"
+          ]
+        },
+        "author_id": "3039883009",
+        "conversation_id": "2069813671728201972",
+        "created_at": "2026-06-24T16:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069813671728201972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tgZIKhgSA",
+              "end": 34,
+              "expanded_url": "https://x.com/taigafan/status/2069813671728201972/photo/1",
+              "media_key": "3_2069813668997644288",
+              "start": 11,
+              "url": "https://t.co/3tgZIKhgSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813671728201972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5370,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "和小蛋糕萝酱的合拍🥰 https://t.co/3tgZIKhgSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 312,
+          "like_count": 1396,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-24T15:43:30.000Z",
+        "description": "東方Project / 艦これ@ブイン / 苏州大学麻将部退役领队 / 島津風と #地雷系 女装が好きな人 / 清水Kigurumi #着ぐるみ in樋口楓&天津風 / 兴趣使然的绳楽坂魔法店@KagurazakaDolls / 和男娘女朋友的伪百合爱情长跑2016.07~永远",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "地雷系"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KagurazakaDolls"
+              }
+            ]
+          }
+        },
+        "id": "3039883009",
+        "location": "中国 苏州-上海",
+        "name": "神楽坂 紫苑",
+        "pinned_tweet_id": "2057317204706898344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904754785049600004/UK-CFtj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 875,
+          "like_count": 89,
+          "listed_count": 23,
+          "media_count": 302,
+          "tweet_count": 2402
+        },
+        "url": "",
+        "username": "taigafan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T08:01:05.000Z",
+        "description": "169/49  ‖ INTJ ‖  地雷系  ‖  sub  ‖  love ななひら/nanahira❤️",
+        "id": "1536619672157978625",
+        "name": "萝酱~",
+        "pinned_tweet_id": "1872685271009116236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601126063173963777/rjfRLsXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 752,
+          "like_count": 486,
+          "listed_count": 11,
+          "media_count": 85,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "akashi_NYA12",
+        "verified": false
+      }
+    ]
+  }
+}

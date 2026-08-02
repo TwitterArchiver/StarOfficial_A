@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2072819521463931200",
+    "created_at": "2026-07-02T23:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072819521463931200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543851090541944833",
+          "start": 3,
+          "username": "Surmarshincs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072819521463931200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072757113638863277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Surmarshincs: 什么是魔法少女？\n从12岁开始师从Q群大佬学习魔法，理解了机场、URL之类的概念，抵达亚空间，那时依旧是少年。\n后面16岁顶不住亚空间侵蚀，接触🏳️‍⚧️⁠啊开始和喵喵叫的萌物签订契约买吃🍥啊，所以就变成了魔法少女。\n手机就是变身器，又有魔法…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072757110925086720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPpnEZa0AAnY6o.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2072819521463931200",
+        "created_at": "2026-07-02T23:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072819521463931200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543851090541944833",
+              "start": 3,
+              "username": "Surmarshincs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072819521463931200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072757113638863277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Surmarshincs: 什么是魔法少女？\n从12岁开始师从Q群大佬学习魔法，理解了机场、URL之类的概念，抵达亚空间，那时依旧是少年。\n后面16岁顶不住亚空间侵蚀，接触🏳️‍⚧️⁠啊开始和喵喵叫的萌物签订契约买吃🍥啊，所以就变成了魔法少女。\n手机就是变身器，又有魔法…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072757110925086720"
+          ]
+        },
+        "author_id": "1543851090541944833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2072757113638863277",
+        "created_at": "2026-07-02T18:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072757113638863277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1XRqlQV5jS",
+              "end": 170,
+              "expanded_url": "https://x.com/Surmarshincs/status/2072757113638863277/photo/1",
+              "media_key": "3_2072757110925086720",
+              "start": 147,
+              "url": "https://t.co/1XRqlQV5jS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072757113638863277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "什么是魔法少女？\n从12岁开始师从Q群大佬学习魔法，理解了机场、URL之类的概念，抵达亚空间，那时依旧是少年。\n后面16岁顶不住亚空间侵蚀，接触🏳️‍⚧️⁠啊开始和喵喵叫的萌物签订契约买吃🍥啊，所以就变成了魔法少女。\n手机就是变身器，又有魔法又能让少女变身，可惜不是少女自己的手机。\n#男の娘 https://t.co/1XRqlQV5jS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 316,
+          "like_count": 1421,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T06:56:53.000Z",
+        "description": "喵喵~这里是感冒菌🍥🏳️‍⚧️，叫我菌菌或者私斋都可以哦～是一只03年持证含糖mtf，hrt：2024.8\n📖 电气工程及其自动化学士\n🎀 爱好女装、cos，算法，偶尔逛逛技术社区，敲喜欢二次元喵~\n🍬 戀歷：0\n🖊️ 随缘更新\n💌 欢迎同类同好互fo喵🥰\n（请不要擅自把菌菌的照片发到墙内谢谢喵）",
+        "id": "1543851090541944833",
+        "name": "感冒菌（菌菌）",
+        "pinned_tweet_id": "2063968151273189383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029989134065094657/h1uFKinL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 1214,
+          "like_count": 850,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "Surmarshincs",
+        "verified": false
+      }
+    ]
+  }
+}

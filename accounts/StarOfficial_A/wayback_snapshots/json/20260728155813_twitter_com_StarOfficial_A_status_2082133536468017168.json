@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082006231586390016"
+      ],
+      "media_source_tweet_id": [
+        "2082006238301426100"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2082133536468017168",
+    "created_at": "2026-07-28T15:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082133536468017168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPVxgXjatO",
+          "end": 71,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2082006238301426100/photo/1",
+          "media_key": "3_2082006231586390016",
+          "start": 48,
+          "url": "https://t.co/nPVxgXjatO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082133536468017168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082006238301426100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 宝宝你今天的表现我只能给你96分\n晚上草4我给你满分～ https://t.co/nPVxgXjatO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2082006231586390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTFov3bQAAmsfn.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082006231586390016"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082006238301426100",
+        "created_at": "2026-07-28T07:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082006238301426100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPVxgXjatO",
+              "end": 51,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2082006238301426100/photo/1",
+              "media_key": "3_2082006231586390016",
+              "start": 28,
+              "url": "https://t.co/nPVxgXjatO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082006238301426100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 589,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你今天的表现我只能给你96分\n晚上草4我给你满分～ https://t.co/nPVxgXjatO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082006231586390016"
+          ],
+          "media_source_tweet_id": [
+            "2082006238301426100"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082133536468017168",
+        "created_at": "2026-07-28T15:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082133536468017168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPVxgXjatO",
+              "end": 71,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2082006238301426100/photo/1",
+              "media_key": "3_2082006231586390016",
+              "start": 48,
+              "url": "https://t.co/nPVxgXjatO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082133536468017168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082006238301426100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 宝宝你今天的表现我只能给你96分\n晚上草4我给你满分～ https://t.co/nPVxgXjatO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 324,
+          "like_count": 1584,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

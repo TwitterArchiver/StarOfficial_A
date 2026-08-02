@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082330147693449216"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2082330154047869434",
+    "created_at": "2026-07-29T04:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082330154047869434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/juDb00GPsI",
+          "end": 39,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2082330154047869434/photo/1",
+          "media_key": "3_2082330147693449216",
+          "start": 16,
+          "url": "https://t.co/juDb00GPsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082330154047869434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幸福就像巧克力\n而我是一只狗… https://t.co/juDb00GPsI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2082330147693449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXsPJZa0AAw-aj.jpg",
+        "width": 1009
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082330147693449216"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082330154047869434",
+        "created_at": "2026-07-29T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082330154047869434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juDb00GPsI",
+              "end": 39,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2082330154047869434/photo/1",
+              "media_key": "3_2082330147693449216",
+              "start": 16,
+              "url": "https://t.co/juDb00GPsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082330154047869434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸福就像巧克力\n而我是一只狗… https://t.co/juDb00GPsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 324,
+          "like_count": 1591,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

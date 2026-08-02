@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081049391159496704"
+      ],
+      "media_source_tweet_id": [
+        "2081049997601316867"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2081054764813734167",
+    "created_at": "2026-07-25T16:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081054764813734167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1841098665001435141",
+          "start": 3,
+          "username": "yinsuecci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/04QtivKqGS",
+          "end": 77,
+          "expanded_url": "https://x.com/yinsuecci/status/2081049997601316867/photo/1",
+          "media_key": "3_2081049391159496704",
+          "start": 54,
+          "url": "https://t.co/04QtivKqGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081054764813734167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081049997601316867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinsuecci: 嘿大家好，欢迎来到我的数学妙妙屋？\n部分授课内容，明天是一轮复习三角基础课！ https://t.co/04QtivKqGS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2081049391159496704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFfZTga0AAtX_S.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081049391159496704"
+          ]
+        },
+        "author_id": "1841098665001435141",
+        "conversation_id": "2081049997601316867",
+        "created_at": "2026-07-25T16:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:11:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081049822384308619",
+          "2081049997601316867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04QtivKqGS",
+              "end": 62,
+              "expanded_url": "https://x.com/yinsuecci/status/2081049997601316867/photo/1",
+              "media_key": "3_2081049391159496704",
+              "start": 39,
+              "url": "https://t.co/04QtivKqGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081049997601316867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嘿大家好，欢迎来到我的数学妙妙屋？\n部分授课内容，明天是一轮复习三角基础课！ https://t.co/04QtivKqGS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081049391159496704"
+          ],
+          "media_source_tweet_id": [
+            "2081049997601316867"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2081054764813734167",
+        "created_at": "2026-07-25T16:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081054764813734167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1841098665001435141",
+              "start": 3,
+              "username": "yinsuecci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04QtivKqGS",
+              "end": 77,
+              "expanded_url": "https://x.com/yinsuecci/status/2081049997601316867/photo/1",
+              "media_key": "3_2081049391159496704",
+              "start": 54,
+              "url": "https://t.co/04QtivKqGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081054764813734167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081049997601316867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinsuecci: 嘿大家好，欢迎来到我的数学妙妙屋？\n部分授课内容，明天是一轮复习三角基础课！ https://t.co/04QtivKqGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 329,
+          "like_count": 1572,
+          "listed_count": 8,
+          "media_count": 90,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "Math ｜ Investment ｜ AI\n🎓 08男大，努力攒学费中\n⚡ 境外代充 / 数学竞赛，高中数理化授课\n💬 纯音乐 / 写文看文 / 投资心得\n📌 请称呼我：黄狗 / 小樱（En & Ch)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rw.udclass.top",
+                "end": 23,
+                "expanded_url": "https://rw.udclass.top",
+                "start": 0,
+                "url": "https://t.co/TaH2ekJBau"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2067124610534150624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 280,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/TaH2ekJBau",
+        "username": "yinsuecci",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2065662649682325833",
+    "created_at": "2026-06-13T17:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065843082663546982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043753336357195776",
+          "start": 0,
+          "username": "xia_da10565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065843082663546982",
+    "in_reply_to_user_id": "2043753336357195776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065842342142345373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_da10565 😡 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2065662649682325833",
+        "created_at": "2026-06-13T17:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065843082663546982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043753336357195776",
+              "start": 0,
+              "username": "xia_da10565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843082663546982",
+        "in_reply_to_user_id": "2043753336357195776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065842342142345373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_da10565 😡 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043753336357195776",
+        "conversation_id": "2065662649682325833",
+        "created_at": "2026-06-13T17:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065842342142345373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065842342142345373",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065841125345349906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 那还不赶紧睡😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 304,
+          "like_count": 1338,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 297
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T18:09:23.000Z",
+        "description": "有生化斯坦的吗🤖",
+        "id": "2043753336357195776",
+        "name": "大瞎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043901559176867842/_bjO1CY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 93,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 132
+        },
+        "username": "xia_da10565",
+        "verified": false
+      }
+    ]
+  }
+}

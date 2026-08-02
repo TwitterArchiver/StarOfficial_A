@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942978151988207616"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942972602282287235",
+    "created_at": "2025-07-09T16:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T17:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942978165141635362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5CbngpRlK",
+          "end": 39,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1942978165141635362/photo/1",
+          "media_key": "3_1942978151988207616",
+          "start": 16,
+          "url": "https://t.co/F5CbngpRlK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942978165141635362",
+    "in_reply_to_user_id": "1758149527234891777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942972602282287235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "w   虚惊一场\n尼龙佬太坏了 https://t.co/F5CbngpRlK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_1942978151988207616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbYVbuaIAAwXdG.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1471,
+        "media_key": "3_1942972593436303360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbTR4gXIAAKcdG.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942972593335889921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbTR4Ia8AELH8V.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942978151988207616"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942972602282287235",
+        "created_at": "2025-07-09T16:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942978165141635362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5CbngpRlK",
+              "end": 39,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1942978165141635362/photo/1",
+              "media_key": "3_1942978151988207616",
+              "start": 16,
+              "url": "https://t.co/F5CbngpRlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942978165141635362",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942972602282287235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "w   虚惊一场\n尼龙佬太坏了 https://t.co/F5CbngpRlK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942972593436303360",
+            "3_1942972593335889921"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1942972602282287235",
+        "created_at": "2025-07-09T15:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942972602282287235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfyCdblCb6",
+              "end": 80,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1942972602282287235/photo/1",
+              "media_key": "3_1942972593436303360",
+              "start": 57,
+              "url": "https://t.co/CfyCdblCb6"
+            },
+            {
+              "display_url": "pic.x.com/CfyCdblCb6",
+              "end": 80,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1942972602282287235/photo/1",
+              "media_key": "3_1942972593335889921",
+              "start": 57,
+              "url": "https://t.co/CfyCdblCb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942972602282287235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？QQ大半夜给我搞这一出？\n突然一条好友申请出来\n这怎么看都不像是我可能认识的啊\n发他消息也不回  好奇怪唔…… https://t.co/CfyCdblCb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 55,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 58
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

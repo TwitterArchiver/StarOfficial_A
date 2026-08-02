@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2080562325577474471",
+    "created_at": "2026-07-24T10:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080602458007691727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679070244021649411",
+          "start": 0,
+          "username": "chu_ta18580"
+        },
+        {
+          "end": 21,
+          "id": "1525170191331577856",
+          "start": 13,
+          "username": "iyuirun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080602458007691727",
+    "in_reply_to_user_id": "1679070244021649411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080588082987040835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chu_ta18580 @iyuirun 舍给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2080562325577474471",
+        "created_at": "2026-07-24T10:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080602458007691727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679070244021649411",
+              "start": 0,
+              "username": "chu_ta18580"
+            },
+            {
+              "end": 21,
+              "id": "1525170191331577856",
+              "start": 13,
+              "username": "iyuirun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080602458007691727",
+        "in_reply_to_user_id": "1679070244021649411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080588082987040835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_ta18580 @iyuirun 舍给我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679070244021649411",
+        "conversation_id": "2080562325577474471",
+        "created_at": "2026-07-24T09:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080588082987040835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1525170191331577856",
+              "start": 0,
+              "username": "iyuirun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588082987040835",
+        "in_reply_to_user_id": "1525170191331577856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080562325577474471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyuirun 舍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 328,
+          "like_count": 1568,
+          "listed_count": 8,
+          "media_count": 89,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-12T10:08:47.000Z",
+        "description": "永远是最差的一个",
+        "id": "1679070244021649411",
+        "location": "距你520m",
+        "name": "璇玑子",
+        "pinned_tweet_id": "1901676451625320450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064732550245871616/7aDIO_Pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5195,
+          "following_count": 219,
+          "like_count": 1277,
+          "listed_count": 21,
+          "media_count": 307,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "chu_ta18580",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-13T17:44:54.000Z",
+        "description": "我是",
+        "id": "1525170191331577856",
+        "name": "雨勼大王",
+        "pinned_tweet_id": "1955941602276540563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066545548543533056/0jzs6Vpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19724,
+          "following_count": 344,
+          "like_count": 3812,
+          "listed_count": 68,
+          "media_count": 47,
+          "tweet_count": 3470
+        },
+        "url": "",
+        "username": "iyuirun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2047830679929364484",
+    "created_at": "2026-04-25T08:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047958612816093373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047958612816093373",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047830679929364484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb 已收获0元"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2047830672358723584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtbJYoXUAAXfpr.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2047830679929364484",
+        "created_at": "2026-04-25T08:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047958612816093373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047958612816093373",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047830679929364484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb 已收获0元"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047830672358723584"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2047830679929364484",
+        "created_at": "2026-04-25T00:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047830679929364484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9xilpb0ji",
+              "end": 46,
+              "expanded_url": "https://x.com/mxyzcdb/status/2047830679929364484/photo/1",
+              "media_key": "3_2047830672358723584",
+              "start": 23,
+              "url": "https://t.co/Q9xilpb0ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047830679929364484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1049,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位创作者快去邮箱/账号里看看收到了多少钱吧 https://t.co/Q9xilpb0ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 247,
+          "like_count": 1047,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 186
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "pinned_tweet_id": "2046964072264909222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 339,
+          "like_count": 3913,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2042
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

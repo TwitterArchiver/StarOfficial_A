@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1908014283352584193"
+      ],
+      "media_source_tweet_id": [
+        "1908014492434444439"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2009631639438283199",
+    "created_at": "2026-01-09T14:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009631639438283199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1279753063478124546",
+          "start": 3,
+          "username": "kuozhang_cheng"
+        },
+        {
+          "end": 49,
+          "id": "1605406040786235392",
+          "start": 39,
+          "username": "windmaomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGMdXGtmyh",
+          "end": 80,
+          "expanded_url": "https://x.com/kuozhang_cheng/status/1908014492434444439/video/1",
+          "media_key": "13_1908014283352584193",
+          "start": 57,
+          "url": "https://t.co/tGMdXGtmyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009631639438283199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908014492434444439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuozhang_cheng: 🍈败者就是要被狠狠踩在脚底下🍈\n👊🏻：@windmaomi \n微重口⚠️ https://t.co/tGMdXGtmyh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009631639438283199].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009631639438283199",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009631639438283199"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26133,
+        "height": 720,
+        "media_key": "13_1908014283352584193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908014283352584193/img/L-mFn75u_4ghlqxK.jpg",
+        "public_metrics": {
+          "view_count": 332727
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908014283352584193/vid/avc1/480x270/QKTTc2tay55g3FTE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908014283352584193/vid/avc1/640x360/w6edGqfDa1Pxumkb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908014283352584193/vid/avc1/1280x720/rquR_-b2v-w2oN0R.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908014283352584193/pl/VtFoCQ-mm72kTZY8.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908014283352584193"
+          ]
+        },
+        "author_id": "1279753063478124546",
+        "conversation_id": "1908014492434444439",
+        "created_at": "2025-04-04T04:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908014492434444439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1605406040786235392",
+              "start": 19,
+              "username": "windmaomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGMdXGtmyh",
+              "end": 60,
+              "expanded_url": "https://x.com/kuozhang_cheng/status/1908014492434444439/video/1",
+              "media_key": "13_1908014283352584193",
+              "start": 37,
+              "url": "https://t.co/tGMdXGtmyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908014492434444439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4380,
+          "impression_count": 895117,
+          "like_count": 12273,
+          "quote_count": 14,
+          "reply_count": 139,
+          "retweet_count": 1288
+        },
+        "reply_settings": "everyone",
+        "text": "🍈败者就是要被狠狠踩在脚底下🍈\n👊🏻：@windmaomi \n微重口⚠️ https://t.co/tGMdXGtmyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 86,
+          "like_count": 454,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 86
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T12:24:48.000Z",
+        "description": "這裡是🍊（橙子｜05｜🔞｜見つめあう度 増す熱に 堕ちていく もう抗えない｜毎日楽しい｜淡X｜",
+        "id": "1279753063478124546",
+        "location": "🩷-18cm",
+        "name": "🍊です",
+        "pinned_tweet_id": "2003043056514413044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787030545114992640/PQHZuuHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176032,
+          "following_count": 2950,
+          "like_count": 23874,
+          "listed_count": 929,
+          "media_count": 110,
+          "tweet_count": 6853
+        },
+        "username": "kuozhang_cheng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T03:33:33.000Z",
+        "description": "173cm/52kg  已经成年！\n交友128 /188/520\n  \n    兴趣分享为主 本账号完全自愿，而且已经成年  以及没有任何为其他平台和用户打广告，完全遵守平台规则 (꒦ິ⌓꒦ີ)\n约会私聊\n生活分享账号 @windmaoma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "windmaoma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sbjubaogou",
+                "end": 23,
+                "expanded_url": "http://t.me/sbjubaogou",
+                "start": 0,
+                "url": "https://t.co/CiIhUPV1rb"
+              }
+            ]
+          }
+        },
+        "id": "1605406040786235392",
+        "location": "广州或者深圳",
+        "name": "五彩斑斓的黑猫",
+        "pinned_tweet_id": "2009198955524128892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000484378963841025/gdNsRpeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93097,
+          "following_count": 890,
+          "like_count": 72506,
+          "listed_count": 543,
+          "media_count": 68,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/CiIhUPV1rb",
+        "username": "windmaomi",
+        "verified": true
+      }
+    ]
+  }
+}

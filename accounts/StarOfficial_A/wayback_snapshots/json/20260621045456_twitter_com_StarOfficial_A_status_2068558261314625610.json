@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2068558261314625610",
+    "created_at": "2026-06-21T04:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068558261314625610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068558261314625610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068252461970620602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 你好 这里XingXing\n☆mtx | 降临于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆图都是本人出镜\n(白墙背景Ai换的因为家里背景太难看)\n投喂随意 有投喂的话会很开心\n——————————————————\n关于小群…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2068252451829116929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPopZka8AEMedX.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2068252451850104833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPopZpbMAEgsTl.jpg",
+        "width": 976
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2068252451837452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPopZmaIAAmiEg.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068558261314625610",
+        "created_at": "2026-06-21T04:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068558261314625610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068558261314625610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068252461970620602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 你好 这里XingXing\n☆mtx | 降临于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆图都是本人出镜\n(白墙背景Ai换的因为家里背景太难看)\n投喂随意 有投喂的话会很开心\n——————————————————\n关于小群…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068252451829116929",
+            "3_2068252451850104833",
+            "3_2068252451837452288"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068252461970620602",
+        "created_at": "2026-06-20T08:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068252461970620602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1ZFfhTCH1",
+              "end": 183,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2068252461970620602/photo/1",
+              "media_key": "3_2068252451829116929",
+              "start": 160,
+              "url": "https://t.co/O1ZFfhTCH1"
+            },
+            {
+              "display_url": "pic.x.com/O1ZFfhTCH1",
+              "end": 183,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2068252461970620602/photo/1",
+              "media_key": "3_2068252451850104833",
+              "start": 160,
+              "url": "https://t.co/O1ZFfhTCH1"
+            },
+            {
+              "display_url": "pic.x.com/O1ZFfhTCH1",
+              "end": 183,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2068252461970620602/photo/1",
+              "media_key": "3_2068252451837452288",
+              "start": 160,
+              "url": "https://t.co/O1ZFfhTCH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068252461970620602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你好 这里XingXing\n☆mtx | 降临于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆图都是本人出镜\n(白墙背景Ai换的因为家里背景太难看)\n投喂随意 有投喂的话会很开心\n——————————————————\n关于小群：\n加群记得备注推的id以便我大调查（bushi\n☆只放可爱小宝\n☆只放可爱小宝\n（重要事情说两遍，不要问我为什么不通过加群申请）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5689,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你好 这里XingXing\n☆mtx | 降临于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆图都是本人出镜\n(白墙背景Ai换的因为家里背景太难看)\n投喂随意 有投喂的话会很开心\n——————————————————\n关于小群：\n加群记得备注推的id以便我大调查（bushi\n☆只放可爱小宝\n☆只放可爱小宝 https://t.co/O1ZFfhTCH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 311,
+          "like_count": 1389,
+          "listed_count": 7,
+          "media_count": 61,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

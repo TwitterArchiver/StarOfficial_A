@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939289643922399232"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1939289657529020664",
+    "created_at": "2025-06-29T11:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939289657529020664"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "男の娘ᅠ"
+        },
+        {
+          "end": 13,
+          "start": 6,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "白丝萝莉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0oydvuMGo",
+          "end": 66,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1939289657529020664/photo/1",
+          "media_key": "3_1939289643922399232",
+          "start": 43,
+          "url": "https://t.co/K0oydvuMGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939289657529020664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男の娘ᅠ #可爱的男孩子 #白丝萝莉 推流是被谁吃掉了嘛  勤勤恳恳发图怎么没人看 https://t.co/K0oydvuMGo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939289657529020664].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939289657529020664",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939289657529020664"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_1939289643922399232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum9qAaWoAAmBOf.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n无糖 | mtx\n+q 3427507791注明来意 有空可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "Star☆official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

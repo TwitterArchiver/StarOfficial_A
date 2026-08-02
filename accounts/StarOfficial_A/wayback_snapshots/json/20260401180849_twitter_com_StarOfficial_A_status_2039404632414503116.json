@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2038241324277899426",
+    "created_at": "2026-04-01T18:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039404632414503116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031653239805132800",
+          "start": 0,
+          "username": "Tyuiocd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039404632414503116",
+    "in_reply_to_user_id": "2031653239805132800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038241324277899426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tyuiocd5 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2038241317734825985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElJre4bwAELxrN.jpg",
+        "width": 880
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038241317726330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElJre2aIAAIdqg.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2038241324277899426",
+        "created_at": "2026-04-01T18:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039404632414503116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031653239805132800",
+              "start": 0,
+              "username": "Tyuiocd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039404632414503116",
+        "in_reply_to_user_id": "2031653239805132800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038241324277899426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tyuiocd5 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038241317734825985",
+            "3_2038241317726330880"
+          ]
+        },
+        "author_id": "2031653239805132800",
+        "conversation_id": "2038241324277899426",
+        "created_at": "2026-03-29T13:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038241324277899426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "裏アカ男子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdvIDeNNl6",
+              "end": 54,
+              "expanded_url": "https://x.com/Tyuiocd5/status/2038241324277899426/photo/1",
+              "media_key": "3_2038241317734825985",
+              "start": 31,
+              "url": "https://t.co/WdvIDeNNl6"
+            },
+            {
+              "display_url": "pic.x.com/WdvIDeNNl6",
+              "end": 54,
+              "expanded_url": "https://x.com/Tyuiocd5/status/2038241324277899426/photo/1",
+              "media_key": "3_2038241317726330880",
+              "start": 31,
+              "url": "https://t.co/WdvIDeNNl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038241324277899426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 48442,
+          "like_count": 1325,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "変態さんきてーー🥺\n\n#裏アカ女子　#裏アカ男子と繋がりたい https://t.co/WdvIDeNNl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 146,
+          "like_count": 743,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 123
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T08:47:54.000Z",
+        "description": "☺️",
+        "id": "2031653239805132800",
+        "name": "なの",
+        "pinned_tweet_id": "2039330797795385798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032624407500529664/CpZgaEj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 39,
+          "like_count": 80,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 31
+        },
+        "username": "Tyuiocd5",
+        "verified": false
+      }
+    ]
+  }
+}

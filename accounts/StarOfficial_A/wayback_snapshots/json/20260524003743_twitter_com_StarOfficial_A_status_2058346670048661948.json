@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055536198580662272"
+      ],
+      "media_source_tweet_id": [
+        "2055536216175755659"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2058346670048661948",
+    "created_at": "2026-05-24T00:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058346670048661948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OobM08qvZD",
+          "end": 79,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2055536216175755659/photo/1",
+          "media_key": "3_2055536198580662272",
+          "start": 56,
+          "url": "https://t.co/OobM08qvZD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058346670048661948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055536216175755659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 你说你不喜欢喝优酸乳\n 说那个太稀不好喝\n\n那你是不是想要倍厚乳（？） https://t.co/OobM08qvZD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055536198580662272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa7SCtbcAAdze1.jpg",
+        "width": 1420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055536198580662272"
+          ],
+          "media_source_tweet_id": [
+            "2055536216175755659"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2058346670048661948",
+        "created_at": "2026-05-24T00:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058346670048661948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OobM08qvZD",
+              "end": 79,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2055536216175755659/photo/1",
+              "media_key": "3_2055536198580662272",
+              "start": 56,
+              "url": "https://t.co/OobM08qvZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058346670048661948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055536216175755659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 你说你不喜欢喝优酸乳\n 说那个太稀不好喝\n\n那你是不是想要倍厚乳（？） https://t.co/OobM08qvZD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055536198580662272"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2055536216175755659",
+        "created_at": "2026-05-16T06:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055536216175755659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OobM08qvZD",
+              "end": 59,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2055536216175755659/photo/1",
+              "media_key": "3_2055536198580662272",
+              "start": 36,
+              "url": "https://t.co/OobM08qvZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055536216175755659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2622,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你说你不喜欢喝优酸乳\n 说那个太稀不好喝\n\n那你是不是想要倍厚乳（？） https://t.co/OobM08qvZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 281,
+          "like_count": 1240,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 273
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

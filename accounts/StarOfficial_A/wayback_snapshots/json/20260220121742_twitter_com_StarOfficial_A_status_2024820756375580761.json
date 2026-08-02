@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1887528075900166250",
+    "created_at": "2026-02-20T12:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024820756375580761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686343500898656256",
+          "start": 0,
+          "username": "Xiangzeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024820756375580761",
+    "in_reply_to_user_id": "1686343500898656256",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887528075900166250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiangzeqwq wcsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6255,
+        "height": 570,
+        "media_key": "7_1887528050608513024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1887528050608513024/pu/img/2UOS2x7dXq0e8RaT.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887528050608513024/pu/vid/avc1/606x270/x1Uix8nVGKOKozY8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887528050608513024/pu/vid/avc1/808x360/lxD6-BDyyn_L01I7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1887528050608513024/pu/vid/avc1/1280x570/PQEjiZ-55Cw78c1g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1887528050608513024/pu/pl/hacwdbVCcHJVck-Y.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1887528075900166250",
+        "created_at": "2026-02-20T12:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024820756375580761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686343500898656256",
+              "start": 0,
+              "username": "Xiangzeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024820756375580761",
+        "in_reply_to_user_id": "1686343500898656256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887528075900166250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiangzeqwq wcsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1887528050608513024"
+          ]
+        },
+        "author_id": "1686343500898656256",
+        "conversation_id": "1887528075900166250",
+        "created_at": "2025-02-06T15:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887528075900166250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbUBs0v1CN",
+              "end": 38,
+              "expanded_url": "https://x.com/Xiangzeqwq/status/1887528075900166250/video/1",
+              "media_key": "7_1887528050608513024",
+              "start": 15,
+              "url": "https://t.co/UbUBs0v1CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887528075900166250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来捏捏我大腿ฅ՞•ﻌ•՞ฅ https://t.co/UbUBs0v1CN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 93,
+          "like_count": 557,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 88
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T11:50:05.000Z",
+        "description": "小小ISFJ    小南梁(生日:2009年10月13日)    ABDL    喜欢姐弟恋和4i",
+        "id": "1686343500898656256",
+        "location": "Los Angeles, CA",
+        "name": "香泽qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887600549601898496/C9V_yuX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 19
+        },
+        "username": "Xiangzeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

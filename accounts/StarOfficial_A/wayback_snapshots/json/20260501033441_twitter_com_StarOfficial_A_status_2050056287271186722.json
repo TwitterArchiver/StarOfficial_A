@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2049683950797553904",
+    "created_at": "2026-05-01T03:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050056287271186722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743098929653358592",
+          "start": 0,
+          "username": "frozenraining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050056287271186722",
+    "in_reply_to_user_id": "1743098929653358592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049683950797553904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frozenraining 不准了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2049683950797553904",
+        "created_at": "2026-05-01T03:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050056287271186722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743098929653358592",
+              "start": 0,
+              "username": "frozenraining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050056287271186722",
+        "in_reply_to_user_id": "1743098929653358592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049683950797553904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frozenraining 不准了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743098929653358592",
+        "conversation_id": "2049683950797553904",
+        "created_at": "2026-04-30T02:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049683950797553904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049683950797553904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 725,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一会更新吗？\n……\n不会的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 273,
+          "like_count": 1133,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 220
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-05T02:35:56.000Z",
+        "description": "无糖男娘，184超大只！\n喜欢涩涩，精神健康状况良好，但已经是社畜了不想上班QAQ\n欢迎私信打扰~但是说话让人不舒服的会直接屏蔽！\n大家的喜欢是我最大的动力~\n请勿搬运至墙内，谢谢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/frozenrainings…",
+                "end": 23,
+                "expanded_url": "http://t.me/frozenrainingsky/",
+                "start": 0,
+                "url": "https://t.co/z3wlg146kn"
+              }
+            ]
+          }
+        },
+        "id": "1743098929653358592",
+        "location": "犹格索托斯的庭院",
+        "name": "冰雨",
+        "pinned_tweet_id": "1959208850499977494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834614858387738624/6xVNtfjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13647,
+          "following_count": 159,
+          "like_count": 8513,
+          "listed_count": 60,
+          "media_count": 304,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/z3wlg146kn",
+        "username": "frozenraining",
+        "verified": false
+      }
+    ]
+  }
+}

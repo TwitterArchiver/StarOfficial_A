@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2074323365658243153",
+    "created_at": "2026-07-07T16:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074533056430624905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008977467802071040",
+          "start": 0,
+          "username": "yanshaoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074533056430624905",
+    "in_reply_to_user_id": "2008977467802071040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074518304711176570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanshaoqwq 😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2074323365658243153",
+        "created_at": "2026-07-07T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074533056430624905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008977467802071040",
+              "start": 0,
+              "username": "yanshaoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074533056430624905",
+        "in_reply_to_user_id": "2008977467802071040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074518304711176570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshaoqwq 😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008977467802071040",
+        "conversation_id": "2074323365658243153",
+        "created_at": "2026-07-07T15:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074518304711176570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518304711176570",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074323365658243153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 可惜（，早点看到就送了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 312,
+          "like_count": 1440,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T19:02:18.000Z",
+        "description": "light novelを大好き！\nずっと黒長直と白長直を好きです。\n永远喜欢黑长直与白长直\n致力于在各处留下“可爱”的家伙\n\n以下关于键政的碎碎念\n键政本质就是理想化理想化理想化，每个人都拿着大论与自己图式去让别人认同寻求同伴感，解构主义全杀了，既然键政圈多少都会点精神分析，那就先自我分析吧，别键了，键政不如键哲键心（",
+        "id": "2008977467802071040",
+        "location": "Japan",
+        "name": "神秘な可愛い男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015776046499651584/z3S_KNVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "yanshaoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

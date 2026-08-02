@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071926169373380608"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2071926184980701596",
+    "created_at": "2026-06-30T11:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071926184980701596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJOT36AjCe",
+          "end": 37,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2071926184980701596/video/1",
+          "media_key": "13_2071926169373380608",
+          "start": 14,
+          "url": "https://t.co/HJOT36AjCe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071926184980701596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来点相机直出的神秘小视频（ https://t.co/HJOT36AjCe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1746,
+        "height": 720,
+        "media_key": "13_2071926169373380608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071926169373380608/img/_XlQvTn7U7xXikuP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071926169373380608/vid/avc1/380x270/GqOxR8WDQYCUrIVq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071926169373380608/vid/avc1/508x360/0zhpZdLYU7ifIfWu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071926169373380608/vid/avc1/1016x720/lSVVL4nuG1JCOVqY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071926169373380608/pl/uHHAvaPkurivi2cI.m3u8"
+          }
+        ],
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071926169373380608"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2071926184980701596",
+        "created_at": "2026-06-30T11:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071926184980701596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJOT36AjCe",
+              "end": 37,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2071926184980701596/video/1",
+              "media_key": "13_2071926169373380608",
+              "start": 14,
+              "url": "https://t.co/HJOT36AjCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071926184980701596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点相机直出的神秘小视频（ https://t.co/HJOT36AjCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 316,
+          "like_count": 1415,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

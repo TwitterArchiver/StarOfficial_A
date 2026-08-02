@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053220675066920960"
+      ],
+      "media_source_tweet_id": [
+        "2053220682331525420"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2053338737619423647",
+    "created_at": "2026-05-10T04:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053338737619423647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044140394108334082",
+          "start": 3,
+          "username": "hualiovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7q9vhFaQq",
+          "end": 37,
+          "expanded_url": "https://x.com/hualiovo/status/2053220682331525420/photo/1",
+          "media_key": "3_2053220675066920960",
+          "start": 14,
+          "url": "https://t.co/c7q9vhFaQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053338737619423647",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053220682331525420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hualiovo: https://t.co/c7q9vhFaQq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053338737619423647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053338737619423647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053338737619423647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053220675066920960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6BU1baAAAFbfL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053220675066920960"
+          ]
+        },
+        "author_id": "2044140394108334082",
+        "conversation_id": "2053220682331525420",
+        "created_at": "2026-05-09T21:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053220682331525420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7q9vhFaQq",
+              "end": 23,
+              "expanded_url": "https://x.com/hualiovo/status/2053220682331525420/photo/1",
+              "media_key": "3_2053220675066920960",
+              "start": 0,
+              "url": "https://t.co/c7q9vhFaQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053220682331525420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2281,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c7q9vhFaQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 282,
+          "like_count": 1215,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 261
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "扩列（目前只加Q）暂时只扩同好望理解，感谢关注，感谢喜欢喵。\n之前叫花梨qwq和hualiqwq全网同名",
+        "id": "2044140394108334082",
+        "name": "相似蛋糕拆开🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044141371435692032/4OvCQC1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 40,
+          "like_count": 9,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 37
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

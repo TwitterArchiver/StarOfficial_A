@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042613911476932612",
+        "3_2042613911472766976"
+      ],
+      "media_source_tweet_id": [
+        "2042614372397408559",
+        "2042614372397408559"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2042656290149929314",
+    "created_at": "2026-04-10T17:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042656290149929314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "伪娘"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "男娘"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "男の娘"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "cos"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "蔚蓝档案"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "阿罗娜"
+        },
+        {
+          "end": 86,
+          "start": 76,
+          "tag": "‌ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984725515023106051",
+          "start": 3,
+          "username": "Xuan_M0o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hed8ELt2aP",
+          "end": 110,
+          "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+          "media_key": "3_2042613911476932612",
+          "start": 87,
+          "url": "https://t.co/Hed8ELt2aP"
+        },
+        {
+          "display_url": "pic.x.com/Hed8ELt2aP",
+          "end": 110,
+          "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+          "media_key": "3_2042613911472766976",
+          "start": 87,
+          "url": "https://t.co/Hed8ELt2aP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042656290149929314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042614372397408559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuan_M0o: 欢迎链接“什亭之箱”，老师\n我在这里已经等了老师很久，很久了～\n\n#伪娘 #男娘 #男の娘 #cos #蔚蓝档案 #阿罗娜 #‌ブルーアーカイブ https://t.co/Hed8ELt2aP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042613911476932612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjSh77akAQcSQS.jpg",
+        "width": 1368
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042613911472766976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjSh76bAAAeNNa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042613911476932612",
+            "3_2042613911472766976"
+          ],
+          "media_source_tweet_id": [
+            "2042614372397408559",
+            "2042614372397408559"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2042656290149929314",
+        "created_at": "2026-04-10T17:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042656290149929314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "伪娘"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "男娘"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "男の娘"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "cos"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "阿罗娜"
+            },
+            {
+              "end": 86,
+              "start": 76,
+              "tag": "‌ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984725515023106051",
+              "start": 3,
+              "username": "Xuan_M0o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hed8ELt2aP",
+              "end": 110,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+              "media_key": "3_2042613911476932612",
+              "start": 87,
+              "url": "https://t.co/Hed8ELt2aP"
+            },
+            {
+              "display_url": "pic.x.com/Hed8ELt2aP",
+              "end": 110,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+              "media_key": "3_2042613911472766976",
+              "start": 87,
+              "url": "https://t.co/Hed8ELt2aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042656290149929314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042614372397408559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuan_M0o: 欢迎链接“什亭之箱”，老师\n我在这里已经等了老师很久，很久了～\n\n#伪娘 #男娘 #男の娘 #cos #蔚蓝档案 #阿罗娜 #‌ブルーアーカイブ https://t.co/Hed8ELt2aP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042613911476932612",
+            "3_2042613911472766976"
+          ]
+        },
+        "author_id": "1984725515023106051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2042614372397408559",
+        "created_at": "2026-04-10T14:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042614372397408559"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "伪娘"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "男の娘"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "cos"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "阿罗娜"
+            },
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "‌ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hed8ELt2aP",
+              "end": 96,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+              "media_key": "3_2042613911476932612",
+              "start": 73,
+              "url": "https://t.co/Hed8ELt2aP"
+            },
+            {
+              "display_url": "pic.x.com/Hed8ELt2aP",
+              "end": 96,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2042614372397408559/photo/1",
+              "media_key": "3_2042613911472766976",
+              "start": 73,
+              "url": "https://t.co/Hed8ELt2aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042614372397408559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2154,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎链接“什亭之箱”，老师\n我在这里已经等了老师很久，很久了～\n\n#伪娘 #男娘 #男の娘 #cos #蔚蓝档案 #阿罗娜 #‌ブルーアーカイブ https://t.co/Hed8ELt2aP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 196,
+          "like_count": 888,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 155
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-01T20:54:03.000Z",
+        "description": "喜欢女装穿搭和可爱事物的男孩子♂/\n01年，坐标江苏，168cm，54kg/\n性别认同正常，偏双性恋/\n是二次元游戏宅，也喜欢旅游摄影w/\n水色系和地雷系重度依赖🤍🩵，但是性格并不地雷哦！/\n属性是偏温柔又严厉大哥哥（or大姐姐）类型的S/Dom Daddy，涉猎很广很包容w～",
+        "id": "1984725515023106051",
+        "location": "想要互关扩列可以私信哦～！",
+        "name": "Matsu茉",
+        "pinned_tweet_id": "2002773344677249244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985054814359949312/2EddkLkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7427,
+          "following_count": 274,
+          "like_count": 745,
+          "listed_count": 34,
+          "media_count": 175,
+          "tweet_count": 607
+        },
+        "username": "Xuan_M0o",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2060380341375050073",
+    "created_at": "2026-05-30T12:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060706638198370421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822652206870589440",
+          "start": 0,
+          "username": "Chris032109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060706638198370421",
+    "in_reply_to_user_id": "1822652206870589440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060380341375050073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chris032109 窝怎么没有吃到打赏（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2060380339093286912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfxAIXasAAi7N3.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2060380341375050073",
+        "created_at": "2026-05-30T12:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060706638198370421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822652206870589440",
+              "start": 0,
+              "username": "Chris032109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060706638198370421",
+        "in_reply_to_user_id": "1822652206870589440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060380341375050073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chris032109 窝怎么没有吃到打赏（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060380339093286912"
+          ]
+        },
+        "author_id": "1822652206870589440",
+        "conversation_id": "2060380341375050073",
+        "created_at": "2026-05-29T15:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060380341375050073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0QHMuGSmk",
+              "end": 44,
+              "expanded_url": "https://x.com/Chris032109/status/2060380341375050073/photo/1",
+              "media_key": "3_2060380339093286912",
+              "start": 21,
+              "url": "https://t.co/c0QHMuGSmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060380341375050073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次被打賞呢，嘻嘻，會更努力的更新的！ https://t.co/c0QHMuGSmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 288,
+          "like_count": 1257,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 280
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-11T15:12:22.000Z",
+        "description": "本人173，155，喜欢可爱的东西，可爱男娘请找我贴贴~希望得到关注，也在努力变得更好看！喜欢打瓦（上学ing）QQ2227076674",
+        "id": "1822652206870589440",
+        "location": "四川",
+        "name": "克里斯是厄里斯.（求關注，互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056605523727044609/2KAYIE4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 213,
+          "like_count": 1163,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 167
+        },
+        "username": "Chris032109",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044307045890043904"
+      ],
+      "media_source_tweet_id": [
+        "2044307059353743458"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2045428637135258030",
+    "created_at": "2026-04-18T09:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045428637135258030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044140394108334082",
+          "start": 3,
+          "username": "hualiovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QMBbUbdmAx",
+          "end": 39,
+          "expanded_url": "https://x.com/hualiovo/status/2044307059353743458/photo/1",
+          "media_key": "3_2044307045890043904",
+          "start": 16,
+          "url": "https://t.co/QMBbUbdmAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045428637135258030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044307059353743458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hualiovo: 🍓 https://t.co/QMBbUbdmAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2044307045890043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7WbVIasAAT1Cp.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044307045890043904"
+          ],
+          "media_source_tweet_id": [
+            "2044307059353743458"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2045428637135258030",
+        "created_at": "2026-04-18T09:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045428637135258030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044140394108334082",
+              "start": 3,
+              "username": "hualiovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMBbUbdmAx",
+              "end": 39,
+              "expanded_url": "https://x.com/hualiovo/status/2044307059353743458/photo/1",
+              "media_key": "3_2044307045890043904",
+              "start": 16,
+              "url": "https://t.co/QMBbUbdmAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045428637135258030",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044307059353743458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hualiovo: 🍓 https://t.co/QMBbUbdmAx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044307045890043904"
+          ]
+        },
+        "author_id": "2044140394108334082",
+        "conversation_id": "2044307059353743458",
+        "created_at": "2026-04-15T06:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044307059353743458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMBbUbdmAx",
+              "end": 25,
+              "expanded_url": "https://x.com/hualiovo/status/2044307059353743458/photo/1",
+              "media_key": "3_2044307045890043904",
+              "start": 2,
+              "url": "https://t.co/QMBbUbdmAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044307059353743458",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 8302,
+          "like_count": 857,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "🍓 https://t.co/QMBbUbdmAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 229,
+          "like_count": 983,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 170
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "记录自己不够鲜活死气沉沉没有未来的生活\n无雷点fps小高手三角洲唐人\n互fo私信\n无门槛，前生hualiqwq",
+        "id": "2044140394108334082",
+        "name": "相似蛋糕拆开🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044141371435692032/4OvCQC1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

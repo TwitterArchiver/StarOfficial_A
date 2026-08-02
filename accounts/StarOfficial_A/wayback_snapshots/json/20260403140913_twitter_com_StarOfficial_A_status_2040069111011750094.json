@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040057799686914048"
+      ],
+      "media_source_tweet_id": [
+        "2040057973956137223"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "2040069111011750094",
+    "created_at": "2026-04-03T14:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040069111011750094"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 34,
+          "start": 25,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "拉菲"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "碧蓝航线"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "ラフィー"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "アズールレーン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1384157581900271618",
+          "start": 3,
+          "username": "UkabuyumeOwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3jUxNXTm5",
+          "end": 83,
+          "expanded_url": "https://x.com/UkabuyumeOwO/status/2040057973956137223/photo/1",
+          "media_key": "3_2040057799686914048",
+          "start": 60,
+          "url": "https://t.co/s3jUxNXTm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040069111011750094",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040057973956137223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UkabuyumeOwO: #着ぐるみ  #kigurumi #拉菲 #碧蓝航线 #ラフィー #アズールレーン https://t.co/s3jUxNXTm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040057799686914048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-9wpeagAAo69l.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040057799686914048"
+          ],
+          "media_source_tweet_id": [
+            "2040057973956137223"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2040069111011750094",
+        "created_at": "2026-04-03T14:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040069111011750094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "拉菲"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "碧蓝航线"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ラフィー"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "アズールレーン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1384157581900271618",
+              "start": 3,
+              "username": "UkabuyumeOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3jUxNXTm5",
+              "end": 83,
+              "expanded_url": "https://x.com/UkabuyumeOwO/status/2040057973956137223/photo/1",
+              "media_key": "3_2040057799686914048",
+              "start": 60,
+              "url": "https://t.co/s3jUxNXTm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040069111011750094",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040057973956137223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UkabuyumeOwO: #着ぐるみ  #kigurumi #拉菲 #碧蓝航线 #ラフィー #アズールレーン https://t.co/s3jUxNXTm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040057799686914048"
+          ]
+        },
+        "author_id": "1384157581900271618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2040057973956137223",
+        "created_at": "2026-04-03T13:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040057973956137223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "拉菲"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "碧蓝航线"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ラフィー"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "アズールレーン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3jUxNXTm5",
+              "end": 65,
+              "expanded_url": "https://x.com/UkabuyumeOwO/status/2040057973956137223/photo/1",
+              "media_key": "3_2040057799686914048",
+              "start": 42,
+              "url": "https://t.co/s3jUxNXTm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040057973956137223",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 296,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#着ぐるみ  #kigurumi #拉菲 #碧蓝航线 #ラフィー #アズールレーン https://t.co/s3jUxNXTm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 148,
+          "like_count": 757,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 126
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-19T14:51:12.000Z",
+        "description": "@benchuziwuxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "benchuziwuxian"
+              }
+            ]
+          }
+        },
+        "id": "1384157581900271618",
+        "location": "022",
+        "name": "浮梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977090501850677248/vbQFRFea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9633,
+          "following_count": 1996,
+          "like_count": 2578,
+          "listed_count": 60,
+          "media_count": 119,
+          "tweet_count": 424
+        },
+        "username": "UkabuyumeOwO",
+        "verified": false
+      }
+    ]
+  }
+}

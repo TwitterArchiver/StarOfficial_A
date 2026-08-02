@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070223843961237504",
+        "3_2070223844544311296"
+      ],
+      "media_source_tweet_id": [
+        "2070223849090920734",
+        "2070223849090920734"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2070441182782706006",
+    "created_at": "2026-06-26T09:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070441182782706006"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "男の娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543851090541944833",
+          "start": 3,
+          "username": "Surmarshincs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pIJ0XiAUP",
+          "end": 115,
+          "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+          "media_key": "3_2070223843961237504",
+          "start": 92,
+          "url": "https://t.co/7pIJ0XiAUP"
+        },
+        {
+          "display_url": "pic.x.com/7pIJ0XiAUP",
+          "end": 115,
+          "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+          "media_key": "3_2070223844544311296",
+          "start": 92,
+          "url": "https://t.co/7pIJ0XiAUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070441182782706006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070223849090920734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Surmarshincs: 男娘就是这样……\n白天出去工作的时候当男的干苦力哼哧哼哧地工作，晚上还得当娘们哼唧哼唧地喘……\n为世界奉献（榨干）所有力量（价值）QWQ\n#男の娘 https://t.co/7pIJ0XiAUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2070223843961237504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrpnhjacAAvEov.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070223844544311296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrpnjubcAA_rzt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070223843961237504",
+            "3_2070223844544311296"
+          ],
+          "media_source_tweet_id": [
+            "2070223849090920734",
+            "2070223849090920734"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2070441182782706006",
+        "created_at": "2026-06-26T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070441182782706006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543851090541944833",
+              "start": 3,
+              "username": "Surmarshincs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pIJ0XiAUP",
+              "end": 115,
+              "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+              "media_key": "3_2070223843961237504",
+              "start": 92,
+              "url": "https://t.co/7pIJ0XiAUP"
+            },
+            {
+              "display_url": "pic.x.com/7pIJ0XiAUP",
+              "end": 115,
+              "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+              "media_key": "3_2070223844544311296",
+              "start": 92,
+              "url": "https://t.co/7pIJ0XiAUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070441182782706006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070223849090920734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Surmarshincs: 男娘就是这样……\n白天出去工作的时候当男的干苦力哼哧哼哧地工作，晚上还得当娘们哼唧哼唧地喘……\n为世界奉献（榨干）所有力量（价值）QWQ\n#男の娘 https://t.co/7pIJ0XiAUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070223843961237504",
+            "3_2070223844544311296"
+          ]
+        },
+        "author_id": "1543851090541944833",
+        "conversation_id": "2070223849090920734",
+        "created_at": "2026-06-25T19:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070223849090920734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pIJ0XiAUP",
+              "end": 97,
+              "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+              "media_key": "3_2070223843961237504",
+              "start": 74,
+              "url": "https://t.co/7pIJ0XiAUP"
+            },
+            {
+              "display_url": "pic.x.com/7pIJ0XiAUP",
+              "end": 97,
+              "expanded_url": "https://x.com/Surmarshincs/status/2070223849090920734/photo/1",
+              "media_key": "3_2070223844544311296",
+              "start": 74,
+              "url": "https://t.co/7pIJ0XiAUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070223849090920734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 795,
+          "impression_count": 201016,
+          "like_count": 2790,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "男娘就是这样……\n白天出去工作的时候当男的干苦力哼哧哼哧地工作，晚上还得当娘们哼唧哼唧地喘……\n为世界奉献（榨干）所有力量（价值）QWQ\n#男の娘 https://t.co/7pIJ0XiAUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 312,
+          "like_count": 1391,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T06:56:53.000Z",
+        "description": "喵喵~这里是感冒菌🍥🏳️‍⚧️，叫我菌菌或者私斋都可以哦～是一只03年持证含糖mtf，hrt：2024.8\n📖 电气工程及其自动化学士\n🎀 爱好女装、cos，算法，偶尔逛逛技术社区，敲喜欢二次元喵~\n🍬 戀歷：0\n🖊️ 随缘更新\n💌 欢迎同类同好互fo喵🥰\n（请不要擅自把菌菌的照片发到墙内谢谢喵）",
+        "id": "1543851090541944833",
+        "name": "感冒菌（菌菌）",
+        "pinned_tweet_id": "2063968151273189383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029989134065094657/h1uFKinL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1196,
+          "like_count": 826,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "Surmarshincs",
+        "verified": false
+      }
+    ]
+  }
+}

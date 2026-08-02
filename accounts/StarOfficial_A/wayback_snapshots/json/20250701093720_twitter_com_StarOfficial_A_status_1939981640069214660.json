@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "1939981640069214660",
+    "created_at": "2025-07-01T09:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T10:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939981640069214660"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "V-phon",
+          "probability": 0.3216,
+          "start": 33,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780071955754094592",
+          "start": 3,
+          "username": "temuthan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939981640069214660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1412
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939632960027947219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @temuthan: VRchatで自分のスマホを操作できるV-phon現在開発中～その6\n少しだけアップデート！！カーソルの色とサイズをユーザーカスタムで選べるようにしたよー。\n後、現実のスマホと違って、タップする時手がブレるからスタビライズ機能を追加して、調整できるよ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27509,
+        "height": 480,
+        "media_key": "13_1939632839126908928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939632839126908928/img/gUjDMgerJ-ypul7H.jpg",
+        "public_metrics": {
+          "view_count": 100013
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939632839126908928/vid/avc1/320x320/T5FKS-k3PFq6OswN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939632839126908928/vid/avc1/480x480/nrc3Ao9a57_NRxMh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939632839126908928/pl/SiLgffDaDEBi7KE7.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1939981640069214660",
+        "created_at": "2025-07-01T09:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939981640069214660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "V-phon",
+              "probability": 0.3216,
+              "start": 33,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780071955754094592",
+              "start": 3,
+              "username": "temuthan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939981640069214660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1412
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939632960027947219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @temuthan: VRchatで自分のスマホを操作できるV-phon現在開発中～その6\n少しだけアップデート！！カーソルの色とサイズをユーザーカスタムで選べるようにしたよー。\n後、現実のスマホと違って、タップする時手がブレるからスタビライズ機能を追加して、調整できるよ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939632839126908928"
+          ]
+        },
+        "author_id": "1780071955754094592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1939632960027947219",
+        "created_at": "2025-06-30T10:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939632960027947219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "phon",
+              "probability": 0.3973,
+              "start": 21,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 136,
+              "tag": "VRchat"
+            },
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "拡散希望"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvgihRPhfL",
+              "end": 173,
+              "expanded_url": "https://x.com/temuthan/status/1939632960027947219/video/1",
+              "media_key": "13_1939632839126908928",
+              "start": 150,
+              "url": "https://t.co/cvgihRPhfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939632960027947219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1836,
+          "impression_count": 313547,
+          "like_count": 6020,
+          "quote_count": 145,
+          "reply_count": 15,
+          "retweet_count": 1412
+        },
+        "reply_settings": "everyone",
+        "text": "VRchatで自分のスマホを操作できるV-phon現在開発中～その6\n少しだけアップデート！！カーソルの色とサイズをユーザーカスタムで選べるようにしたよー。\n後、現実のスマホと違って、タップする時手がブレるからスタビライズ機能を追加して、調整できるようにした、めちゃ快適！＃VRchat #拡散希望 https://t.co/cvgihRPhfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n目前无糖 | mtx\n可以在VRChat找咱玩 名称Star_Official\n有空也可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉stat酱Kira~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T03:13:32.000Z",
+        "description": "てむちゃん、爆誕\nBOOTHにて主にワールドギミックを販売しています。\nbooth:  https://t.co/fKS7zg5CFR\nVRCグループ：https://t.co/rRG3CKPBrr\nAEWAPsディスコード：https://t.co/MmLqBozbZv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aewaps.booth.pm",
+                "end": 67,
+                "expanded_url": "https://aewaps.booth.pm/",
+                "start": 44,
+                "url": "https://t.co/fKS7zg5CFR"
+              },
+              {
+                "display_url": "vrc.group/AEWAPS.7215",
+                "end": 99,
+                "expanded_url": "https://vrc.group/AEWAPS.7215",
+                "start": 76,
+                "url": "https://t.co/rRG3CKPBrr"
+              },
+              {
+                "display_url": "discord.gg/9qb9wP7kjm",
+                "end": 136,
+                "expanded_url": "https://discord.gg/9qb9wP7kjm",
+                "start": 113,
+                "url": "https://t.co/MmLqBozbZv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aewaps.booth.pm",
+                "end": 23,
+                "expanded_url": "https://aewaps.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/fKS7zg5CFR"
+              }
+            ]
+          }
+        },
+        "id": "1780071955754094592",
+        "name": "てむちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929878350392446978/Whb6E5R1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 324,
+          "like_count": 636,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/fKS7zg5CFR",
+        "username": "temuthan",
+        "verified": false
+      }
+    ]
+  }
+}

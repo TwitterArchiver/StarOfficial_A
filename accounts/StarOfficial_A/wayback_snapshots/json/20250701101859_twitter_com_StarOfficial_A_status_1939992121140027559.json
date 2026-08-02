@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1939675765496586736",
+    "created_at": "2025-07-01T10:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T11:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939992121140027559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1401129927013855237",
+          "start": 0,
+          "username": "QishuiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939992121140027559",
+    "in_reply_to_user_id": "1401129927013855237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939989936599703927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QishuiQ 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1939675765496586736",
+        "created_at": "2025-07-01T10:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939992121140027559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1401129927013855237",
+              "start": 0,
+              "username": "QishuiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939992121140027559",
+        "in_reply_to_user_id": "1401129927013855237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939989936599703927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QishuiQ 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401129927013855237",
+        "conversation_id": "1939675765496586736",
+        "created_at": "2025-07-01T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939989936599703927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939989936599703927",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939675765496586736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 一起聊天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n目前无糖 | mtx\n可以在VRChat找咱玩 名称Star_Official\n有空也可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉stat酱Kira~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T10:53:12.000Z",
+        "description": "一瓶恰糖的汽水~\n可以喊我汽水酱｜无证含糖🍥｜ HRT（2021/6/12）｜喜欢所有好吃的美食甜品🍰（是个吃货）｜喜欢打电动｜日常刷推看心情发推~｜同类互fo🏳️‍⚧️~\n已深知这家伙特别怪，但丝毫不影响你可以跟她交朋友！！\n注：不圆角，不od！！！",
+        "id": "1401129927013855237",
+        "location": "地球",
+        "name": "悠梓曦然然🍥",
+        "pinned_tweet_id": "1893466983741407395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885739287527993344/XxKZMXil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 73,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 149
+        },
+        "username": "QishuiQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2070469991502418430",
+    "created_at": "2026-06-26T14:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070510117825720486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3039883009",
+          "start": 0,
+          "username": "taigafan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070510117825720486",
+    "in_reply_to_user_id": "3039883009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070469991502418430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taigafan 苏州人考不上苏大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2070469980274212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvJeixawAAV3X9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2070469991502418430",
+        "created_at": "2026-06-26T14:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070510117825720486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3039883009",
+              "start": 0,
+              "username": "taigafan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070510117825720486",
+        "in_reply_to_user_id": "3039883009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070469991502418430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taigafan 苏州人考不上苏大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070469980274212864"
+          ]
+        },
+        "author_id": "3039883009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          }
+        ],
+        "conversation_id": "2070469991502418430",
+        "created_at": "2026-06-26T11:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070469991502418430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVrCu4sbvv",
+              "end": 190,
+              "expanded_url": "https://x.com/taigafan/status/2070469991502418430/photo/1",
+              "media_key": "3_2070469980274212864",
+              "start": 167,
+              "url": "https://t.co/oVrCu4sbvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070469991502418430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1591,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苏州大学（Soochow University）位于中国江苏省苏州市，是教育部与江苏省共建“双一流”建设高校、国家航天局共建高校、“211工程”高校。\n历年被评为“中国十大最美校园”，首批17所国家试点学院承接高校，2025软科世界大学学术排名中国内地第14~27位，US NEWS排名中国内地第40位，ESL排名中国内地第25位。 https://t.co/oVrCu4sbvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 313,
+          "like_count": 1396,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-24T15:43:30.000Z",
+        "description": "東方Project / 艦これ@ブイン / 苏州大学麻将部退役领队 / 島津風と #地雷系 女装が好きな人 / 清水Kigurumi #着ぐるみ in樋口楓&天津風 / 兴趣使然的绳楽坂魔法店@KagurazakaDolls / 和男娘女朋友的伪百合爱情长跑2016.07~永远",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "地雷系"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KagurazakaDolls"
+              }
+            ]
+          }
+        },
+        "id": "3039883009",
+        "location": "中国 苏州-上海",
+        "name": "神楽坂 紫苑",
+        "pinned_tweet_id": "2057317204706898344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904754785049600004/UK-CFtj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 875,
+          "like_count": 89,
+          "listed_count": 23,
+          "media_count": 303,
+          "tweet_count": 2406
+        },
+        "url": "",
+        "username": "taigafan",
+        "verified": false
+      }
+    ]
+  }
+}

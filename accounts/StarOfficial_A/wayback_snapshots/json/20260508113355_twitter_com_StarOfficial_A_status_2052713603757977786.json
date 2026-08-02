@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040623648353251328"
+      ],
+      "media_source_tweet_id": [
+        "2040623659069653117"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2052713603757977786",
+    "created_at": "2026-05-08T11:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052713603757977786"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "白丝loli"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "白丝雪糕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gn2u4GFdLu",
+          "end": 68,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2040623659069653117/photo/1",
+          "media_key": "3_2040623648353251328",
+          "start": 45,
+          "url": "https://t.co/gn2u4GFdLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052713603757977786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040623659069653117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: #白丝loli #白丝雪糕 AAA雪糕批发小星星 https://t.co/gn2u4GFdLu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2040623648353251328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHAZYBbcAAOjLj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040623648353251328"
+          ],
+          "media_source_tweet_id": [
+            "2040623659069653117"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2052713603757977786",
+        "created_at": "2026-05-08T11:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052713603757977786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "白丝loli"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "白丝雪糕"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn2u4GFdLu",
+              "end": 68,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2040623659069653117/photo/1",
+              "media_key": "3_2040623648353251328",
+              "start": 45,
+              "url": "https://t.co/gn2u4GFdLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713603757977786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040623659069653117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: #白丝loli #白丝雪糕 AAA雪糕批发小星星 https://t.co/gn2u4GFdLu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040623648353251328"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2040623659069653117",
+        "created_at": "2026-04-05T02:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040623659069653117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "白丝loli"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "白丝雪糕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn2u4GFdLu",
+              "end": 48,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2040623659069653117/photo/1",
+              "media_key": "3_2040623648353251328",
+              "start": 25,
+              "url": "https://t.co/gn2u4GFdLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040623659069653117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5602,
+          "like_count": 316,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#白丝loli #白丝雪糕 AAA雪糕批发小星星 https://t.co/gn2u4GFdLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 278,
+          "like_count": 1195,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 255
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

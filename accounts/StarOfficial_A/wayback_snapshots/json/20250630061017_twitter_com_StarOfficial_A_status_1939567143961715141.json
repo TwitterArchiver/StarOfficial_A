@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1939567143961715141",
+    "created_at": "2025-06-30T06:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939567143961715141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1381314744703799297",
+          "start": 3,
+          "username": "HZWM3zPY4RhqZi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939567143961715141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1753675510448890288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HZWM3zPY4RhqZi3: 我一直在想要怎么比喻这种一口气把超长拉珠从屁穴里拉出来的画面。但都比较抽象，毕竟我总不能真说我把你像是陀螺发射器一样把超长的皮条塞进去然后一口气全抽出来，你高潮速度和陀螺速度成正比，拉的越快，高潮颤抖越快，噗噗噗噗噗的猛猛抽。 http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939567143961715141].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939567143961715141",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939567143961715141"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_1753675385966092288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GFZOeN_a4AAdUos.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1753675385966092288"
+          ]
+        },
+        "author_id": "1381314744703799297",
+        "conversation_id": "1753675510448890288",
+        "created_at": "2024-02-03T07:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-03T08:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1753675510448890288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKDUVZfnd8",
+              "end": 137,
+              "expanded_url": "https://x.com/HZWM3zPY4RhqZi3/status/1753675510448890288/photo/1",
+              "media_key": "3_1753675385966092288",
+              "start": 114,
+              "url": "https://t.co/sKDUVZfnd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1753675510448890288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 39905,
+          "like_count": 323,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想要怎么比喻这种一口气把超长拉珠从屁穴里拉出来的画面。但都比较抽象，毕竟我总不能真说我把你像是陀螺发射器一样把超长的皮条塞进去然后一口气全抽出来，你高潮速度和陀螺速度成正比，拉的越快，高潮颤抖越快，噗噗噗噗噗的猛猛抽。 https://t.co/sKDUVZfnd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n无糖 | mtx\n+q 3427507791注明来意 有空可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "Star☆official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 30,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T18:34:41.000Z",
+        "description": "这里是月 ，语c、erp、文爱——黑心、温柔系、婊系、剧情向。全精通，技术超强，正在杀出地狱\n（If the use of pictures violates your rights and interests, I will delete）\nhttps://t.co/WCYtPZo4FU 电报群的入口。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VBmPD_qOMdUzN…",
+                "end": 145,
+                "expanded_url": "https://t.me/+VBmPD_qOMdUzNDZl",
+                "start": 122,
+                "url": "https://t.co/WCYtPZo4FU"
+              }
+            ]
+          }
+        },
+        "id": "1381314744703799297",
+        "location": "恶堕调教所",
+        "name": "♠️鸢舞月❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905621993359376386/2KETX3La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13439,
+          "following_count": 321,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 1718
+        },
+        "username": "HZWM3zPY4RhqZi3",
+        "verified": false
+      }
+    ]
+  }
+}

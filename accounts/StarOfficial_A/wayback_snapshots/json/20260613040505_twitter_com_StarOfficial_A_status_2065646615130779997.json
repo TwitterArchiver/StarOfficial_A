@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065646607081824256"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2065646615130779997",
+    "created_at": "2026-06-13T04:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065646615130779997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750594892630495233",
+          "start": 2,
+          "username": "xngrnh173724"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqU2ph8IYW",
+          "end": 43,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2065646615130779997/photo/1",
+          "media_key": "3_2065646607081824256",
+          "start": 20,
+          "url": "https://t.co/kqU2ph8IYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065646615130779997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@xngrnh173724送的鞋～ https://t.co/kqU2ph8IYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2065646607081824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqmpRaaYAAbALP.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065646607081824256"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2065646615130779997",
+        "created_at": "2026-06-13T04:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065646615130779997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750594892630495233",
+              "start": 2,
+              "username": "xngrnh173724"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqU2ph8IYW",
+              "end": 43,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2065646615130779997/photo/1",
+              "media_key": "3_2065646607081824256",
+              "start": 20,
+              "url": "https://t.co/kqU2ph8IYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065646615130779997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@xngrnh173724送的鞋～ https://t.co/kqU2ph8IYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 301,
+          "like_count": 1333,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 288
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T19:02:09.000Z",
+        "description": "不善言辞，但请多多包涵，不定期分享女装，接受任何合理的意见，希望可以和大家是朋友(˵¯͒〰¯͒˵)",
+        "id": "1750594892630495233",
+        "name": "杏仁Chocolate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902085477043515392/AVAQNNIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 79,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 84
+        },
+        "username": "xngrnh173724",
+        "verified": false
+      }
+    ]
+  }
+}

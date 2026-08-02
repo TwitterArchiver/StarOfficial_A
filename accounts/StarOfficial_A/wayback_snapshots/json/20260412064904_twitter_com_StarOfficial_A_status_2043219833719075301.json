@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041083739498012672"
+      ],
+      "media_source_tweet_id": [
+        "2041083742434021739"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2043219833719075301",
+    "created_at": "2026-04-12T06:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043219833719075301"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "碧蓝档案"
+        },
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "cosplay"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "白洲アズサ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929221476827443200",
+          "start": 3,
+          "username": "koiuta514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I09egA5JFr",
+          "end": 82,
+          "expanded_url": "https://x.com/koiuta514/status/2041083742434021739/photo/1",
+          "media_key": "3_2041083739498012672",
+          "start": 59,
+          "url": "https://t.co/I09egA5JFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043219833719075301",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041083742434021739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koiuta514: 💜💜\n#BlueArchive #碧蓝档案 #ブルアカ #cosplay #白洲アズサ https://t.co/I09egA5JFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041083739498012672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNi2NGa4AAIxg3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041083739498012672"
+          ],
+          "media_source_tweet_id": [
+            "2041083742434021739"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2043219833719075301",
+        "created_at": "2026-04-12T06:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043219833719075301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "cosplay"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "白洲アズサ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929221476827443200",
+              "start": 3,
+              "username": "koiuta514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I09egA5JFr",
+              "end": 82,
+              "expanded_url": "https://x.com/koiuta514/status/2041083742434021739/photo/1",
+              "media_key": "3_2041083739498012672",
+              "start": 59,
+              "url": "https://t.co/I09egA5JFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043219833719075301",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041083742434021739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koiuta514: 💜💜\n#BlueArchive #碧蓝档案 #ブルアカ #cosplay #白洲アズサ https://t.co/I09egA5JFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041083739498012672"
+          ]
+        },
+        "author_id": "1929221476827443200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2041083742434021739",
+        "created_at": "2026-04-06T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041083742434021739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 3,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "cosplay"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "白洲アズサ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I09egA5JFr",
+              "end": 67,
+              "expanded_url": "https://x.com/koiuta514/status/2041083742434021739/photo/1",
+              "media_key": "3_2041083739498012672",
+              "start": 44,
+              "url": "https://t.co/I09egA5JFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041083742434021739",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 22643,
+          "like_count": 1807,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "💜💜\n#BlueArchive #碧蓝档案 #ブルアカ #cosplay #白洲アズサ https://t.co/I09egA5JFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 219,
+          "like_count": 944,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 165
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T17:00:37.000Z",
+        "description": "你好呀，这是我专门用来发照片的号，本人ba玩家，业余玩玩cosplay，还有很多照片存货，会慢慢发，也会有新图的♥\nHello, this is my account dedicated to posting photos. I'm a BA player, and I casually do some cosplay",
+        "id": "1929221476827443200",
+        "name": "koiuta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929225795500908544/LvRfnU2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4638,
+          "following_count": 237,
+          "like_count": 1434,
+          "listed_count": 21,
+          "media_count": 86,
+          "tweet_count": 136
+        },
+        "username": "koiuta514",
+        "verified": false
+      }
+    ]
+  }
+}

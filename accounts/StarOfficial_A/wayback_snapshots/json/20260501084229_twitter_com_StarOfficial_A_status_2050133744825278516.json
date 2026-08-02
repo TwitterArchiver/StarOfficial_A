@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050133736902258688"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2050133744825278516",
+    "created_at": "2026-05-01T08:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050133744825278516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 11,
+          "tag": "Lolita"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "光腿"
+        },
+        {
+          "end": 37,
+          "start": 23,
+          "tag": "LolitaFashion"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "腿控"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uzMtutHcKx",
+          "end": 65,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2050133744825278516/photo/1",
+          "media_key": "3_2050133736902258688",
+          "start": 42,
+          "url": "https://t.co/uzMtutHcKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050133744825278516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星星是好女孩吗（？）\n#Lolita #光腿 #LolitaFashion #腿控 https://t.co/uzMtutHcKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050133736902258688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOJxYoacAANbXC.jpg",
+        "width": 1406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050133736902258688"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2050133744825278516",
+        "created_at": "2026-05-01T08:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050133744825278516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "Lolita"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "光腿"
+            },
+            {
+              "end": 37,
+              "start": 23,
+              "tag": "LolitaFashion"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "腿控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzMtutHcKx",
+              "end": 65,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2050133744825278516/photo/1",
+              "media_key": "3_2050133736902258688",
+              "start": 42,
+              "url": "https://t.co/uzMtutHcKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050133744825278516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星星是好女孩吗（？）\n#Lolita #光腿 #LolitaFashion #腿控 https://t.co/uzMtutHcKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 273,
+          "like_count": 1138,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 224
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

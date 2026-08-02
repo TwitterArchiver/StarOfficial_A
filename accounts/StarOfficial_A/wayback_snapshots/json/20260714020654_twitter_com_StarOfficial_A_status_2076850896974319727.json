@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076850884991156224"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2076850896974319727",
+    "created_at": "2026-07-14T02:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076850896974319727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfw4Gv4PT6",
+          "end": 40,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2076850896974319727/photo/1",
+          "media_key": "3_2076850884991156224",
+          "start": 17,
+          "url": "https://t.co/pfw4Gv4PT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076850896974319727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说我好渴，他一急把茶倒我嘴里了 https://t.co/pfw4Gv4PT6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076850884991156224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJ04FNagAA6JKP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076850884991156224"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2076850896974319727",
+        "created_at": "2026-07-14T02:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076850896974319727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfw4Gv4PT6",
+              "end": 40,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2076850896974319727/photo/1",
+              "media_key": "3_2076850884991156224",
+              "start": 17,
+              "url": "https://t.co/pfw4Gv4PT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076850896974319727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我好渴，他一急把茶倒我嘴里了 https://t.co/pfw4Gv4PT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 326,
+          "like_count": 1483,
+          "listed_count": 6,
+          "media_count": 80,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

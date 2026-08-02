@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2055940737485992039",
+    "created_at": "2026-05-17T10:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055960605484556606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043753336357195776",
+          "start": 0,
+          "username": "xia_da10565"
+        },
+        {
+          "end": 29,
+          "id": "1760882325632819200",
+          "start": 13,
+          "username": "yukiusagi019549"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055960605484556606",
+    "in_reply_to_user_id": "2043753336357195776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055952533928259737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_da10565 @yukiusagi019549 我吃了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2055940737485992039",
+        "created_at": "2026-05-17T10:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055960605484556606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043753336357195776",
+              "start": 0,
+              "username": "xia_da10565"
+            },
+            {
+              "end": 29,
+              "id": "1760882325632819200",
+              "start": 13,
+              "username": "yukiusagi019549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055960605484556606",
+        "in_reply_to_user_id": "2043753336357195776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055952533928259737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_da10565 @yukiusagi019549 我吃了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043753336357195776",
+        "conversation_id": "2055940737485992039",
+        "created_at": "2026-05-17T10:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055952533928259737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            },
+            {
+              "end": 32,
+              "id": "1760882325632819200",
+              "start": 16,
+              "username": "yukiusagi019549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055952533928259737",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055940737485992039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A @yukiusagi019549 图3呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 285,
+          "like_count": 1231,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 271
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T18:09:23.000Z",
+        "description": "有生化斯坦的吗🤖",
+        "id": "2043753336357195776",
+        "name": "大瞎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043901559176867842/_bjO1CY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 86,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 92
+        },
+        "username": "xia_da10565",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:21:15.000Z",
+        "description": "这里初雪，05年持证不含糖mtf一枚～",
+        "id": "1760882325632819200",
+        "name": "雪漫冬至",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880009541519306752/Lnxwy_Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "yukiusagi019549",
+        "verified": false
+      }
+    ]
+  }
+}

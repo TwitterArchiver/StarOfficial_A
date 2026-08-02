@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2082808053393748205",
+    "created_at": "2026-07-30T16:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082870784809480225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1275413955242950659",
+          "start": 0,
+          "username": "Gob_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082870784809480225",
+    "in_reply_to_user_id": "1275413955242950659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082808053393748205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gob_aya omg怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082808053393748205",
+        "created_at": "2026-07-30T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082870784809480225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1275413955242950659",
+              "start": 0,
+              "username": "Gob_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082870784809480225",
+        "in_reply_to_user_id": "1275413955242950659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082808053393748205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gob_aya omg怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275413955242950659",
+        "conversation_id": "2082808053393748205",
+        "created_at": "2026-07-30T12:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082808053393748205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082808053393748205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 990,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有神人挂我说是，要是看到挂我信息来我主页的，欢迎私信我扩列，已导出完整聊天记录，获取完整版聊天，可以见识一下3个千人群群主，面子果实持有者的惺惺作态，看看说是cp但是什么好友都没，还想让我给人拉群里的神秘自信。顺便一说，纸面证据已经打印好了哦~如有信息泄露后果自负哦~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 325,
+          "like_count": 1599,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "我有易欲症！",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "pinned_tweet_id": "2027106267039469945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10565,
+          "following_count": 523,
+          "like_count": 3422,
+          "listed_count": 45,
+          "media_count": 114,
+          "tweet_count": 3248
+        },
+        "url": "",
+        "username": "Gob_aya",
+        "verified": false
+      }
+    ]
+  }
+}

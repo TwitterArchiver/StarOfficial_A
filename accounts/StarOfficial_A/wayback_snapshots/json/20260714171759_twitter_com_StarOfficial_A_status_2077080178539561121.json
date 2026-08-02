@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2076850896974319727",
+    "created_at": "2026-07-14T17:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077080178539561121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931350637608112128",
+          "start": 0,
+          "username": "Apu2020053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077080178539561121",
+    "in_reply_to_user_id": "1931350637608112128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077074427418939893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apu2020053 衣服是对的\n鞋子是樱色誓言的浮梦之境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2076850896974319727",
+        "created_at": "2026-07-14T17:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077080178539561121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931350637608112128",
+              "start": 0,
+              "username": "Apu2020053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077080178539561121",
+        "in_reply_to_user_id": "1931350637608112128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077074427418939893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apu2020053 衣服是对的\n鞋子是樱色誓言的浮梦之境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931350637608112128",
+        "conversation_id": "2076850896974319727",
+        "created_at": "2026-07-14T16:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077074427418939893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077074427418939893",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076850896974319727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 蛙趣 是天使二型么 鞋子也好好看ᗜⰙᗜ哪家的哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 326,
+          "like_count": 1490,
+          "listed_count": 6,
+          "media_count": 80,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-07T14:01:34.000Z",
+        "description": "创了个萌萌的lo鞋交流群（条件：三张自己的lo鞋照片，旧群被坏东西弄没了TAT 重进审核群重新审核给宝子们拉新群)🐧群1075019613 喜欢lo鞋的宝子们可以加群捏\n超级喜欢超级无敌可爱的宝宝：@shnshng8242790 (∗❛ั∀❛ั∗)✧*。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "shnshng8242790"
+              }
+            ]
+          }
+        },
+        "id": "1931350637608112128",
+        "name": "Apple_Ture",
+        "pinned_tweet_id": "2026614115276566809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931351085828235264/Vjg-TrNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 101,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "Apu2020053",
+        "verified": false
+      }
+    ]
+  }
+}

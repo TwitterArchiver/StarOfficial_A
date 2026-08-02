@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1943838263955141011",
+    "created_at": "2025-07-12T01:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T02:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943846176446632014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701267170297356288",
+          "start": 0,
+          "username": "chshu1897838236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943846176446632014",
+    "in_reply_to_user_id": "1701267170297356288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943838263955141011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chshu1897838236 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126533,
+        "height": 720,
+        "media_key": "7_1943837996823744512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1943837996823744512/pu/img/WOaCIWxbMLtHEy0V.jpg",
+        "public_metrics": {
+          "view_count": 147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943837996823744512/pu/vid/avc1/480x270/KUm_j75NLBNxMkuK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943837996823744512/pu/vid/avc1/640x360/hqu248EhJikjRs0E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943837996823744512/pu/vid/avc1/1280x720/fJc3duQUqwGrqxDu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1943837996823744512/pu/pl/K966IQ9wIrGMpj9L.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1943838263955141011",
+        "created_at": "2025-07-12T01:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T02:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943846176446632014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701267170297356288",
+              "start": 0,
+              "username": "chshu1897838236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943846176446632014",
+        "in_reply_to_user_id": "1701267170297356288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943838263955141011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chshu1897838236 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1943837996823744512"
+          ]
+        },
+        "author_id": "1701267170297356288",
+        "conversation_id": "1943838263955141011",
+        "created_at": "2025-07-12T01:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T02:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943838263955141011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Yl8ahowWA",
+              "end": 30,
+              "expanded_url": "https://x.com/chshu1897838236/status/1943838263955141011/video/1",
+              "media_key": "7_1943837996823744512",
+              "start": 7,
+              "url": "https://t.co/0Yl8ahowWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943838263955141011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 432,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想被狠狠爱了 https://t.co/0Yl8ahowWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 58,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 70
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T16:11:29.000Z",
+        "description": "169/135\n20岁，是粥批大王（兼职烧鸡），除了推特暂时没有在其他地方发放图包\n🚪88口令红包想要大家的赞助！～请最好不要转发图包到墙内哦（接广州线下陪玩～可指定目的地哦！）（置顶自辨）",
+        "id": "1701267170297356288",
+        "name": "趴来趴去的触手怪",
+        "pinned_tweet_id": "1943195798923088345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902190725971718144/Ybiu1MXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82492,
+          "following_count": 523,
+          "like_count": 4660,
+          "listed_count": 422,
+          "media_count": 414,
+          "tweet_count": 3914
+        },
+        "username": "chshu1897838236",
+        "verified": false
+      }
+    ]
+  }
+}

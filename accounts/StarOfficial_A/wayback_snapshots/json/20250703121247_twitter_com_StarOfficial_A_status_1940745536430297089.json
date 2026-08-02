@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1940714908326437226",
+    "created_at": "2025-07-03T12:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940745536430297089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940745536430297089",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940714908326437226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z 西海"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1940714893180915718",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7N6bpb0AYDJyb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1940714908326437226",
+        "created_at": "2025-07-03T12:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940745536430297089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940745536430297089",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940714908326437226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z 西海"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940714893180915718"
+          ]
+        },
+        "author_id": "1507794054511497219",
+        "conversation_id": "1940714908326437226",
+        "created_at": "2025-07-03T10:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940714908326437226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTV9D97bUU",
+              "end": 43,
+              "expanded_url": "https://x.com/Miyu__Z/status/1940714908326437226/photo/1",
+              "media_key": "3_1940714893180915718",
+              "start": 20,
+              "url": "https://t.co/WTV9D97bUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940714908326437226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人：网上的人会知道这是什么意思的（ https://t.co/WTV9D97bUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 41,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 33
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "虚假的猫猫|| 更多简介在🔗链接里|| infp|| lang:CN/EN/DE|| 有人看我我很开心，会分享很多喜欢的东西~|| xx会员到期了，亮点改不了了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ggl.link/mwwTkxa",
+                "end": 23,
+                "expanded_url": "https://ggl.link/mwwTkxa",
+                "start": 0,
+                "url": "https://t.co/Ca9DiJSquO"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "月之暗面",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 207,
+          "like_count": 7935,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/Ca9DiJSquO",
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

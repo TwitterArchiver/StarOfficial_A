@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2068252461970620602",
+    "created_at": "2026-07-27T14:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081749013217562627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054891374277980160",
+          "start": 0,
+          "username": "h7866681583443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081749013217562627",
+    "in_reply_to_user_id": "2054891374277980160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081747911713730891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h7866681583443 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068252461970620602",
+        "created_at": "2026-07-27T14:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081749013217562627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054891374277980160",
+              "start": 0,
+              "username": "h7866681583443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081749013217562627",
+        "in_reply_to_user_id": "2054891374277980160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081747911713730891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h7866681583443 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054891374277980160",
+        "conversation_id": "2068252461970620602",
+        "created_at": "2026-07-27T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081747911713730891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081747911713730891",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068252461970620602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 325,
+          "like_count": 1580,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T11:47:48.000Z",
+        "description": "0-0",
+        "id": "2054891374277980160",
+        "name": "异理星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054891534160633856/jdCYiC0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "h7866681583443",
+        "verified": false
+      }
+    ]
+  }
+}

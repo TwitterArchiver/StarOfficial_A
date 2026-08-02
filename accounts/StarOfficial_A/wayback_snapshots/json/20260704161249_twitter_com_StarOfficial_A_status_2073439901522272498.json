@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2073403161235353938",
+    "created_at": "2026-07-04T16:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073439901522272498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821504698773540864",
+          "start": 0,
+          "username": "maobohe457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073439901522272498",
+    "in_reply_to_user_id": "1821504698773540864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073403161235353938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maobohe457 烧鸡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073403150095220736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY1Lf2aAAADPoI.jpg",
+        "width": 1725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2073403161235353938",
+        "created_at": "2026-07-04T16:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073439901522272498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821504698773540864",
+              "start": 0,
+              "username": "maobohe457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073439901522272498",
+        "in_reply_to_user_id": "1821504698773540864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073403161235353938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maobohe457 烧鸡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073403150095220736"
+          ]
+        },
+        "author_id": "1821504698773540864",
+        "conversation_id": "2073403161235353938",
+        "created_at": "2026-07-04T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073403161235353938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWGcaZNidJ",
+              "end": 60,
+              "expanded_url": "https://x.com/maobohe457/status/2073403161235353938/photo/1",
+              "media_key": "3_2073403150095220736",
+              "start": 37,
+              "url": "https://t.co/OWGcaZNidJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073403161235353938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3554,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "猫薄菏这种人最狠了 去医院做痔疮手术故意不洗屁股，说要给医生一点颜色看看 https://t.co/OWGcaZNidJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 317,
+          "like_count": 1428,
+          "listed_count": 6,
+          "media_count": 65,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T11:12:37.000Z",
+        "description": "我的心颠簸摇曳   只为停泊有你的港湾\n  心有所属@GouDan_JD\n  薄荷糖@Hiyuki_xia\n  防走丢@Koharu__nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "GouDan_JD"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Hiyuki_xia"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Koharu__nya"
+              }
+            ]
+          }
+        },
+        "id": "1821504698773540864",
+        "location": "幻想乡",
+        "name": "薄荷尾調的淚",
+        "pinned_tweet_id": "1931386091657187660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063869017459482624/u-Y31vLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23301,
+          "following_count": 517,
+          "like_count": 10939,
+          "listed_count": 87,
+          "media_count": 231,
+          "tweet_count": 3737
+        },
+        "url": "",
+        "username": "maobohe457",
+        "verified": false
+      }
+    ]
+  }
+}

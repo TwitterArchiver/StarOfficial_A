@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2073725709198258309",
+    "created_at": "2026-07-05T16:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073812759784112193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763497369705082880",
+          "start": 0,
+          "username": "qianbei_lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073812759784112193",
+    "in_reply_to_user_id": "1763497369705082880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073789983794909332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianbei_lin 没有）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2073725709198258309",
+        "created_at": "2026-07-05T16:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073812759784112193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763497369705082880",
+              "start": 0,
+              "username": "qianbei_lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812759784112193",
+        "in_reply_to_user_id": "1763497369705082880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073789983794909332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianbei_lin 没有）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763497369705082880",
+        "conversation_id": "2073725709198258309",
+        "created_at": "2026-07-05T15:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073789983794909332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789983794909332",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073725709198258309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 看看伤口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 318,
+          "like_count": 1433,
+          "listed_count": 6,
+          "media_count": 67,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T09:32:01.000Z",
+        "description": "从哪能找到又玩游戏又出cos又玩绳子的搭子啊，真让我找到我当一辈子小萝莉我也愿意啊",
+        "id": "1763497369705082880",
+        "location": "浙A",
+        "name": "千北（究极颜控的究极丑东西）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073790194973888512/8GRF59TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 268,
+          "like_count": 2877,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "qianbei_lin",
+        "verified": false
+      }
+    ]
+  }
+}

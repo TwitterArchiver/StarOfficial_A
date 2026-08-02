@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081591588728541184"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2081586147780899162",
+    "created_at": "2026-07-27T04:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081591596425126091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1658879161417465860",
+          "start": 0,
+          "username": "xingchengdoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W3TZXOslyp",
+          "end": 38,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2081591596425126091/photo/1",
+          "media_key": "3_2081591588728541184",
+          "start": 15,
+          "url": "https://t.co/W3TZXOslyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081591596425126091",
+    "in_reply_to_user_id": "1658879161417465860",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081586147780899162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingchengdoro https://t.co/W3TZXOslyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2081591588728541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONMhW2bEAAZYkH.jpg",
+        "width": 664
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2081586139434237952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONHkKpawAAcw5-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081591588728541184"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2081586147780899162",
+        "created_at": "2026-07-27T04:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081591596425126091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1658879161417465860",
+              "start": 0,
+              "username": "xingchengdoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3TZXOslyp",
+              "end": 38,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2081591596425126091/photo/1",
+              "media_key": "3_2081591588728541184",
+              "start": 15,
+              "url": "https://t.co/W3TZXOslyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081591596425126091",
+        "in_reply_to_user_id": "1658879161417465860",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081586147780899162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingchengdoro https://t.co/W3TZXOslyp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081586139434237952"
+          ]
+        },
+        "author_id": "1658879161417465860",
+        "conversation_id": "2081586147780899162",
+        "created_at": "2026-07-27T03:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081586147780899162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/di1zsbaXCA",
+              "end": 23,
+              "expanded_url": "https://x.com/xingchengdoro/status/2081586147780899162/photo/1",
+              "media_key": "3_2081586139434237952",
+              "start": 0,
+              "url": "https://t.co/di1zsbaXCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081586147780899162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/di1zsbaXCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 325,
+          "like_count": 1579,
+          "listed_count": 8,
+          "media_count": 91,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-17T16:57:01.000Z",
+        "description": "人生路漫漫～小号：@XingYuTianxuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "XingYuTianxuan"
+              }
+            ]
+          }
+        },
+        "id": "1658879161417465860",
+        "location": "Yau Tsim Mong District",
+        "name": "星橙星橙星★",
+        "pinned_tweet_id": "2050948344206520787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050967210240376832/B47ONtMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 140,
+          "like_count": 1895,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "xingchengdoro",
+        "verified": false
+      }
+    ]
+  }
+}

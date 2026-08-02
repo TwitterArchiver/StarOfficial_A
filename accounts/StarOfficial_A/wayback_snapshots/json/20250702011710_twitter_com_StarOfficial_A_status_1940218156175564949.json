@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937503451694637056"
+      ],
+      "media_source_tweet_id": [
+        "1937503454483665217"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1940218156175564949",
+    "created_at": "2025-07-02T01:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940218156175564949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808604308163940352",
+          "start": 3,
+          "username": "cici20120712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rScvBDaxy",
+          "end": 41,
+          "expanded_url": "https://x.com/cici20120712/status/1937503454483665217/photo/1",
+          "media_key": "3_1937503451694637056",
+          "start": 18,
+          "url": "https://t.co/8rScvBDaxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940218156175564949",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937503454483665217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici20120712: https://t.co/8rScvBDaxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_1937503451694637056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNlH71aIAAkI0U.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937503451694637056"
+          ],
+          "media_source_tweet_id": [
+            "1937503454483665217"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1940218156175564949",
+        "created_at": "2025-07-02T01:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940218156175564949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808604308163940352",
+              "start": 3,
+              "username": "cici20120712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rScvBDaxy",
+              "end": 41,
+              "expanded_url": "https://x.com/cici20120712/status/1937503454483665217/photo/1",
+              "media_key": "3_1937503451694637056",
+              "start": 18,
+              "url": "https://t.co/8rScvBDaxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940218156175564949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937503454483665217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici20120712: https://t.co/8rScvBDaxy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937503451694637056"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "1937503454483665217",
+        "created_at": "2025-06-24T13:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937503454483665217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rScvBDaxy",
+              "end": 23,
+              "expanded_url": "https://x.com/cici20120712/status/1937503454483665217/photo/1",
+              "media_key": "3_1937503451694637056",
+              "start": 0,
+              "url": "https://t.co/8rScvBDaxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937503454483665217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 110866,
+          "like_count": 1459,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8rScvBDaxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 36,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "绝赞复活赛中\n门槛68喵",
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "1874320620915392925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64960,
+          "following_count": 84,
+          "like_count": 597,
+          "listed_count": 156,
+          "media_count": 517,
+          "tweet_count": 907
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

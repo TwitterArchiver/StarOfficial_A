@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938997037636145152"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1938997049925718350",
+    "created_at": "2025-06-28T16:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T17:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938997049925718350"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "碧蓝档案"
+        },
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "男の娘"
+        },
+        {
+          "end": 18,
+          "start": 11,
+          "tag": "可爱の男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fDNpB4Gldw",
+          "end": 74,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1938997049925718350/photo/1",
+          "media_key": "3_1938997037636145152",
+          "start": 51,
+          "url": "https://t.co/fDNpB4Gldw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938997049925718350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#碧蓝档案 #男の娘 #可爱の男孩子 正式确诊为：拉菲\n具体症状为  身体每天软乎乎 遇到困难呼噜噜 https://t.co/fDNpB4Gldw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_1938997037636145152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuiziFDWUAAcftP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938997037636145152"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1938997049925718350",
+        "created_at": "2025-06-28T16:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938997049925718350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "碧蓝档案"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "男の娘"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDNpB4Gldw",
+              "end": 74,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1938997049925718350/photo/1",
+              "media_key": "3_1938997037636145152",
+              "start": 51,
+              "url": "https://t.co/fDNpB4Gldw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938997049925718350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#碧蓝档案 #男の娘 #可爱の男孩子 正式确诊为：拉菲\n具体症状为  身体每天软乎乎 遇到困难呼噜噜 https://t.co/fDNpB4Gldw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n无糖 | mtx\n+q 3427507791注明来意 有空可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "Star☆official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

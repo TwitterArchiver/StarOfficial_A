@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941730806621257728"
+      ],
+      "media_source_tweet_id": [
+        "1941730815853068781"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2000092982322897012",
+    "created_at": "2025-12-14T06:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000092982322897012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUMb5LTQKH",
+          "end": 43,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1941730815853068781/photo/1",
+          "media_key": "3_1941730806621257728",
+          "start": 20,
+          "url": "https://t.co/lUMb5LTQKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000092982322897012",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941730815853068781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: https://t.co/lUMb5LTQKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_1941730806621257728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJp4YIXwAAxOSV.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941730806621257728"
+          ],
+          "media_source_tweet_id": [
+            "1941730815853068781"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2000092982322897012",
+        "created_at": "2025-12-14T06:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000092982322897012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUMb5LTQKH",
+              "end": 43,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1941730815853068781/photo/1",
+              "media_key": "3_1941730806621257728",
+              "start": 20,
+              "url": "https://t.co/lUMb5LTQKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000092982322897012",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941730815853068781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: https://t.co/lUMb5LTQKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941730806621257728"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941730815853068781",
+        "created_at": "2025-07-06T05:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941730815853068781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUMb5LTQKH",
+              "end": 23,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1941730815853068781/photo/1",
+              "media_key": "3_1941730806621257728",
+              "start": 0,
+              "url": "https://t.co/lUMb5LTQKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941730815853068781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lUMb5LTQKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 79,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 83
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2076186513554223605",
+    "created_at": "2026-07-12T06:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076188927795548413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908810599670362112",
+          "start": 0,
+          "username": "youzi130428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076188927795548413",
+    "in_reply_to_user_id": "1908810599670362112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076186513554223605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youzi130428 你好 我吃一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2076186510400135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAYoY_boAAztIn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2076186513554223605",
+        "created_at": "2026-07-12T06:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076188927795548413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908810599670362112",
+              "start": 0,
+              "username": "youzi130428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076188927795548413",
+        "in_reply_to_user_id": "1908810599670362112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076186513554223605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youzi130428 你好 我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076186510400135168"
+          ]
+        },
+        "author_id": "1908810599670362112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2076186513554223605",
+        "created_at": "2026-07-12T06:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076186513554223605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "捆绑"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "cosplay"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "绳艺"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qxk6xd4cw",
+              "end": 49,
+              "expanded_url": "https://x.com/youzi130428/status/2076186513554223605/photo/1",
+              "media_key": "3_2076186510400135168",
+              "start": 26,
+              "url": "https://t.co/6qxk6xd4cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076186513554223605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "旧图新发\n#捆绑 #cosplay #绳艺 #白丝 https://t.co/6qxk6xd4cw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 324,
+          "like_count": 1475,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-06T09:14:58.000Z",
+        "description": "00后/♂/喜欢漂亮裙子。\n希望能每天都有新裙子穿。\n希望能穿各种漂亮衣服挨捆。\n清水/绳子/浅调教。\n雷：药娘/精神疾病患者/露。\n聊天约绳请加🐧：3059925492，欢迎各位绳师来贴贴",
+        "id": "1908810599670362112",
+        "name": "纤纤星栀",
+        "pinned_tweet_id": "2056631936106537184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047881583236087808/XfLoAF-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 142,
+          "like_count": 2418,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "youzi130428",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1940219332749139982",
+    "created_at": "2025-07-02T04:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T05:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940269644360949924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1605588570919821313",
+          "start": 0,
+          "username": "xuesecanyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940269644360949924",
+    "in_reply_to_user_id": "1605588570919821313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940219332749139982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuesecanyue 吸溜吸溜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940219328948838400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0LMzBXoAAl07o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940219319985545216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0LMRoWoAA628l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940219320866369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0LMU6W8AA9uzh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1940219332749139982",
+        "created_at": "2025-07-02T04:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940269644360949924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1605588570919821313",
+              "start": 0,
+              "username": "xuesecanyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940269644360949924",
+        "in_reply_to_user_id": "1605588570919821313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940219332749139982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuesecanyue 吸溜吸溜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940219328948838400",
+            "3_1940219319985545216",
+            "3_1940219320866369536"
+          ]
+        },
+        "author_id": "1605588570919821313",
+        "conversation_id": "1940219332749139982",
+        "created_at": "2025-07-02T01:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940219332749139982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBSEBTFbUd",
+              "end": 55,
+              "expanded_url": "https://x.com/xuesecanyue/status/1940219332749139982/photo/1",
+              "media_key": "3_1940219328948838400",
+              "start": 32,
+              "url": "https://t.co/cBSEBTFbUd"
+            },
+            {
+              "display_url": "pic.x.com/cBSEBTFbUd",
+              "end": 55,
+              "expanded_url": "https://x.com/xuesecanyue/status/1940219332749139982/photo/1",
+              "media_key": "3_1940219319985545216",
+              "start": 32,
+              "url": "https://t.co/cBSEBTFbUd"
+            },
+            {
+              "display_url": "pic.x.com/cBSEBTFbUd",
+              "end": 55,
+              "expanded_url": "https://x.com/xuesecanyue/status/1940219332749139982/photo/1",
+              "media_key": "3_1940219320866369536",
+              "start": 32,
+              "url": "https://t.co/cBSEBTFbUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940219332749139982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 697,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "em筛选了下，貌似能发的都发完了，好了优香又要长期潜水了哦❤️ https://t.co/cBSEBTFbUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 37,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 25
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T15:38:58.000Z",
+        "description": "🤗🤗🤗好哦好哦，这里是早濑优香!喜欢玩CS,Minecraft,战争雷霆(WarThunder)等很多游戏!偶尔有时间了也会给大家拍拍腿❤️",
+        "id": "1605588570919821313",
+        "location": "千禧年科技学院",
+        "name": "早濑优香",
+        "pinned_tweet_id": "1919884531169165589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774814521007439872/PmArvate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 387,
+          "like_count": 1605,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 542
+        },
+        "username": "xuesecanyue",
+        "verified": false
+      }
+    ]
+  }
+}

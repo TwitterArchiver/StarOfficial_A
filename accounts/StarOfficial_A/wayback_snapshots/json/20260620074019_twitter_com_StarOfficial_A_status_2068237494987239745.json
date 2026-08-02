@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2068228971905646936",
+    "created_at": "2026-06-20T07:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068237494987239745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624982178848473088",
+          "start": 0,
+          "username": "qixiao_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068237494987239745",
+    "in_reply_to_user_id": "1624982178848473088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068235849863442536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixiao_0v0 omg…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068228971905646936",
+        "created_at": "2026-06-20T07:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068237494987239745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624982178848473088",
+              "start": 0,
+              "username": "qixiao_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068237494987239745",
+        "in_reply_to_user_id": "1624982178848473088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068235849863442536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixiao_0v0 omg…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624982178848473088",
+        "conversation_id": "2068228971905646936",
+        "created_at": "2026-06-20T07:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068235849863442536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068235849863442536",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068235233980465287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 主包骂我猪猪了，谢谢主包😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 310,
+          "like_count": 1380,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T04:02:11.000Z",
+        "description": "关注七咲喵，关注七咲谢谢喵~",
+        "id": "1624982178848473088",
+        "name": "七咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068224145792385024/Z5ZAQxII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 57,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "qixiao_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

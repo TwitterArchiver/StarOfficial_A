@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078765567998308352"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2078765581680128162",
+    "created_at": "2026-07-19T08:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078765581680128162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5Dd2laFZR",
+          "end": 97,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2078765581680128162/photo/1",
+          "media_key": "3_2078765567998308352",
+          "start": 74,
+          "url": "https://t.co/g5Dd2laFZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078765581680128162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群友炫耀他的新杯子：「可以加热，可以自己蠕动，还能用手机App远程遥控」\n我：「真巧，我也是」\n群友：「你买的什么牌子？」\n我：「我说，我也是…」 https://t.co/g5Dd2laFZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2078765567998308352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlCRTPaMAAo0Dm.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078765567998308352"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2078765581680128162",
+        "created_at": "2026-07-19T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078765581680128162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5Dd2laFZR",
+              "end": 97,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2078765581680128162/photo/1",
+              "media_key": "3_2078765567998308352",
+              "start": 74,
+              "url": "https://t.co/g5Dd2laFZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765581680128162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群友炫耀他的新杯子：「可以加热，可以自己蠕动，还能用手机App远程遥控」\n我：「真巧，我也是」\n群友：「你买的什么牌子？」\n我：「我说，我也是…」 https://t.co/g5Dd2laFZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 326,
+          "like_count": 1527,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

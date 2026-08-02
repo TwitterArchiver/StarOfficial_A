@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2074140474026152339",
+    "created_at": "2026-07-07T03:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074334316541497516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431080795536433154",
+          "start": 0,
+          "username": "yuluoqwq"
+        },
+        {
+          "end": 22,
+          "id": "1882027304194617344",
+          "start": 10,
+          "username": "qiuming_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074334316541497516",
+    "in_reply_to_user_id": "1431080795536433154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074140474026152339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoqwq @qiuming_0w0 可爱咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074140461258686464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjTwp-WwAA6_Zv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2074140474026152339",
+        "created_at": "2026-07-07T03:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074334316541497516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431080795536433154",
+              "start": 0,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 22,
+              "id": "1882027304194617344",
+              "start": 10,
+              "username": "qiuming_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074334316541497516",
+        "in_reply_to_user_id": "1431080795536433154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074140474026152339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoqwq @qiuming_0w0 可爱咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074140461258686464"
+          ]
+        },
+        "author_id": "1431080795536433154",
+        "conversation_id": "2074140474026152339",
+        "created_at": "2026-07-06T14:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074140474026152339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1882027304194617344",
+              "start": 9,
+              "username": "qiuming_0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fx1bAYrVmo",
+              "end": 47,
+              "expanded_url": "https://x.com/yuluoqwq/status/2074140474026152339/photo/1",
+              "media_key": "3_2074140461258686464",
+              "start": 24,
+              "url": "https://t.co/Fx1bAYrVmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074140474026152339",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 7007,
+          "like_count": 649,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "🪢&amp;📷： @qiuming_0w0 🥺 https://t.co/Fx1bAYrVmo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 312,
+          "like_count": 1436,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 1668,
+          "like_count": 42566,
+          "listed_count": 14,
+          "media_count": 276,
+          "tweet_count": 5193
+        },
+        "url": "",
+        "username": "yuluoqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T11:27:59.000Z",
+        "description": "坐标北京（已回京版～） 经典infp 🉑被缚  🉑缚手（学习练习中ing 菜鸡w）可女装喵 欢迎扩列qwq （可私信领取详细自我介绍 约玩请附带自我介绍喵～） \n喜欢跟漂亮姐姐或漂亮“姐姐”一起玩\n(所有行为均经过知情同意，无真实暴力行为发生)",
+        "id": "1882027304194617344",
+        "location": "北京",
+        "name": "秋风半夜瞑蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057358996370321409/Mo6Y1LNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 808,
+          "like_count": 1722,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "qiuming_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

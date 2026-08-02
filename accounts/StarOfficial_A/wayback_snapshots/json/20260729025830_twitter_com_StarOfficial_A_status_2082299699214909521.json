@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065885617410723840",
+        "3_2065885617423364096",
+        "3_2065885617628852224"
+      ],
+      "media_source_tweet_id": [
+        "2065885628215218372",
+        "2065885628215218372",
+        "2065885628215218372"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2082299699214909521",
+    "created_at": "2026-07-29T02:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082299699214909521"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "男娘"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750594892630495233",
+          "start": 3,
+          "username": "xngrnh173724"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ioYJeRppnD",
+          "end": 70,
+          "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+          "media_key": "3_2065885617410723840",
+          "start": 47,
+          "url": "https://t.co/ioYJeRppnD"
+        },
+        {
+          "display_url": "pic.x.com/ioYJeRppnD",
+          "end": 70,
+          "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+          "media_key": "3_2065885617423364096",
+          "start": 47,
+          "url": "https://t.co/ioYJeRppnD"
+        },
+        {
+          "display_url": "pic.x.com/ioYJeRppnD",
+          "end": 70,
+          "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+          "media_key": "3_2065885617628852224",
+          "start": 47,
+          "url": "https://t.co/ioYJeRppnD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082299699214909521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065885628215218372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xngrnh173724: 上次拍没发完的图，实话说我好喜欢这套拉菲\n#男娘 #伪娘 https://t.co/ioYJeRppnD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065885617410723840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuABgRa0AAqiH_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065885617423364096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuABgUbsAAsPuQ.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065885617628852224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuABhFbMAAHnyV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065885617410723840",
+            "3_2065885617423364096",
+            "3_2065885617628852224"
+          ]
+        },
+        "author_id": "1750594892630495233",
+        "conversation_id": "2065885628215218372",
+        "created_at": "2026-06-13T19:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065885628215218372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 52,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617410723840",
+              "start": 29,
+              "url": "https://t.co/ioYJeRppnD"
+            },
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 52,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617423364096",
+              "start": 29,
+              "url": "https://t.co/ioYJeRppnD"
+            },
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 52,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617628852224",
+              "start": 29,
+              "url": "https://t.co/ioYJeRppnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065885628215218372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6369,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "上次拍没发完的图，实话说我好喜欢这套拉菲\n#男娘 #伪娘 https://t.co/ioYJeRppnD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065885617410723840",
+            "3_2065885617423364096",
+            "3_2065885617628852224"
+          ],
+          "media_source_tweet_id": [
+            "2065885628215218372",
+            "2065885628215218372",
+            "2065885628215218372"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082299699214909521",
+        "created_at": "2026-07-29T02:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082299699214909521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750594892630495233",
+              "start": 3,
+              "username": "xngrnh173724"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 70,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617410723840",
+              "start": 47,
+              "url": "https://t.co/ioYJeRppnD"
+            },
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 70,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617423364096",
+              "start": 47,
+              "url": "https://t.co/ioYJeRppnD"
+            },
+            {
+              "display_url": "pic.x.com/ioYJeRppnD",
+              "end": 70,
+              "expanded_url": "https://x.com/xngrnh173724/status/2065885628215218372/photo/1",
+              "media_key": "3_2065885617628852224",
+              "start": 47,
+              "url": "https://t.co/ioYJeRppnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082299699214909521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065885628215218372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xngrnh173724: 上次拍没发完的图，实话说我好喜欢这套拉菲\n#男娘 #伪娘 https://t.co/ioYJeRppnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 324,
+          "like_count": 1588,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T19:02:09.000Z",
+        "description": "不善言辞，但请多多包涵，不定期分享女装，接受任何合理的意见，希望可以和大家是朋友(˵¯͒〰¯͒˵)",
+        "id": "1750594892630495233",
+        "name": "杏仁Chocolate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902085477043515392/AVAQNNIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 91,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "xngrnh173724",
+        "verified": false
+      }
+    ]
+  }
+}

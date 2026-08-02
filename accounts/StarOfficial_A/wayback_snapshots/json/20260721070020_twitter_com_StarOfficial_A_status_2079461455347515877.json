@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2079388307998531829",
+    "created_at": "2026-07-21T07:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079461455347515877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078727597555609600",
+          "start": 0,
+          "username": "qwer44c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079461455347515877",
+    "in_reply_to_user_id": "2078727597555609600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079417065061192093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwer44c 别逗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2079388307998531829",
+        "created_at": "2026-07-21T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079461455347515877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078727597555609600",
+              "start": 0,
+              "username": "qwer44c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079461455347515877",
+        "in_reply_to_user_id": "2078727597555609600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079417065061192093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwer44c 别逗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078727597555609600",
+        "conversation_id": "2079388307998531829",
+        "created_at": "2026-07-21T04:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079417065061192093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079417065061192093",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079388307998531829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 万一是个好女孩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 326,
+          "like_count": 1546,
+          "listed_count": 8,
+          "media_count": 88,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T06:25:03.000Z",
+        "description": "",
+        "id": "2078727597555609600",
+        "name": "qwer",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "qwer44c",
+        "verified": false
+      }
+    ]
+  }
+}

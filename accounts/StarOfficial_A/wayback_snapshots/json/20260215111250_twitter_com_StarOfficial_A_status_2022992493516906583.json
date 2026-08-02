@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022992486055157760"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2022992493516906583",
+    "created_at": "2026-02-15T11:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022992493516906583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iduqDRxLCW",
+          "end": 55,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2022992493516906583/photo/1",
+          "media_key": "3_2022992486055157760",
+          "start": 32,
+          "url": "https://t.co/iduqDRxLCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022992493516906583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我记得我什么时候加入的 X 吗？应该不知道 #我的X周年纪念日 https://t.co/iduqDRxLCW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2022992486055157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMc8qKaIAAmiM9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022992486055157760"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2022992493516906583",
+        "created_at": "2026-02-15T11:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022992493516906583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iduqDRxLCW",
+              "end": 55,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2022992493516906583/photo/1",
+              "media_key": "3_2022992486055157760",
+              "start": 32,
+              "url": "https://t.co/iduqDRxLCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022992493516906583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得我什么时候加入的 X 吗？应该不知道 #我的X周年纪念日 https://t.co/iduqDRxLCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 92,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 87
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

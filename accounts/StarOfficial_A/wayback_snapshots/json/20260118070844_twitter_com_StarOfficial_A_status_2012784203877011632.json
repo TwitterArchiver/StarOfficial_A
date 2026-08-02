@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012784193609089024"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2012784203877011632",
+    "created_at": "2026-01-18T07:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012784203877011632"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "碧蓝航线"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "男の娘"
+        },
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "femboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QOcfypG8R",
+          "end": 48,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2012784203877011632/photo/1",
+          "media_key": "3_2012784193609089024",
+          "start": 25,
+          "url": "https://t.co/6QOcfypG8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012784203877011632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拉菲是对的\n#碧蓝航线 #男の娘 #femboy https://t.co/6QOcfypG8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012784193609089024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7Yj1WXQAAUc0M.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012784193609089024"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2012784203877011632",
+        "created_at": "2026-01-18T07:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012784203877011632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "碧蓝航线"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "男の娘"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QOcfypG8R",
+              "end": 48,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2012784203877011632/photo/1",
+              "media_key": "3_2012784193609089024",
+              "start": 25,
+              "url": "https://t.co/6QOcfypG8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012784203877011632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉菲是对的\n#碧蓝航线 #男の娘 #femboy https://t.co/6QOcfypG8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 85,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 83
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

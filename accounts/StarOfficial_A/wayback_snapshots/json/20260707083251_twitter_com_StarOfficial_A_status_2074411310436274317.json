@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074319757579579392"
+      ],
+      "media_source_tweet_id": [
+        "2074319767243260268"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2074411310436274317",
+    "created_at": "2026-07-07T08:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074411310436274317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcU4Zpac8X",
+          "end": 50,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2074319767243260268/photo/1",
+          "media_key": "3_2074319757579579392",
+          "start": 27,
+          "url": "https://t.co/tcU4Zpac8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074411310436274317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074319767243260268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 雪糕铺开业（ https://t.co/tcU4Zpac8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1071,
+        "media_key": "3_2074319757579579392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl21E0a8AAvGyH.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074319757579579392"
+          ],
+          "media_source_tweet_id": [
+            "2074319767243260268"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2074411310436274317",
+        "created_at": "2026-07-07T08:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074411310436274317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcU4Zpac8X",
+              "end": 50,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2074319767243260268/photo/1",
+              "media_key": "3_2074319757579579392",
+              "start": 27,
+              "url": "https://t.co/tcU4Zpac8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411310436274317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074319767243260268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 雪糕铺开业（ https://t.co/tcU4Zpac8X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074319757579579392"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2074319767243260268",
+        "created_at": "2026-07-07T02:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074319767243260268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcU4Zpac8X",
+              "end": 30,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2074319767243260268/photo/1",
+              "media_key": "3_2074319757579579392",
+              "start": 7,
+              "url": "https://t.co/tcU4Zpac8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074319767243260268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1416,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雪糕铺开业（ https://t.co/tcU4Zpac8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 312,
+          "like_count": 1439,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

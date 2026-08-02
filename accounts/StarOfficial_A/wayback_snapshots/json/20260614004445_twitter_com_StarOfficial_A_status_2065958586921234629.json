@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065926429892816896"
+      ],
+      "media_source_tweet_id": [
+        "2065926438990352647"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2065958586921234629",
+    "created_at": "2026-06-14T00:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065958586921234629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044140394108334082",
+          "start": 3,
+          "username": "hualiovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KKLsxC2O0F",
+          "end": 62,
+          "expanded_url": "https://x.com/hualiovo/status/2065926438990352647/photo/1",
+          "media_key": "3_2065926429892816896",
+          "start": 39,
+          "url": "https://t.co/KKLsxC2O0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065958586921234629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065926438990352647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hualiovo: 凌晨一点拍到凌晨五点，困不行了，先发一张预告吧😢 https://t.co/KKLsxC2O0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065926429892816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKulJGnaMAAOVYI.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065926429892816896"
+          ],
+          "media_source_tweet_id": [
+            "2065926438990352647"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2065958586921234629",
+        "created_at": "2026-06-14T00:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065958586921234629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044140394108334082",
+              "start": 3,
+              "username": "hualiovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKLsxC2O0F",
+              "end": 62,
+              "expanded_url": "https://x.com/hualiovo/status/2065926438990352647/photo/1",
+              "media_key": "3_2065926429892816896",
+              "start": 39,
+              "url": "https://t.co/KKLsxC2O0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065958586921234629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065926438990352647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hualiovo: 凌晨一点拍到凌晨五点，困不行了，先发一张预告吧😢 https://t.co/KKLsxC2O0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065926429892816896"
+          ]
+        },
+        "author_id": "2044140394108334082",
+        "conversation_id": "2065926438990352647",
+        "created_at": "2026-06-13T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065926438990352647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKLsxC2O0F",
+              "end": 48,
+              "expanded_url": "https://x.com/hualiovo/status/2065926438990352647/photo/1",
+              "media_key": "3_2065926429892816896",
+              "start": 25,
+              "url": "https://t.co/KKLsxC2O0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065926438990352647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 441,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨一点拍到凌晨五点，困不行了，先发一张预告吧😢 https://t.co/KKLsxC2O0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 304,
+          "like_count": 1340,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 298
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "我的所有照片无需授权可以随意转发\n你甚至可以说那是你自己",
+        "id": "2044140394108334082",
+        "name": "花小梨梨🍐",
+        "pinned_tweet_id": "2057154534171140368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063602122185408512/sp2_KxZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8793,
+          "following_count": 107,
+          "like_count": 217,
+          "listed_count": 15,
+          "media_count": 100,
+          "tweet_count": 272
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

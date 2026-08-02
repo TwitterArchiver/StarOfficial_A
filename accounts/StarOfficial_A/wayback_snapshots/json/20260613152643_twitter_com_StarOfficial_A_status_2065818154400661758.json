@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2065662649682325833",
+    "created_at": "2026-06-13T15:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065818154400661758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043753336357195776",
+          "start": 0,
+          "username": "xia_da10565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065818154400661758",
+    "in_reply_to_user_id": "2043753336357195776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065707571571569017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xia_da10565 主包是高中生不放中考假（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2065662649682325833",
+        "created_at": "2026-06-13T15:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818154400661758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043753336357195776",
+              "start": 0,
+              "username": "xia_da10565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065818154400661758",
+        "in_reply_to_user_id": "2043753336357195776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065707571571569017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_da10565 主包是高中生不放中考假（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043753336357195776",
+        "conversation_id": "2065662649682325833",
+        "created_at": "2026-06-13T08:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065707571571569017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065707571571569017",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065662649682325833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 放中考假了，这不得多更点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 303,
+          "like_count": 1337,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 294
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T18:09:23.000Z",
+        "description": "有生化斯坦的吗🤖",
+        "id": "2043753336357195776",
+        "name": "大瞎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043901559176867842/_bjO1CY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 93,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 130
+        },
+        "username": "xia_da10565",
+        "verified": false
+      }
+    ]
+  }
+}

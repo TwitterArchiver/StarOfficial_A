@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2053078672069058951",
+    "created_at": "2026-05-09T16:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053143137447756208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044140394108334082",
+          "start": 0,
+          "username": "hualiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053143137447756208",
+    "in_reply_to_user_id": "2044140394108334082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053117697471426595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hualiovo 乖宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2053078672069058951",
+        "created_at": "2026-05-09T16:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053143137447756208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044140394108334082",
+              "start": 0,
+              "username": "hualiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053143137447756208",
+        "in_reply_to_user_id": "2044140394108334082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053117697471426595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hualiovo 乖宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044140394108334082",
+        "conversation_id": "2053078672069058951",
+        "created_at": "2026-05-09T14:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053117697471426595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053117697471426595",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053078672069058951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 282,
+          "like_count": 1216,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 263
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "扩列暂时只扩同好望理解\n感谢关注，感谢喜欢喵\n前生是hualiqwq",
+        "id": "2044140394108334082",
+        "name": "相似蛋糕拆开🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044141371435692032/4OvCQC1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 37,
+          "like_count": 8,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 30
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

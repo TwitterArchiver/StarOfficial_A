@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2068228971905646936",
+    "created_at": "2026-06-20T18:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068396996126499065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025276334197661697",
+          "start": 0,
+          "username": "ATRI2020wh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068396996126499065",
+    "in_reply_to_user_id": "2025276334197661697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068381691421524444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRI2020wh 可以吃可爱多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068228971905646936",
+        "created_at": "2026-06-20T18:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068396996126499065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025276334197661697",
+              "start": 0,
+              "username": "ATRI2020wh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068396996126499065",
+        "in_reply_to_user_id": "2025276334197661697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068381691421524444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRI2020wh 可以吃可爱多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025276334197661697",
+        "conversation_id": "2068228971905646936",
+        "created_at": "2026-06-20T17:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068381691421524444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068381691421524444",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068228971905646936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 可以吃一抹多吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 311,
+          "like_count": 1385,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 309
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T18:28:17.000Z",
+        "description": "",
+        "id": "2025276334197661697",
+        "name": "时间会证明一切",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025279799422582787/My46lmhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "ATRI2020wh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2080837515066691778",
+    "created_at": "2026-07-26T15:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081399017150542257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1173481494947356672",
+          "start": 0,
+          "username": "sorasakihinaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081399017150542257",
+    "in_reply_to_user_id": "1173481494947356672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080884032683000001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorasakihinaovo 双狗傍地走…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2080837515066691778",
+        "created_at": "2026-07-26T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081399017150542257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1173481494947356672",
+              "start": 0,
+              "username": "sorasakihinaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081399017150542257",
+        "in_reply_to_user_id": "1173481494947356672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080884032683000001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorasakihinaovo 双狗傍地走…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1173481494947356672",
+        "conversation_id": "2080837515066691778",
+        "created_at": "2026-07-25T05:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080884032683000001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080884032683000001",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080837515066691778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 把你栓走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 328,
+          "like_count": 1577,
+          "listed_count": 8,
+          "media_count": 90,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-16T06:19:56.000Z",
+        "description": "或是你…其实喜欢猫咪？同好群：1009347158，cos委托🚪:98进主播tg群组",
+        "id": "1173481494947356672",
+        "location": "┌╏ º □ º ╏┐吓           扩列可以私窝~",
+        "name": "🍓桃花星奏🍓",
+        "pinned_tweet_id": "2061111284108869703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915354455719239682/j5zJ6-gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22842,
+          "following_count": 693,
+          "like_count": 5039,
+          "listed_count": 63,
+          "media_count": 517,
+          "tweet_count": 2277
+        },
+        "url": "",
+        "username": "sorasakihinaovo",
+        "verified": false
+      }
+    ]
+  }
+}

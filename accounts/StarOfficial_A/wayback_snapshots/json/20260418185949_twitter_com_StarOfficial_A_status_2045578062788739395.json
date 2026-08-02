@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045538969065250816"
+      ],
+      "media_source_tweet_id": [
+        "2045538971657359455"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "2045578062788739395",
+    "created_at": "2026-04-18T18:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T19:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045578062788739395"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "アズールレーン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753170834158657536",
+          "start": 3,
+          "username": "like_aria10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/irVrrdkUNK",
+          "end": 49,
+          "expanded_url": "https://x.com/like_aria10/status/2045538971657359455/photo/1",
+          "media_key": "3_2045538969065250816",
+          "start": 26,
+          "url": "https://t.co/irVrrdkUNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045578062788739395",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045538971657359455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @like_aria10: #アズールレーン https://t.co/irVrrdkUNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2045538969065250816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM22slaYAAXk-2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045538969065250816"
+          ],
+          "media_source_tweet_id": [
+            "2045538971657359455"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2045578062788739395",
+        "created_at": "2026-04-18T18:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045578062788739395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "アズールレーン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753170834158657536",
+              "start": 3,
+              "username": "like_aria10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irVrrdkUNK",
+              "end": 49,
+              "expanded_url": "https://x.com/like_aria10/status/2045538971657359455/photo/1",
+              "media_key": "3_2045538969065250816",
+              "start": 26,
+              "url": "https://t.co/irVrrdkUNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045578062788739395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045538971657359455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @like_aria10: #アズールレーン https://t.co/irVrrdkUNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045538969065250816"
+          ]
+        },
+        "author_id": "1753170834158657536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2045538971657359455",
+        "created_at": "2026-04-18T16:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045538971657359455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "アズールレーン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irVrrdkUNK",
+              "end": 32,
+              "expanded_url": "https://x.com/like_aria10/status/2045538971657359455/photo/1",
+              "media_key": "3_2045538969065250816",
+              "start": 9,
+              "url": "https://t.co/irVrrdkUNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045538971657359455",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 996,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#アズールレーン https://t.co/irVrrdkUNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 231,
+          "like_count": 988,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 173
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-01T21:38:06.000Z",
+        "description": "Chinese Cosplayer爱理。是本人。\n微博：喜欢爱理吗",
+        "id": "1753170834158657536",
+        "name": "like aria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753181651050602496/ll8JL-rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8632,
+          "following_count": 170,
+          "like_count": 486,
+          "listed_count": 50,
+          "media_count": 145,
+          "tweet_count": 162
+        },
+        "username": "like_aria10",
+        "verified": false
+      }
+    ]
+  }
+}

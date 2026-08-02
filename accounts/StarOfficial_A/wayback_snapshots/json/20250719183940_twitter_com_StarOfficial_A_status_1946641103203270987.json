@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946641094994751488"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1946572488345055567",
+    "created_at": "2025-07-19T18:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T19:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946641103203270987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521868547600764929",
+          "start": 0,
+          "username": "douhaosensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64PaW4fxTL",
+          "end": 48,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1946641103203270987/photo/1",
+          "media_key": "3_1946641094994751488",
+          "start": 25,
+          "url": "https://t.co/64PaW4fxTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946641103203270987",
+    "in_reply_to_user_id": "1521868547600764929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946572488345055567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douhaosensei 饱饱月嘛（bushi https://t.co/64PaW4fxTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_1946641094994751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPbwxxW8AAvNxT.jpg",
+        "width": 778
+      },
+      {
+        "height": 1535,
+        "media_key": "3_1946572463950761986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOdV7NXkAIpkZS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946641094994751488"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1946572488345055567",
+        "created_at": "2025-07-19T18:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946641103203270987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521868547600764929",
+              "start": 0,
+              "username": "douhaosensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64PaW4fxTL",
+              "end": 48,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1946641103203270987/photo/1",
+              "media_key": "3_1946641094994751488",
+              "start": 25,
+              "url": "https://t.co/64PaW4fxTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946641103203270987",
+        "in_reply_to_user_id": "1521868547600764929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946572488345055567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douhaosensei 饱饱月嘛（bushi https://t.co/64PaW4fxTL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946572463950761986"
+          ]
+        },
+        "author_id": "1521868547600764929",
+        "conversation_id": "1946572488345055567",
+        "created_at": "2025-07-19T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946572488345055567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "试衣致歉"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "拉菲"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "碧蓝航线"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guxmhdFsXl",
+              "end": 49,
+              "expanded_url": "https://x.com/douhaosensei/status/1946572488345055567/photo/1",
+              "media_key": "3_1946572463950761986",
+              "start": 26,
+              "url": "https://t.co/guxmhdFsXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946572488345055567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1958,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "仅试衣\n假毛炸了😭\n#试衣致歉 #拉菲 #碧蓝航线 https://t.co/guxmhdFsXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 62,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 81
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "05年男生，cos爱好者，萝莉控大叔\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n懒惰哥布林，高p清水你喜欢就好。\n 扩列只接受同好，精虫顺直男滚粗",
+        "id": "1521868547600764929",
+        "location": "白鹰港口",
+        "name": "逗號先生",
+        "pinned_tweet_id": "1941165577932062930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 47,
+          "like_count": 341,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 268
+        },
+        "username": "douhaosensei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943884720980283392"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1943884732414275857",
+    "created_at": "2025-07-12T04:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T05:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943884732414275857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "白丝萝莉"
+        },
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "男の娘"
+        },
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "尾巴插件"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "足底"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hkwcjgkWB",
+          "end": 50,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1943884732414275857/photo/1",
+          "media_key": "3_1943884720980283392",
+          "start": 27,
+          "url": "https://t.co/0hkwcjgkWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943884732414275857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#白丝萝莉 #男の娘 #尾巴插件 #足底 肉腿www https://t.co/0hkwcjgkWB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_1943884720980283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoQ2sZW0AAS4Z5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943884720980283392"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1943884732414275857",
+        "created_at": "2025-07-12T04:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943884732414275857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "白丝萝莉"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "男の娘"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "尾巴插件"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "足底"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hkwcjgkWB",
+              "end": 50,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1943884732414275857/photo/1",
+              "media_key": "3_1943884720980283392",
+              "start": 27,
+              "url": "https://t.co/0hkwcjgkWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943884732414275857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#白丝萝莉 #男の娘 #尾巴插件 #足底 肉腿www https://t.co/0hkwcjgkWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 59,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 71
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

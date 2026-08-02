@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1941294863460536818",
+    "created_at": "2025-07-05T00:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T01:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941294863460536818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941294863460536818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941195112446648438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horizon_tem: 在这个帖子评论可以查询我对你的好感。\n参照系：\n100—可以成为专偶对象\n80—会去了解你喜欢的事情\n70—可以称为好亲友了\n60—会时不时翻出来看你\n50—我会想线下见到你\n40—会主动找你聊天\n30—有一些熟悉了\n30以下恕不回复。 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_1941195104343220224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvCCqZoa4AAYpfH.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941294863460536818",
+        "created_at": "2025-07-05T00:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T01:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941294863460536818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941294863460536818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941195112446648438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horizon_tem: 在这个帖子评论可以查询我对你的好感。\n参照系：\n100—可以成为专偶对象\n80—会去了解你喜欢的事情\n70—可以称为好亲友了\n60—会时不时翻出来看你\n50—我会想线下见到你\n40—会主动找你聊天\n30—有一些熟悉了\n30以下恕不回复。 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941195104343220224"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1941195112446648438",
+        "created_at": "2025-07-04T17:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T18:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941195112446648438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEY6qbKSJN",
+              "end": 142,
+              "expanded_url": "https://x.com/horizon_tem/status/1941195112446648438/photo/1",
+              "media_key": "3_1941195104343220224",
+              "start": 119,
+              "url": "https://t.co/XEY6qbKSJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941195112446648438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1616,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这个帖子评论可以查询我对你的好感。\n参照系：\n100—可以成为专偶对象\n80—会去了解你喜欢的事情\n70—可以称为好亲友了\n60—会时不时翻出来看你\n50—我会想线下见到你\n40—会主动找你聊天\n30—有一些熟悉了\n30以下恕不回复。 https://t.co/XEY6qbKSJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 40
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1941191436713721997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 2044,
+          "like_count": 26905,
+          "listed_count": 7,
+          "media_count": 476,
+          "tweet_count": 9829
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

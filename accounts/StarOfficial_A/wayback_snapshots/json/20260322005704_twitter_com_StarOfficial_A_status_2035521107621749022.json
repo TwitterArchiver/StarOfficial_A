@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035521097077313536"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2035521107621749022",
+    "created_at": "2026-03-22T00:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T01:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035521107621749022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "白丝雪糕"
+        },
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "白丝loli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/noTzdr7u3S",
+          "end": 43,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2035521107621749022/photo/1",
+          "media_key": "3_2035521097077313536",
+          "start": 20,
+          "url": "https://t.co/noTzdr7u3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035521107621749022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以吃雪糕\n#白丝雪糕 #白丝loli https://t.co/noTzdr7u3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2035521097077313536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-fpzQbUAAkyUJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035521097077313536"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2035521107621749022",
+        "created_at": "2026-03-22T00:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035521107621749022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "白丝雪糕"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "白丝loli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noTzdr7u3S",
+              "end": 43,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2035521107621749022/photo/1",
+              "media_key": "3_2035521097077313536",
+              "start": 20,
+              "url": "https://t.co/noTzdr7u3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035521107621749022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以吃雪糕\n#白丝雪糕 #白丝loli https://t.co/noTzdr7u3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 116,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 103
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

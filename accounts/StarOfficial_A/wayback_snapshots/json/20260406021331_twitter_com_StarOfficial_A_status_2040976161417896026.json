@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2040376474125914210",
+    "created_at": "2026-04-06T02:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040976161417896026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        },
+        {
+          "end": 19,
+          "id": "1490609367019769856",
+          "start": 8,
+          "username": "Misaka0032"
+        },
+        {
+          "end": 36,
+          "id": "1565981667746914304",
+          "start": 20,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040976161417896026",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040570994679808330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN @Misaka0032 @Kagura_Yukikaze 别逗笑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2040376474125914210",
+        "created_at": "2026-04-06T02:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040976161417896026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            },
+            {
+              "end": 19,
+              "id": "1490609367019769856",
+              "start": 8,
+              "username": "Misaka0032"
+            },
+            {
+              "end": 36,
+              "id": "1565981667746914304",
+              "start": 20,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040976161417896026",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040570994679808330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN @Misaka0032 @Kagura_Yukikaze 别逗笑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2040376474125914210",
+        "created_at": "2026-04-04T23:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040570994679808330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490609367019769856",
+              "start": 0,
+              "username": "Misaka0032"
+            },
+            {
+              "end": 28,
+              "id": "1565981667746914304",
+              "start": 12,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040570994679808330",
+        "in_reply_to_user_id": "1490609367019769856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1672,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040376474125914210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka0032 @Kagura_Yukikaze 所谓的男娘，就是异装癖，女装变态，还评价上药娘了，药娘再怎么不堪也比异装癖强，至少药娘自认为女性，会护肤化妆刮胡子体毛。我见的男娘很多都是素颜特别丑的，放男生堆里面也算丑的那种，而且男娘精神病数量一点都不比药娘少多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 186,
+          "like_count": 862,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 150
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2039028209812209704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 177,
+          "like_count": 148,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 238
+        },
+        "username": "N2OXYN",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T08:52:30.000Z",
+        "description": "能产出基因型为X或Y的单倍体配子\n我不吃糖\n谢绝对线谢谢喵\n欢迎扩列 联系方式私聊\n不卖药！不卖药！\n不要给我私信发下头的话\n谢谢配合喵\n世界上只有一种真正的英雄主义 那就是在认清生活的真相后依然热爱生活",
+        "id": "1490609367019769856",
+        "location": "地灵殿",
+        "name": "半灵麻薯8964",
+        "pinned_tweet_id": "2040711941690188034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022269942968823808/mKVol7Os_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 492,
+          "like_count": 1809,
+          "listed_count": 4,
+          "media_count": 925,
+          "tweet_count": 2683
+        },
+        "username": "Misaka0032",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 2773,
+          "like_count": 99433,
+          "listed_count": 3,
+          "media_count": 744,
+          "tweet_count": 11983
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940216353719300096",
+        "3_1940216353660534785",
+        "3_1940216353677291520"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1940216377719365871",
+    "created_at": "2025-07-02T01:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T02:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940216377719365871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "白丝萝莉"
+        },
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "男の娘ᅠ"
+        },
+        {
+          "end": 24,
+          "start": 12,
+          "tag": "BlueArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVClCnjnIj",
+          "end": 75,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+          "media_key": "3_1940216353719300096",
+          "start": 52,
+          "url": "https://t.co/RVClCnjnIj"
+        },
+        {
+          "display_url": "pic.x.com/RVClCnjnIj",
+          "end": 75,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+          "media_key": "3_1940216353660534785",
+          "start": 52,
+          "url": "https://t.co/RVClCnjnIj"
+        },
+        {
+          "display_url": "pic.x.com/RVClCnjnIj",
+          "end": 75,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+          "media_key": "3_1940216353677291520",
+          "start": 52,
+          "url": "https://t.co/RVClCnjnIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940216377719365871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#白丝萝莉 #男の娘ᅠ #BlueArchive 真的很喜欢这个视角  看似什么都露了但其实什么都没露 https://t.co/RVClCnjnIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_1940216353719300096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0IfnbXsAAM75z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1428,
+        "media_key": "3_1940216353660534785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0IfnNXAAEahq4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1940216353677291520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0IfnRWsAAVAt_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940216353719300096",
+            "3_1940216353660534785",
+            "3_1940216353677291520"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1940216377719365871",
+        "created_at": "2025-07-02T01:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T02:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940216377719365871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "白丝萝莉"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVClCnjnIj",
+              "end": 75,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+              "media_key": "3_1940216353719300096",
+              "start": 52,
+              "url": "https://t.co/RVClCnjnIj"
+            },
+            {
+              "display_url": "pic.x.com/RVClCnjnIj",
+              "end": 75,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+              "media_key": "3_1940216353660534785",
+              "start": 52,
+              "url": "https://t.co/RVClCnjnIj"
+            },
+            {
+              "display_url": "pic.x.com/RVClCnjnIj",
+              "end": 75,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1940216377719365871/photo/1",
+              "media_key": "3_1940216353677291520",
+              "start": 52,
+              "url": "https://t.co/RVClCnjnIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940216377719365871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#白丝萝莉 #男の娘ᅠ #BlueArchive 真的很喜欢这个视角  看似什么都露了但其实什么都没露 https://t.co/RVClCnjnIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 35,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

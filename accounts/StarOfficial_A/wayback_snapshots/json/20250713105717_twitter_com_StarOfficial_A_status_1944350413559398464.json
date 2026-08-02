@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1944069221606207642",
+    "created_at": "2025-07-13T10:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T11:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944350413559398464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335663596626300928",
+          "start": 0,
+          "username": "Xinmo_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944350413559398464",
+    "in_reply_to_user_id": "1335663596626300928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944069221606207642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinmo_sama 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944069209740414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq4pWlaEAAmrKP.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944069218011410432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq4p1ZXcAA4n-g.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1944069221606207642",
+        "created_at": "2025-07-13T10:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944350413559398464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335663596626300928",
+              "start": 0,
+              "username": "Xinmo_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944350413559398464",
+        "in_reply_to_user_id": "1335663596626300928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944069221606207642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinmo_sama 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944069209740414976",
+            "3_1944069218011410432"
+          ]
+        },
+        "author_id": "1335663596626300928",
+        "conversation_id": "1944069221606207642",
+        "created_at": "2025-07-12T16:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944069221606207642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "白丝"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "男娘"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6qVc2TCW4",
+              "end": 84,
+              "expanded_url": "https://x.com/Xinmo_sama/status/1944069221606207642/photo/1",
+              "media_key": "3_1944069209740414976",
+              "start": 61,
+              "url": "https://t.co/I6qVc2TCW4"
+            },
+            {
+              "display_url": "pic.x.com/I6qVc2TCW4",
+              "end": 84,
+              "expanded_url": "https://x.com/Xinmo_sama/status/1944069221606207642/photo/1",
+              "media_key": "3_1944069218011410432",
+              "start": 61,
+              "url": "https://t.co/I6qVc2TCW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944069221606207642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 9043,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "画好啦~用自己当做足部采样\n⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄刚好今天是咱的生日，祝咱生日快乐叭\n#白丝 #男娘 #可爱の男孩子 https://t.co/I6qVc2TCW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 76
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T19:13:22.000Z",
+        "description": "萌新画师+男娘。不线下！不线下！不线下！可能会分享画作与照片。拍图多为自己喜欢(*´ω｀*)偶尔会拍一下涩图（大概）大家喜欢就更好啦",
+        "id": "1335663596626300928",
+        "name": "Spee",
+        "pinned_tweet_id": "1933494843520819541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925218455592243200/OPYCQmeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 220,
+          "like_count": 376,
+          "listed_count": 10,
+          "media_count": 42,
+          "tweet_count": 113
+        },
+        "username": "Xinmo_sama",
+        "verified": false
+      }
+    ]
+  }
+}

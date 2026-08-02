@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2078834964196659592",
+    "created_at": "2026-07-20T05:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079073492046319843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1275413955242950659",
+          "start": 0,
+          "username": "Gob_aya"
+        },
+        {
+          "end": 17,
+          "id": "1414362637769400321",
+          "start": 9,
+          "username": "Pomble_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079073492046319843",
+    "in_reply_to_user_id": "1275413955242950659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078978350413119798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gob_aya @Pomble_ omg 色胚绫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2078834964196659592",
+        "created_at": "2026-07-20T05:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079073492046319843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1275413955242950659",
+              "start": 0,
+              "username": "Gob_aya"
+            },
+            {
+              "end": 17,
+              "id": "1414362637769400321",
+              "start": 9,
+              "username": "Pomble_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079073492046319843",
+        "in_reply_to_user_id": "1275413955242950659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078978350413119798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gob_aya @Pomble_ omg 色胚绫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275413955242950659",
+        "conversation_id": "2078834964196659592",
+        "created_at": "2026-07-19T23:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078978350413119798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1414362637769400321",
+              "start": 0,
+              "username": "Pomble_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078978350413119798",
+        "in_reply_to_user_id": "1414362637769400321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078834964196659592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pomble_ 妹妹越反抗，叔叔越兴奋😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 326,
+          "like_count": 1533,
+          "listed_count": 8,
+          "media_count": 88,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "我有易欲症！",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "pinned_tweet_id": "2027106267039469945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10339,
+          "following_count": 520,
+          "like_count": 3358,
+          "listed_count": 44,
+          "media_count": 113,
+          "tweet_count": 3175
+        },
+        "url": "",
+        "username": "Gob_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T23:15:20.000Z",
+        "description": "简称:pb   fans群:607088747，图包165RMB，目前收录往期高清原图414张",
+        "id": "1414362637769400321",
+        "name": "Pomble",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730193082237517824/YghtxPYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30957,
+          "following_count": 421,
+          "like_count": 7517,
+          "listed_count": 148,
+          "media_count": 354,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "Pomble_",
+        "verified": false
+      }
+    ]
+  }
+}

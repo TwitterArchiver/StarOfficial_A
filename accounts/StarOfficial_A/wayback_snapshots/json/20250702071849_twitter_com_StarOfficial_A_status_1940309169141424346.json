@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1908456280383193112",
+    "created_at": "2025-07-02T07:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940309169141424346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678682543040921600",
+          "start": 0,
+          "username": "YvonneYue1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940309169141424346",
+    "in_reply_to_user_id": "1678682543040921600",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908456280383193112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YvonneYue1007 zako zako～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1908456275857596419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnwy3xfbYAMK4a-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1908456280383193112",
+        "created_at": "2025-07-02T07:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940309169141424346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678682543040921600",
+              "start": 0,
+              "username": "YvonneYue1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940309169141424346",
+        "in_reply_to_user_id": "1678682543040921600",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908456280383193112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YvonneYue1007 zako zako～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908456275857596419"
+          ]
+        },
+        "author_id": "1678682543040921600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908456280383193112",
+        "created_at": "2025-04-05T09:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T10:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908456280383193112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFHU4VMyn6",
+              "end": 66,
+              "expanded_url": "https://x.com/YvonneYue1007/status/1908456280383193112/photo/1",
+              "media_key": "3_1908456275857596419",
+              "start": 43,
+              "url": "https://t.co/rFHU4VMyn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908456280383193112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私は本当にこの曲が好きです（たとえ私が初心者であっても）、それに百合は最高です!!! https://t.co/rFHU4VMyn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T08:29:07.000Z",
+        "description": "FPS初心者プレイヤー\n音楽ゲーム初心者(今遊んでいます:MaimaiDX Chunithm Melody.....\nJDM愛好者\nTouhou Project愛好者",
+        "id": "1678682543040921600",
+        "location": "幻想郷",
+        "name": "MisakaXY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908436490369327107/k7lPk0_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "YvonneYue1007",
+        "verified": false
+      }
+    ]
+  }
+}

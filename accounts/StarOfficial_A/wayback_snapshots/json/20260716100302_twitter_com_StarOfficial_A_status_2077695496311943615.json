@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077695488900669440"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2077695496311943615",
+    "created_at": "2026-07-16T10:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077695496311943615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3S9xdoL2v0",
+          "end": 71,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2077695496311943615/photo/1",
+          "media_key": "3_2077695488900669440",
+          "start": 48,
+          "url": "https://t.co/3S9xdoL2v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077695496311943615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人落水后被救了上来\n……\n—“我又没有逼你救我”\n—“靠，你没逼你不早说”他一脸懊恼地说道… https://t.co/3S9xdoL2v0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2077695488900669440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV1Cf9bIAASeRz.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077695488900669440"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2077695496311943615",
+        "created_at": "2026-07-16T10:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077695496311943615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3S9xdoL2v0",
+              "end": 71,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2077695496311943615/photo/1",
+              "media_key": "3_2077695488900669440",
+              "start": 48,
+              "url": "https://t.co/3S9xdoL2v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077695496311943615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人落水后被救了上来\n……\n—“我又没有逼你救我”\n—“靠，你没逼你不早说”他一脸懊恼地说道… https://t.co/3S9xdoL2v0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 326,
+          "like_count": 1503,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

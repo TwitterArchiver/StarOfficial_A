@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941637719127457792"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1941528904935801348",
+    "created_at": "2025-07-05T23:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T00:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941637727159820708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1275413955242950659",
+          "start": 0,
+          "username": "Gob_aya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kw5o5ElSqX",
+          "end": 35,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1941637727159820708/photo/1",
+          "media_key": "3_1941637719127457792",
+          "start": 12,
+          "url": "https://t.co/kw5o5ElSqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941637727159820708",
+    "in_reply_to_user_id": "1275413955242950659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941528904935801348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gob_aya 结芬 https://t.co/kw5o5ElSqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_1941637719127457792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvIVN-MXgAAus-Z.jpg",
+        "width": 688
+      },
+      {
+        "height": 3454,
+        "media_key": "3_1941528699896987648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGyEN6WAAAX4k8.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941637719127457792"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941528904935801348",
+        "created_at": "2025-07-05T23:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941637727159820708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1275413955242950659",
+              "start": 0,
+              "username": "Gob_aya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kw5o5ElSqX",
+              "end": 35,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1941637727159820708/photo/1",
+              "media_key": "3_1941637719127457792",
+              "start": 12,
+              "url": "https://t.co/kw5o5ElSqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941637727159820708",
+        "in_reply_to_user_id": "1275413955242950659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941528904935801348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gob_aya 结芬 https://t.co/kw5o5ElSqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941528699896987648"
+          ]
+        },
+        "author_id": "1275413955242950659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1941528904935801348",
+        "created_at": "2025-07-05T16:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941528904935801348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "cos"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "azurlane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoVgohWMli",
+              "end": 51,
+              "expanded_url": "https://x.com/Gob_aya/status/1941528904935801348/photo/1",
+              "media_key": "3_1941528699896987648",
+              "start": 28,
+              "url": "https://t.co/qoVgohWMli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941528904935801348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 912,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是修猫，准备哈气了！\n\n＃cos ＃azurlane https://t.co/qoVgohWMli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 47,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 47
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "高p 兴趣使然，随便穿穿，分享一下，看个乐就行。正在重启化妆计划（未拆封）",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6062,
+          "following_count": 364,
+          "like_count": 1411,
+          "listed_count": 29,
+          "media_count": 56,
+          "tweet_count": 1296
+        },
+        "username": "Gob_aya",
+        "verified": false
+      }
+    ]
+  }
+}

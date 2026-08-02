@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2063907605601534218",
+    "created_at": "2026-06-08T09:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063919704306294789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3039883009",
+          "start": 0,
+          "username": "taigafan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063919704306294789",
+    "in_reply_to_user_id": "3039883009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063907605601534218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taigafan 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063906329249611776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR33xSagAAbjlq.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063906330671538176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR332lbYAARkqa.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2063907555462856704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR4_JSbwAAKcrI.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2063907605601534218",
+        "created_at": "2026-06-08T09:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063919704306294789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3039883009",
+              "start": 0,
+              "username": "taigafan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063919704306294789",
+        "in_reply_to_user_id": "3039883009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063907605601534218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taigafan 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063906329249611776",
+            "3_2063906330671538176",
+            "3_2063907555462856704"
+          ]
+        },
+        "author_id": "3039883009",
+        "conversation_id": "2063907605601534218",
+        "created_at": "2026-06-08T08:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063907605601534218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zOmlZYdtt",
+              "end": 69,
+              "expanded_url": "https://x.com/taigafan/status/2063907605601534218/photo/1",
+              "media_key": "3_2063906329249611776",
+              "start": 46,
+              "url": "https://t.co/0zOmlZYdtt"
+            },
+            {
+              "display_url": "pic.x.com/0zOmlZYdtt",
+              "end": 69,
+              "expanded_url": "https://x.com/taigafan/status/2063907605601534218/photo/1",
+              "media_key": "3_2063906330671538176",
+              "start": 46,
+              "url": "https://t.co/0zOmlZYdtt"
+            },
+            {
+              "display_url": "pic.x.com/0zOmlZYdtt",
+              "end": 69,
+              "expanded_url": "https://x.com/taigafan/status/2063907605601534218/photo/1",
+              "media_key": "3_2063907555462856704",
+              "start": 46,
+              "url": "https://t.co/0zOmlZYdtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063907605601534218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会想文案了谁帮我编一点\n📷LUMIX S1M2 + Sigma 28-70mm f2.8 https://t.co/0zOmlZYdtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 300,
+          "like_count": 1314,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 289
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-24T15:43:30.000Z",
+        "description": "東方Project / 艦これ@ブイン / 苏州大学麻将部退役领队 / 島津風と #地雷系 女装が好きな人 / 清水Kigurumi #着ぐるみ in樋口楓&天津風 / 兴趣使然的绳楽坂魔法店@KagurazakaDolls / 和男娘女朋友的伪百合爱情长跑2016.07~永远",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "地雷系"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KagurazakaDolls"
+              }
+            ]
+          }
+        },
+        "id": "3039883009",
+        "location": "中国 苏州-上海",
+        "name": "神楽坂 紫苑",
+        "pinned_tweet_id": "2057317204706898344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904754785049600004/UK-CFtj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 835,
+          "like_count": 84,
+          "listed_count": 21,
+          "media_count": 292,
+          "tweet_count": 2293
+        },
+        "username": "taigafan",
+        "verified": false
+      }
+    ]
+  }
+}

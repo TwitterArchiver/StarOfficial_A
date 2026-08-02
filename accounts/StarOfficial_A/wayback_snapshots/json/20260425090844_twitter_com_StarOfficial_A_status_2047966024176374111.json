@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2047908743653064824",
+    "created_at": "2026-04-25T09:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047966024176374111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047966024176374111",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047908743653064824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 怎么一刷推特都这么好看啊woc（）😭😭😭我也想好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2047908743653064824",
+        "created_at": "2026-04-25T09:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047966024176374111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047966024176374111",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047908743653064824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 怎么一刷推特都这么好看啊woc（）😭😭😭我也想好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2047908743653064824",
+        "created_at": "2026-04-25T05:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047908743653064824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047908743653064824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么一刷推特都这么好看啊woc（）😭😭😭我也想好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 247,
+          "like_count": 1052,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 188
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 295,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 720
+        },
+        "username": "qusuunmd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040594908692848640"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2040366947901280488",
+    "created_at": "2026-04-05T00:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040594923196702848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878611513969446912",
+          "start": 0,
+          "username": "amadare_2nd"
+        },
+        {
+          "end": 25,
+          "id": "1824688188750712832",
+          "start": 13,
+          "username": "N0HopeForUs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fREMSewzH6",
+          "end": 49,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2040594923196702848/photo/1",
+          "media_key": "3_2040594908692848640",
+          "start": 26,
+          "url": "https://t.co/fREMSewzH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040594923196702848",
+    "in_reply_to_user_id": "1878611513969446912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040366947901280488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amadare_2nd @N0HopeForUs https://t.co/fREMSewzH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040594908692848640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGmQgcboAAa2_P.jpg",
+        "width": 1435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040594908692848640"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2040366947901280488",
+        "created_at": "2026-04-05T00:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040594923196702848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878611513969446912",
+              "start": 0,
+              "username": "amadare_2nd"
+            },
+            {
+              "end": 25,
+              "id": "1824688188750712832",
+              "start": 13,
+              "username": "N0HopeForUs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fREMSewzH6",
+              "end": 49,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2040594923196702848/photo/1",
+              "media_key": "3_2040594908692848640",
+              "start": 26,
+              "url": "https://t.co/fREMSewzH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040594923196702848",
+        "in_reply_to_user_id": "1878611513969446912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040366947901280488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amadare_2nd @N0HopeForUs https://t.co/fREMSewzH6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878611513969446912",
+        "conversation_id": "2040366947901280488",
+        "created_at": "2026-04-04T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040366947901280488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040366947901280488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12415,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "あとこれは男の娘とか女装に限らずなんだけど、中国、台湾あたりって脚フェチが多いイメージ…まぁ実際美脚の人多いんだけどさ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 170,
+          "like_count": 825,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 142
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T01:14:34.000Z",
+        "description": "綺麗なおにーさんになりたいです。DM⭕️ 返信遅いかも 加工強め 欲しいもの▶︎https://t.co/10xv0INvn7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 63,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1045AERNS4UNK?ref_=wl_share",
+                "start": 40,
+                "url": "https://t.co/10xv0INvn7"
+              }
+            ]
+          }
+        },
+        "id": "1878611513969446912",
+        "location": "実在しません",
+        "name": "あまだれ",
+        "pinned_tweet_id": "2024096662155882836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036412383955185664/cBgEBXQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 317,
+          "like_count": 3179,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1542
+        },
+        "username": "amadare_2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "Lacan | Wittgenstein | Marx | 舞萌DX\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义𝙈𝙖𝙤𝙙𝙞𝙚𝙞𝙨𝙢🍥🇭🇰",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032738053912240128/p2hxr-vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1581,
+          "like_count": 39759,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 12561
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

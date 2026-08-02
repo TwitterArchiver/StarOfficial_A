@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080177795083468800"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2080177802322784536",
+    "created_at": "2026-07-23T06:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080177802322784536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYpZSemCAh",
+          "end": 52,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2080177802322784536/photo/1",
+          "media_key": "3_2080177795083468800",
+          "start": 29,
+          "url": "https://t.co/yYpZSemCAh"
+        },
+        {
+          "display_url": "x.com/starofficial_a…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/starofficial_a/status/2079388307998531829",
+          "start": 53,
+          "url": "https://t.co/ELmzQWuou4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080177802322784536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079388307998531829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自卑会变成别人的卑自…\n那我非常自卑不就成了别人的非极卑 https://t.co/yYpZSemCAh https://t.co/ELmzQWuou4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2080177795083468800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5GrvGbAAAVpnN.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079388289770102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt4oenaoAAvaxd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080177795083468800"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2080177802322784536",
+        "created_at": "2026-07-23T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080177802322784536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYpZSemCAh",
+              "end": 52,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2080177802322784536/photo/1",
+              "media_key": "3_2080177795083468800",
+              "start": 29,
+              "url": "https://t.co/yYpZSemCAh"
+            },
+            {
+              "display_url": "x.com/starofficial_a…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/starofficial_a/status/2079388307998531829",
+              "start": 53,
+              "url": "https://t.co/ELmzQWuou4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080177802322784536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079388307998531829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自卑会变成别人的卑自…\n那我非常自卑不就成了别人的非极卑 https://t.co/yYpZSemCAh https://t.co/ELmzQWuou4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079388289770102784"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2079388307998531829",
+        "created_at": "2026-07-21T02:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079388307998531829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DRK6ceZUR",
+              "end": 43,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2079388307998531829/photo/1",
+              "media_key": "3_2079388289770102784",
+              "start": 20,
+              "url": "https://t.co/9DRK6ceZUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079388307998531829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4544,
+          "like_count": 226,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不要自卑…\n因为自卑会变成别人的卑自… https://t.co/9DRK6ceZUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 328,
+          "like_count": 1561,
+          "listed_count": 8,
+          "media_count": 89,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

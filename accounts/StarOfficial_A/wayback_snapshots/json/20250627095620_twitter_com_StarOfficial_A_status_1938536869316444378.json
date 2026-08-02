@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938536860198076416"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1938536869316444378",
+    "created_at": "2025-06-27T09:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938536869316444378"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "mtx"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "男の娘"
+        },
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "烧鸡"
+        },
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "白丝足底"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "萝莉"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "鸭子坐"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBO1gBoLGf",
+          "end": 63,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1938536869316444378/photo/1",
+          "media_key": "3_1938536860198076416",
+          "start": 40,
+          "url": "https://t.co/CBO1gBoLGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938536869316444378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#mtx #男の娘 #烧鸡 #白丝足底 #萝莉 #鸭子坐 w…好像也没什么难的 https://t.co/CBO1gBoLGf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938536860198076416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucRAOgbgAAaRzv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938536860198076416"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1938536869316444378",
+        "created_at": "2025-06-27T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938536869316444378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtx"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "男の娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "烧鸡"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "白丝足底"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "萝莉"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "鸭子坐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBO1gBoLGf",
+              "end": 63,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1938536869316444378/photo/1",
+              "media_key": "3_1938536860198076416",
+              "start": 40,
+              "url": "https://t.co/CBO1gBoLGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938536869316444378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#mtx #男の娘 #烧鸡 #白丝足底 #萝莉 #鸭子坐 w…好像也没什么难的 https://t.co/CBO1gBoLGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28\n无糖 | mtx\n+q 3427507791注明来意 有空可以闲聊\n喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "Star☆official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

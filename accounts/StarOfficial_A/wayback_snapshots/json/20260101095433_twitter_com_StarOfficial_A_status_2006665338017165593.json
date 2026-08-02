@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006663375670095878"
+      ],
+      "media_source_tweet_id": [
+        "2006663378794910102"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2006665338017165593",
+    "created_at": "2026-01-01T09:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T10:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006665338017165593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2003523030799278080",
+          "start": 3,
+          "username": "DIW3tW6rCz49948"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJp64dT3LS",
+          "end": 75,
+          "expanded_url": "https://x.com/DIW3tW6rCz49948/status/2006663378794910102/photo/1",
+          "media_key": "3_2006663375670095878",
+          "start": 52,
+          "url": "https://t.co/fJp64dT3LS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006665338017165593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006663378794910102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DIW3tW6rCz49948: 喵喵喵，假的假的别信喵！号回不来了，这号的所有东西都别信喵！ https://t.co/fJp64dT3LS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2006663375670095878",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kZtVqaMAYmwcZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006663375670095878"
+          ],
+          "media_source_tweet_id": [
+            "2006663378794910102"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2006665338017165593",
+        "created_at": "2026-01-01T09:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006665338017165593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2003523030799278080",
+              "start": 3,
+              "username": "DIW3tW6rCz49948"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJp64dT3LS",
+              "end": 75,
+              "expanded_url": "https://x.com/DIW3tW6rCz49948/status/2006663378794910102/photo/1",
+              "media_key": "3_2006663375670095878",
+              "start": 52,
+              "url": "https://t.co/fJp64dT3LS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006665338017165593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006663378794910102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DIW3tW6rCz49948: 喵喵喵，假的假的别信喵！号回不来了，这号的所有东西都别信喵！ https://t.co/fJp64dT3LS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006663375670095878"
+          ]
+        },
+        "author_id": "2003523030799278080",
+        "conversation_id": "2006663378794910102",
+        "created_at": "2026-01-01T09:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006663378794910102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJp64dT3LS",
+              "end": 54,
+              "expanded_url": "https://x.com/DIW3tW6rCz49948/status/2006663378794910102/photo/1",
+              "media_key": "3_2006663375670095878",
+              "start": 31,
+              "url": "https://t.co/fJp64dT3LS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006663378794910102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵，假的假的别信喵！号回不来了，这号的所有东西都别信喵！ https://t.co/fJp64dT3LS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 84,
+          "like_count": 445,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 86
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T17:48:42.000Z",
+        "description": "万物皆可萌化，白玉即正义喵～\n世界奇奇怪怪，白玉可可爱爱喵～",
+        "id": "2003523030799278080",
+        "name": "小雪糕",
+        "pinned_tweet_id": "2003665268334326103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003525283161448448/iTLUnFqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 37,
+          "like_count": 6,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "username": "DIW3tW6rCz49948",
+        "verified": false
+      }
+    ]
+  }
+}

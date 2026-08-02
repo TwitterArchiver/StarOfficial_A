@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040449683185971200"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2040449700562907175",
+    "created_at": "2026-04-04T15:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040449700562907175"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "碧蓝航线cos"
+        },
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "拉菲cos"
+        },
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "Laffey"
+        },
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "ラフィーII"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "ooc致歉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bl4LUdBWi",
+          "end": 68,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2040449700562907175/photo/1",
+          "media_key": "3_2040449683185971200",
+          "start": 45,
+          "url": "https://t.co/1bl4LUdBWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040449700562907175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#碧蓝航线cos #拉菲cos #Laffey #ラフィーII #ooc致歉 拉菲是对的 https://t.co/1bl4LUdBWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2040449683185971200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEiLRRbsAANz3g.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040449683185971200"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2040449700562907175",
+        "created_at": "2026-04-04T15:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040449700562907175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "碧蓝航线cos"
+            },
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "拉菲cos"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "Laffey"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "ラフィーII"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "ooc致歉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bl4LUdBWi",
+              "end": 68,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2040449700562907175/photo/1",
+              "media_key": "3_2040449683185971200",
+              "start": 45,
+              "url": "https://t.co/1bl4LUdBWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040449700562907175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#碧蓝航线cos #拉菲cos #Laffey #ラフィーII #ooc致歉 拉菲是对的 https://t.co/1bl4LUdBWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 158,
+          "like_count": 809,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 138
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

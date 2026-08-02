@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074418304329089025"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2074418311778140500",
+    "created_at": "2026-07-07T09:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074418311778140500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bs359XdNvA",
+          "end": 41,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2074418311778140500/photo/1",
+          "media_key": "3_2074418304329089025",
+          "start": 18,
+          "url": "https://t.co/bs359XdNvA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074418311778140500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雪糕依旧很多  可以慰藉好多次等候 https://t.co/bs359XdNvA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2074418304329089025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnQdQEagAECVtA.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074418304329089025"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2074418311778140500",
+        "created_at": "2026-07-07T09:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074418311778140500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bs359XdNvA",
+              "end": 41,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2074418311778140500/photo/1",
+              "media_key": "3_2074418304329089025",
+              "start": 18,
+              "url": "https://t.co/bs359XdNvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074418311778140500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雪糕依旧很多  可以慰藉好多次等候 https://t.co/bs359XdNvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 312,
+          "like_count": 1439,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

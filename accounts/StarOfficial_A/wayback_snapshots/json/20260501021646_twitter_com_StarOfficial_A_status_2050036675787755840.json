@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050036668145786880"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2050036675787755840",
+    "created_at": "2026-05-01T02:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050036675787755840"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "犹格索托斯的庭院"
+        },
+        {
+          "end": 18,
+          "start": 10,
+          "tag": "Tlipoca"
+        },
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "特莉波卡"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "ooc致歉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypC4bmTcML",
+          "end": 71,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2050036675787755840/photo/1",
+          "media_key": "3_2050036668145786880",
+          "start": 48,
+          "url": "https://t.co/ypC4bmTcML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050036675787755840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#犹格索托斯的庭院 #Tlipoca\n#特莉波卡 #ooc致歉\n有一只狐狸跟着神奇猫咪学坏了… https://t.co/ypC4bmTcML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050036668145786880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMxfPVa4AALNg9.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050036668145786880"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2050036675787755840",
+        "created_at": "2026-05-01T02:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050036675787755840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "犹格索托斯的庭院"
+            },
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "Tlipoca"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "特莉波卡"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "ooc致歉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypC4bmTcML",
+              "end": 71,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2050036675787755840/photo/1",
+              "media_key": "3_2050036668145786880",
+              "start": 48,
+              "url": "https://t.co/ypC4bmTcML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050036675787755840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#犹格索托斯的庭院 #Tlipoca\n#特莉波卡 #ooc致歉\n有一只狐狸跟着神奇猫咪学坏了… https://t.co/ypC4bmTcML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 271,
+          "like_count": 1128,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 219
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      }
+    ]
+  }
+}

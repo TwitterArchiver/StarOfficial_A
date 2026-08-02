@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2075032767705104791",
+    "created_at": "2026-07-09T06:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075105468520009952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1503367158956380169",
+          "start": 0,
+          "username": "chuyingzi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075105468520009952",
+    "in_reply_to_user_id": "1503367158956380169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075032767705104791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuyingzi2 双人床还有一半是留给我的吗）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075032762466394112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv_TbAbYAAnJOu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2075032767705104791",
+        "created_at": "2026-07-09T06:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075105468520009952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1503367158956380169",
+              "start": 0,
+              "username": "chuyingzi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075105468520009952",
+        "in_reply_to_user_id": "1503367158956380169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075032767705104791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyingzi2 双人床还有一半是留给我的吗）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075032762466394112"
+          ]
+        },
+        "author_id": "1503367158956380169",
+        "conversation_id": "2075032767705104791",
+        "created_at": "2026-07-09T01:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075032767705104791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7piuUcccg",
+              "end": 26,
+              "expanded_url": "https://x.com/chuyingzi2/status/2075032767705104791/photo/1",
+              "media_key": "3_2075032762466394112",
+              "start": 3,
+              "url": "https://t.co/I7piuUcccg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075032767705104791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新家 https://t.co/I7piuUcccg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 316,
+          "like_count": 1448,
+          "listed_count": 6,
+          "media_count": 74,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T13:47:26.000Z",
+        "description": "",
+        "id": "1503367158956380169",
+        "name": "初樱子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011972206730092544/svs3JPFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 65,
+          "like_count": 460,
+          "listed_count": 13,
+          "media_count": 64,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "chuyingzi2",
+        "verified": true
+      }
+    ]
+  }
+}

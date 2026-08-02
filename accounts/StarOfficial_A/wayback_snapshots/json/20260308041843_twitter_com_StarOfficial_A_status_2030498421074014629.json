@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2030498421074014629",
+    "created_at": "2026-03-08T04:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030498421074014629"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 118,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "原神"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1061274849375531008",
+          "start": 3,
+          "username": "Pasukalu0"
+        },
+        {
+          "end": 104,
+          "id": "4892256114",
+          "start": 96,
+          "username": "Remi_IO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030498421074014629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030459638832071043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pasukalu0: 只要不失去你的崇高，整个世界都会为你敞开。\nThe world opens itself before those with noble hearts.\n\n头壳：@Remi_IO （偶域KIGLAND）\n\n#kigurumi #着ぐるみ #原神 …"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030459630552526848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2kRrHasAASFQb.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030498421074014629",
+        "created_at": "2026-03-08T04:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030498421074014629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "原神"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1061274849375531008",
+              "start": 3,
+              "username": "Pasukalu0"
+            },
+            {
+              "end": 104,
+              "id": "4892256114",
+              "start": 96,
+              "username": "Remi_IO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030498421074014629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030459638832071043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pasukalu0: 只要不失去你的崇高，整个世界都会为你敞开。\nThe world opens itself before those with noble hearts.\n\n头壳：@Remi_IO （偶域KIGLAND）\n\n#kigurumi #着ぐるみ #原神 …"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030459630552526848"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030459638832071043",
+        "created_at": "2026-03-08T01:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030459638832071043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "原神"
+            },
+            {
+              "end": 138,
+              "start": 124,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 142,
+              "start": 140,
+              "tag": "蛍"
+            },
+            {
+              "end": 150,
+              "start": 143,
+              "tag": "Lumine"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "4892256114",
+              "start": 81,
+              "username": "Remi_IO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NXFXBCSMp",
+              "end": 174,
+              "expanded_url": "https://x.com/Pasukalu0/status/2030459638832071043/photo/1",
+              "media_key": "3_2030459630552526848",
+              "start": 151,
+              "url": "https://t.co/5NXFXBCSMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030459638832071043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 180,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只要不失去你的崇高，整个世界都会为你敞开。\nThe world opens itself before those with noble hearts.\n\n头壳：@Remi_IO （偶域KIGLAND）\n\n#kigurumi #着ぐるみ #原神  #GenshinImpact  #蛍 #Lumine https://t.co/5NXFXBCSMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 103,
+          "like_count": 614,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 94
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "（日本語/ ENG/ 中文/ 廣東話OK）帕苏卡露（パスカル）｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Kigurumi｜日常垢 负能垢：@ChidoriNya 愛されたいの 我没有其他X账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChidoriNya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "location": "帕维度",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 1501,
+          "like_count": 37748,
+          "listed_count": 10,
+          "media_count": 1168,
+          "tweet_count": 5194
+        },
+        "username": "Pasukalu0",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-11T11:03:54.000Z",
+        "description": "Work for https://t.co/qhwJvcXf9p #kigurumi studio. Jamstack programmer, Speed skating athlete, coach. 🍀 SFW ( Not a customer service staff member )",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 33,
+                "tag": "kigurumi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kig.land",
+                "end": 32,
+                "expanded_url": "http://kig.land",
+                "start": 9,
+                "url": "https://t.co/qhwJvcXf9p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linux.dog",
+                "end": 23,
+                "expanded_url": "https://linux.dog",
+                "start": 0,
+                "url": "https://t.co/5oeE5DOAdm"
+              }
+            ]
+          }
+        },
+        "id": "4892256114",
+        "location": "Shanghai",
+        "name": "Remi IO 🦇 remi@kig.land",
+        "pinned_tweet_id": "1625484563123421186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973422820316381184/uL6juQB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 2881,
+          "like_count": 6282,
+          "listed_count": 45,
+          "media_count": 1614,
+          "tweet_count": 5646
+        },
+        "url": "https://t.co/5oeE5DOAdm",
+        "username": "Remi_IO",
+        "verified": true
+      }
+    ]
+  }
+}

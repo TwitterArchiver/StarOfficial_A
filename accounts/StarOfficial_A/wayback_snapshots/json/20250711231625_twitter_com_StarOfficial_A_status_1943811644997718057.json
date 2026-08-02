@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "1943811644997718057",
+    "created_at": "2025-07-11T23:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T00:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943811644997718057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916183836079362048",
+          "start": 3,
+          "username": "Bainobxbai"
+        },
+        {
+          "end": 25,
+          "id": "1695649420539219968",
+          "start": 16,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943811644997718057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943639666978394607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bainobxbai: @LiciiQAQ 会不会是假一赔十赔了我十个假的（😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "1943811644997718057",
+        "created_at": "2025-07-11T23:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T00:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943811644997718057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916183836079362048",
+              "start": 3,
+              "username": "Bainobxbai"
+            },
+            {
+              "end": 25,
+              "id": "1695649420539219968",
+              "start": 16,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943811644997718057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943639666978394607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bainobxbai: @LiciiQAQ 会不会是假一赔十赔了我十个假的（😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916183836079362048",
+        "conversation_id": "1943638646265086404",
+        "created_at": "2025-07-11T11:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943639666978394607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943639666978394607",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943639336395722783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 会不会是假一赔十赔了我十个假的（😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 59,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:33:32.000Z",
+        "description": "MTF🍥🏳️‍⚧️｜巨蟹｜height:183 超大一只，我是巨人(bushi｜生产日期：2009.06.23｜高二｜INFP｜坐标Nanking｜欢迎互关🥰｜日语业余🇯🇵｜垃圾音游佬｜骚扰筑波可随机爆QQ号(不是小号)｜见证大舞台，有胆你就来｜永远热爱nachoneko❤️｜什么我居然是ztmy的粉丝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pkMP6UEq",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pkMP6UEq",
+                "start": 0,
+                "url": "https://t.co/HoatiFYxHN"
+              }
+            ]
+          }
+        },
+        "id": "1916183836079362048",
+        "location": "Nanking",
+        "name": "白诺Baino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916185382737350660/y2LI2YIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 257,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/HoatiFYxHN",
+        "username": "Bainobxbai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 1314,
+          "like_count": 39202,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 4671
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

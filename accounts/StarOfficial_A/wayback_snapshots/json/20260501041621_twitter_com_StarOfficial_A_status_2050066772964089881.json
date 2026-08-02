@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050063659813228544"
+      ],
+      "media_source_tweet_id": [
+        "2050063671439819213"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2050066772964089881",
+    "created_at": "2026-05-01T04:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050066772964089881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1061274849375531008",
+          "start": 3,
+          "username": "Pasukalu0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oaM0xpAeHT",
+          "end": 54,
+          "expanded_url": "https://x.com/Pasukalu0/status/2050063671439819213/photo/1",
+          "media_key": "3_2050063659813228544",
+          "start": 31,
+          "url": "https://t.co/oaM0xpAeHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050066772964089881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050063671439819213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pasukalu0: 五一快乐 今天是久违的原皮出镜 https://t.co/oaM0xpAeHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050063659813228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNKCXIa0AApAKP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050063659813228544"
+          ],
+          "media_source_tweet_id": [
+            "2050063671439819213"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2050066772964089881",
+        "created_at": "2026-05-01T04:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050066772964089881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1061274849375531008",
+              "start": 3,
+              "username": "Pasukalu0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaM0xpAeHT",
+              "end": 54,
+              "expanded_url": "https://x.com/Pasukalu0/status/2050063671439819213/photo/1",
+              "media_key": "3_2050063659813228544",
+              "start": 31,
+              "url": "https://t.co/oaM0xpAeHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050066772964089881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050063671439819213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pasukalu0: 五一快乐 今天是久违的原皮出镜 https://t.co/oaM0xpAeHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050063659813228544"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "conversation_id": "2050063671439819213",
+        "created_at": "2026-05-01T04:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050063671439819213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oaM0xpAeHT",
+              "end": 39,
+              "expanded_url": "https://x.com/Pasukalu0/status/2050063671439819213/photo/1",
+              "media_key": "3_2050063659813228544",
+              "start": 16,
+              "url": "https://t.co/oaM0xpAeHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050063671439819213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "五一快乐 今天是久违的原皮出镜 https://t.co/oaM0xpAeHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 273,
+          "like_count": 1136,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 222
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "（日本語/ ENG/ 中文/ 廣東話OK）帕苏卡露（パスカル）｜HK AI Industry/ Remote Worker/ U.S. Stock Investor｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Kigurumi/ Delta Force｜日常垢 负能垢：@ChidoriNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "ChidoriNya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "location": "帕维度",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 1519,
+          "like_count": 38159,
+          "listed_count": 9,
+          "media_count": 1176,
+          "tweet_count": 5232
+        },
+        "username": "Pasukalu0",
+        "verified": false
+      }
+    ]
+  }
+}

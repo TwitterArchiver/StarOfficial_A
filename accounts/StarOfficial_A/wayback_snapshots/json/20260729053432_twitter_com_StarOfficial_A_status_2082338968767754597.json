@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2082330154047869434",
+    "created_at": "2026-07-29T05:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082338968767754597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2082044525258915840",
+          "start": 0,
+          "username": "exccvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082338968767754597",
+    "in_reply_to_user_id": "2082044525258915840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082335816488296720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exccvu 涩涩哒咩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2082330154047869434",
+        "created_at": "2026-07-29T05:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082338968767754597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2082044525258915840",
+              "start": 0,
+              "username": "exccvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082338968767754597",
+        "in_reply_to_user_id": "2082044525258915840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082335816488296720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exccvu 涩涩哒咩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082044525258915840",
+        "conversation_id": "2082330154047869434",
+        "created_at": "2026-07-29T05:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082335816488296720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082335816488296720",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082330154047869434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 好像插入🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 324,
+          "like_count": 1592,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T10:05:06.000Z",
+        "description": "",
+        "id": "2082044525258915840",
+        "name": "马克",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 52,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "exccvu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2035366598769602944",
+    "created_at": "2026-03-22T00:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T01:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035521617212981598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1269664264093986816",
+          "start": 0,
+          "username": "YumStery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035521617212981598",
+    "in_reply_to_user_id": "1269664264093986816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035366598769602944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumStery 妈妈妈妈🍼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035366592478093312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8TIcxaoAAxo7z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035366595955216384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8TIpubUAAcZ4u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2035366598769602944",
+        "created_at": "2026-03-22T00:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T01:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035521617212981598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1269664264093986816",
+              "start": 0,
+              "username": "YumStery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035521617212981598",
+        "in_reply_to_user_id": "1269664264093986816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035366598769602944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumStery 妈妈妈妈🍼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035366592478093312",
+            "3_2035366595955216384"
+          ]
+        },
+        "author_id": "1269664264093986816",
+        "conversation_id": "2035366598769602944",
+        "created_at": "2026-03-21T14:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035366598769602944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "神様ちゅーず"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qufBOLI19",
+              "end": 57,
+              "expanded_url": "https://x.com/YumStery/status/2035366598769602944/photo/1",
+              "media_key": "3_2035366592478093312",
+              "start": 34,
+              "url": "https://t.co/0qufBOLI19"
+            },
+            {
+              "display_url": "pic.x.com/0qufBOLI19",
+              "end": 57,
+              "expanded_url": "https://x.com/YumStery/status/2035366598769602944/photo/1",
+              "media_key": "3_2035366595955216384",
+              "start": 34,
+              "url": "https://t.co/0qufBOLI19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035366598769602944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#神様ちゅーず #男の娘 \ngalo结算，超级超级感谢各位摊主妈妈 https://t.co/0qufBOLI19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 116,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 104
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-07T16:15:36.000Z",
+        "description": "沉淀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/yummystery",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/yummystery",
+                "start": 0,
+                "url": "https://t.co/euO7ocph6m"
+              }
+            ]
+          }
+        },
+        "id": "1269664264093986816",
+        "location": "北京",
+        "name": "予米子",
+        "pinned_tweet_id": "2032714921205707256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010751306210873345/4vmp2lfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 4064,
+          "like_count": 213734,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 79763
+        },
+        "url": "https://t.co/euO7ocph6m",
+        "username": "YumStery",
+        "verified": false
+      }
+    ]
+  }
+}

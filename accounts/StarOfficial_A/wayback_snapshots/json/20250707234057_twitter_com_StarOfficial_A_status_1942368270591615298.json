@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942249981630693376"
+      ],
+      "media_source_tweet_id": [
+        "1942250806016917879"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1942368270591615298",
+    "created_at": "2025-07-07T23:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T00:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942368270591615298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372184630753853444",
+          "start": 3,
+          "username": "2temisinin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I985aULZGx",
+          "end": 57,
+          "expanded_url": "https://x.com/2temisinin/status/1942250806016917879/photo/1",
+          "media_key": "3_1942249981630693376",
+          "start": 34,
+          "url": "https://t.co/I985aULZGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942368270591615298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942250806016917879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2temisinin: 关于qq这个图标可以拖出来这件事（ https://t.co/I985aULZGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 263,
+        "media_key": "3_1942249981630693376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvRCEVwbQAAGqg2.png",
+        "width": 366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942249981630693376"
+          ],
+          "media_source_tweet_id": [
+            "1942250806016917879"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1942368270591615298",
+        "created_at": "2025-07-07T23:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T00:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942368270591615298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372184630753853444",
+              "start": 3,
+              "username": "2temisinin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I985aULZGx",
+              "end": 57,
+              "expanded_url": "https://x.com/2temisinin/status/1942250806016917879/photo/1",
+              "media_key": "3_1942249981630693376",
+              "start": 34,
+              "url": "https://t.co/I985aULZGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942368270591615298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942250806016917879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2temisinin: 关于qq这个图标可以拖出来这件事（ https://t.co/I985aULZGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942249981630693376"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "1942250806016917879",
+        "created_at": "2025-07-07T15:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942250806016917879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I985aULZGx",
+              "end": 41,
+              "expanded_url": "https://x.com/2temisinin/status/1942250806016917879/photo/1",
+              "media_key": "3_1942249981630693376",
+              "start": 18,
+              "url": "https://t.co/I985aULZGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942250806016917879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4971,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于qq这个图标可以拖出来这件事（ https://t.co/I985aULZGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 50,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 51
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜鸮｜HAM BH6RQG｜Nikon｜Bioscience｜Aerospace｜Idealism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 1658,
+          "like_count": 33411,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 3135
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

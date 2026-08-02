@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2062754065566892043",
+    "created_at": "2026-06-06T15:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063282922585735438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1495006598502424578",
+          "start": 0,
+          "username": "Yingyyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063282922585735438",
+    "in_reply_to_user_id": "1495006598502424578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062754065566892043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yingyyun 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062754050446372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBf4UPasAA_3By.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062754050916118529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBf4V_acAE4Xx6.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2062754065566892043",
+        "created_at": "2026-06-06T15:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063282922585735438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1495006598502424578",
+              "start": 0,
+              "username": "Yingyyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063282922585735438",
+        "in_reply_to_user_id": "1495006598502424578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062754065566892043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yingyyun 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062754050446372864",
+            "3_2062754050916118529"
+          ]
+        },
+        "author_id": "1495006598502424578",
+        "conversation_id": "2062754065566892043",
+        "created_at": "2026-06-05T04:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062754065566892043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "可爱男孩子"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFdzQvbvIp",
+              "end": 61,
+              "expanded_url": "https://x.com/Yingyyun/status/2062754065566892043/photo/1",
+              "media_key": "3_2062754050446372864",
+              "start": 38,
+              "url": "https://t.co/EFdzQvbvIp"
+            },
+            {
+              "display_url": "pic.x.com/EFdzQvbvIp",
+              "end": 61,
+              "expanded_url": "https://x.com/Yingyyun/status/2062754065566892043/photo/1",
+              "media_key": "3_2062754050916118529",
+              "start": 38,
+              "url": "https://t.co/EFdzQvbvIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062754065566892043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3130,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "是好女孩吗\n←我觉得是\n→(请输入文本)\n\n#男娘 #可爱男孩子 #cos https://t.co/EFdzQvbvIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 296,
+          "like_count": 1289,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 284
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-19T12:05:35.000Z",
+        "description": "梦里花落知多少\n164/50|可能是男娘¿|社恐|见光死|社交废物\n友跨|同好可扩\n我知道我不好看问就是高p，如果你愿意夸我我会很开心\n暗恋对象@yuzuCiallo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "yuzuCiallo"
+              }
+            ]
+          }
+        },
+        "id": "1495006598502424578",
+        "location": "江苏苏州",
+        "name": "嘤樱桜雲 CherryBlossom",
+        "pinned_tweet_id": "2025932426611228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025932606928564224/3YuYZSIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 312,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 173
+        },
+        "username": "Yingyyun",
+        "verified": true
+      }
+    ]
+  }
+}

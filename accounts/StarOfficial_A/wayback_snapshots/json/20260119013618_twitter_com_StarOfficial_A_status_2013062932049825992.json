@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013062923397025792"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2013062932049825992",
+    "created_at": "2026-01-19T01:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013062932049825992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gh5AamtTZa",
+          "end": 31,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2013062932049825992/photo/1",
+          "media_key": "3_2013062923397025792",
+          "start": 8,
+          "url": "https://t.co/gh5AamtTZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013062932049825992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也要拍色图吗 https://t.co/gh5AamtTZa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2013062923397025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_WECuW0AAPqkq.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013062923397025792"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2013062932049825992",
+        "created_at": "2026-01-19T01:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013062932049825992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gh5AamtTZa",
+              "end": 31,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2013062932049825992/photo/1",
+              "media_key": "3_2013062923397025792",
+              "start": 8,
+              "url": "https://t.co/gh5AamtTZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013062932049825992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要拍色图吗 https://t.co/gh5AamtTZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 小可爱们快来给主包点个fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 85,
+          "like_count": 471,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 85
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

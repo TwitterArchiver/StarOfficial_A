@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2076850896974319727",
+    "created_at": "2026-07-14T16:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077064413572686018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890983421968875520",
+          "start": 0,
+          "username": "xinping398489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077064413572686018",
+    "in_reply_to_user_id": "1890983421968875520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077001031414923613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinping398489 急把茶倒你嘴里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2076850896974319727",
+        "created_at": "2026-07-14T16:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077064413572686018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890983421968875520",
+              "start": 0,
+              "username": "xinping398489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064413572686018",
+        "in_reply_to_user_id": "1890983421968875520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077001031414923613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinping398489 急把茶倒你嘴里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890983421968875520",
+        "conversation_id": "2076850896974319727",
+        "created_at": "2026-07-14T12:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077001031414923613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077001031414923613",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076850896974319727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 我也想茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 326,
+          "like_count": 1485,
+          "listed_count": 6,
+          "media_count": 80,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-16T04:36:12.000Z",
+        "description": "",
+        "id": "1890983421968875520",
+        "name": "xinping",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058368532371648512/tBnIsp9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "xinping398489",
+        "verified": false
+      }
+    ]
+  }
+}

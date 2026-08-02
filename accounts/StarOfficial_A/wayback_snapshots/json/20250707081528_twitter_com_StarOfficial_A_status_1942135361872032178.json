@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942135352472592384"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1942092525910856157",
+    "created_at": "2025-07-07T08:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T09:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942135361872032178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335663596626300928",
+          "start": 0,
+          "username": "Xinmo_sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fc8H8E4511",
+          "end": 37,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1942135361872032178/photo/1",
+          "media_key": "3_1942135352472592384",
+          "start": 14,
+          "url": "https://t.co/Fc8H8E4511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942135361872032178",
+    "in_reply_to_user_id": "1335663596626300928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942092525910856157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinmo_sama 烧 https://t.co/Fc8H8E4511"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_1942135352472592384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPZ0C3bYAA6yqU.jpg",
+        "width": 688
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942092522538561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOy3A7acAArHok.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942135352472592384"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1942092525910856157",
+        "created_at": "2025-07-07T08:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942135361872032178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335663596626300928",
+              "start": 0,
+              "username": "Xinmo_sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fc8H8E4511",
+              "end": 37,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1942135361872032178/photo/1",
+              "media_key": "3_1942135352472592384",
+              "start": 14,
+              "url": "https://t.co/Fc8H8E4511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942135361872032178",
+        "in_reply_to_user_id": "1335663596626300928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942092525910856157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinmo_sama 烧 https://t.co/Fc8H8E4511"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942092522538561536"
+          ]
+        },
+        "author_id": "1335663596626300928",
+        "conversation_id": "1942092525910856157",
+        "created_at": "2025-07-07T05:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942092525910856157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lofN3VQxO",
+              "end": 35,
+              "expanded_url": "https://x.com/Xinmo_sama/status/1942092525910856157/photo/1",
+              "media_key": "3_1942092522538561536",
+              "start": 12,
+              "url": "https://t.co/4lofN3VQxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942092525910856157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ass♂we♂can♂ https://t.co/4lofN3VQxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 50
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T19:13:22.000Z",
+        "description": "萌新画师+男娘。不线下！不线下！不线下！可能会分享画作与照片。拍图多为自己喜欢(*´ω｀*)偶尔会拍一下涩图（大概）大家喜欢就更好啦",
+        "id": "1335663596626300928",
+        "name": "Spee",
+        "pinned_tweet_id": "1933494843520819541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925218455592243200/OPYCQmeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 218,
+          "like_count": 347,
+          "listed_count": 9,
+          "media_count": 40,
+          "tweet_count": 94
+        },
+        "username": "Xinmo_sama",
+        "verified": false
+      }
+    ]
+  }
+}

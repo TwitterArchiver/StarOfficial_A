@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2063542073148797151",
+    "created_at": "2026-06-07T08:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063545115243856261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044140394108334082",
+          "start": 0,
+          "username": "hualiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063545115243856261",
+    "in_reply_to_user_id": "2044140394108334082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063542073148797151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hualiovo 那看看歌姬吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063542026529021952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMsij5aIAAI2p1.jpg",
+        "width": 1688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2063542073148797151",
+        "created_at": "2026-06-07T08:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063545115243856261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044140394108334082",
+              "start": 0,
+              "username": "hualiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063545115243856261",
+        "in_reply_to_user_id": "2044140394108334082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063542073148797151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hualiovo 那看看歌姬吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063542026529021952"
+          ]
+        },
+        "author_id": "2044140394108334082",
+        "conversation_id": "2063542073148797151",
+        "created_at": "2026-06-07T08:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063542073148797151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbBIb9Pgkc",
+              "end": 30,
+              "expanded_url": "https://x.com/hualiovo/status/2063542073148797151/photo/1",
+              "media_key": "3_2063542026529021952",
+              "start": 7,
+              "url": "https://t.co/hbBIb9Pgkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063542073148797151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是歌姬吧 https://t.co/hbBIb9Pgkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2040815937981714667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 296,
+          "like_count": 1294,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 285
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T19:49:47.000Z",
+        "description": "无门槛，不卖不出不线下，随便拍拍随便发发看看就好，扩列私信\n我的所有照片无需授权可以随意转发\n你甚至可以说那是你自己，盗图太多管不过来了摆烂了。",
+        "id": "2044140394108334082",
+        "name": "花小梨梨🍐",
+        "pinned_tweet_id": "2057154534171140368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063259151778893824/w7atscR9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5912,
+          "following_count": 89,
+          "like_count": 161,
+          "listed_count": 9,
+          "media_count": 89,
+          "tweet_count": 240
+        },
+        "username": "hualiovo",
+        "verified": false
+      }
+    ]
+  }
+}

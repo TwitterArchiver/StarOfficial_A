@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941059940967428096"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "1941059964493238681",
+    "created_at": "2025-07-04T09:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941059964493238681"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "消火栓"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRZqS8uZvy",
+          "end": 35,
+          "expanded_url": "https://x.com/StarOfficial_A/status/1941059964493238681/photo/1",
+          "media_key": "3_1941059940967428096",
+          "start": 12,
+          "url": "https://t.co/lRZqS8uZvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941059964493238681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ 我请问呢\n#消火栓 https://t.co/lRZqS8uZvy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1941059940967428096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAHu20asAAA3-D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941059940967428096"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "1941059964493238681",
+        "created_at": "2025-07-04T09:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941059964493238681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "消火栓"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRZqS8uZvy",
+              "end": 35,
+              "expanded_url": "https://x.com/StarOfficial_A/status/1941059964493238681/photo/1",
+              "media_key": "3_1941059940967428096",
+              "start": 12,
+              "url": "https://t.co/lRZqS8uZvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941059964493238681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ 我请问呢\n#消火栓 https://t.co/lRZqS8uZvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "坐标苏州 2009.1.28 目前无糖 | mtx 可以在VRChat找咱玩 名称Star_Official 有空也可以闲聊 喜欢唱跳rap篮球 music~",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "傲娇萝莉star酱Kira~",
+        "pinned_tweet_id": "1938997049925718350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 43,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 38
+        },
+        "username": "StarOfficial_A",
+        "verified": false
+      }
+    ]
+  }
+}

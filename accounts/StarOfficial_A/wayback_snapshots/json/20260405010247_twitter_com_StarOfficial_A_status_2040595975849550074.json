@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040595964889792512"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2040366947901280488",
+    "created_at": "2026-04-05T01:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040595975849550074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878611513969446912",
+          "start": 0,
+          "username": "amadare_2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8b1avJ27JO",
+          "end": 36,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2040595975849550074/photo/1",
+          "media_key": "3_2040595964889792512",
+          "start": 13,
+          "url": "https://t.co/8b1avJ27JO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040595975849550074",
+    "in_reply_to_user_id": "1878611513969446912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040366947901280488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amadare_2nd https://t.co/8b1avJ27JO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2040595964889792512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGnN_FaAAAMGPK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040595964889792512"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2040366947901280488",
+        "created_at": "2026-04-05T01:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040595975849550074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878611513969446912",
+              "start": 0,
+              "username": "amadare_2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b1avJ27JO",
+              "end": 36,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2040595975849550074/photo/1",
+              "media_key": "3_2040595964889792512",
+              "start": 13,
+              "url": "https://t.co/8b1avJ27JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040595975849550074",
+        "in_reply_to_user_id": "1878611513969446912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040366947901280488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amadare_2nd https://t.co/8b1avJ27JO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878611513969446912",
+        "conversation_id": "2040366947901280488",
+        "created_at": "2026-04-04T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040366947901280488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040366947901280488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12441,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "あとこれは男の娘とか女装に限らずなんだけど、中国、台湾あたりって脚フェチが多いイメージ…まぁ実際美脚の人多いんだけどさ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 170,
+          "like_count": 827,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 142
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T01:14:34.000Z",
+        "description": "綺麗なおにーさんになりたいです。DM⭕️ 返信遅いかも 加工強め 欲しいもの▶︎https://t.co/10xv0INvn7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 63,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1045AERNS4UNK?ref_=wl_share",
+                "start": 40,
+                "url": "https://t.co/10xv0INvn7"
+              }
+            ]
+          }
+        },
+        "id": "1878611513969446912",
+        "location": "実在しません",
+        "name": "あまだれ",
+        "pinned_tweet_id": "2024096662155882836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036412383955185664/cBgEBXQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 317,
+          "like_count": 3179,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1542
+        },
+        "username": "amadare_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

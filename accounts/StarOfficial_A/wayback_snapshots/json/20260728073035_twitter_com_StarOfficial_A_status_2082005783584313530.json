@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2081940013877780937",
+    "created_at": "2026-07-28T07:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082005783584313530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "DuchessCoconut_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082005783584313530",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081940013877780937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DuchessCoconut_ 雌性……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2081940013877780937",
+        "created_at": "2026-07-28T07:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082005783584313530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "DuchessCoconut_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082005783584313530",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081940013877780937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DuchessCoconut_ 雌性……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459206178529890307",
+        "conversation_id": "2081940013877780937",
+        "created_at": "2026-07-28T03:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081940013877780937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9yB8Wr5ZkMJVf4…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/9yB8Wr5ZkMJVf4S/status/2081411103624699971",
+              "start": 20,
+              "url": "https://t.co/X75EP2du7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081940013877780937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2623,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081411103624699971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "盗图前真的没认出人家明明是雄性吗……😑 https://t.co/X75EP2du7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 325,
+          "like_count": 1585,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "=椰子|无翼猫头鹰🦉|oc轻小说创作者✒️|精力有限不太互动🚫|会无差别屏蔽让人不安的账号👁️|请注意账号存在工作场所不适宜内容🔞",
+        "id": "1459206178529890307",
+        "location": "星馐阁",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1942593215066169560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039753721689853952/_mPWZooR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15653,
+          "following_count": 183,
+          "like_count": 19018,
+          "listed_count": 36,
+          "media_count": 4280,
+          "tweet_count": 17303
+        },
+        "url": "",
+        "username": "DuchessCoconut_",
+        "verified": false
+      }
+    ]
+  }
+}

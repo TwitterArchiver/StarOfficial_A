@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2068588258271879614",
+    "created_at": "2026-06-21T08:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068613555226833058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679070244021649411",
+          "start": 0,
+          "username": "chu_ta18580"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068613555226833058",
+    "in_reply_to_user_id": "1679070244021649411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068588258271879614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chu_ta18580 扫b呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068588232246222848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUaCZGW4AAyodj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2068588258271879614",
+        "created_at": "2026-06-21T08:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068613555226833058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679070244021649411",
+              "start": 0,
+              "username": "chu_ta18580"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068613555226833058",
+        "in_reply_to_user_id": "1679070244021649411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068588258271879614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_ta18580 扫b呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068588232246222848"
+          ]
+        },
+        "author_id": "1679070244021649411",
+        "conversation_id": "2068588258271879614",
+        "created_at": "2026-06-21T06:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068588258271879614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKLZb1cMx9",
+              "end": 37,
+              "expanded_url": "https://x.com/chu_ta18580/status/2068588258271879614/photo/1",
+              "media_key": "3_2068588232246222848",
+              "start": 14,
+              "url": "https://t.co/zKLZb1cMx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068588258271879614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发情的小狐狸想要老师疼爱～ https://t.co/zKLZb1cMx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 总幻想着成为大主包 常规休息日上推 没动静就是在上学( 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 311,
+          "like_count": 1390,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T10:08:47.000Z",
+        "description": "伪娘/喜欢cos打fps/重度m/坐标杭州—南京—上海长三角以及山东/是推特新人求大佬带带/会不定期更新，偶尔会更新一些女装之外的东西/喜欢的话就请点点关注吧！",
+        "id": "1679070244021649411",
+        "location": "距你520m",
+        "name": "璇玑子",
+        "pinned_tweet_id": "1901676451625320450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064732550245871616/7aDIO_Pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4096,
+          "following_count": 189,
+          "like_count": 1080,
+          "listed_count": 16,
+          "media_count": 278,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "chu_ta18580",
+        "verified": false
+      }
+    ]
+  }
+}

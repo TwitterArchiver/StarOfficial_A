@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039240898211676160"
+      ],
+      "media_source_tweet_id": [
+        "2039240911138488589"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2039348184254959641",
+    "created_at": "2026-04-01T14:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039348184254959641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1633809558513778694",
+          "start": 3,
+          "username": "xuxuna333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0KF3uOtjWK",
+          "end": 50,
+          "expanded_url": "https://x.com/xuxuna333/status/2039240911138488589/photo/1",
+          "media_key": "3_2039240898211676160",
+          "start": 27,
+          "url": "https://t.co/0KF3uOtjWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039348184254959641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039240911138488589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuxuna333: 这小男娘就得小男娘出啊 https://t.co/0KF3uOtjWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2039240898211676160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzWyuVbAAAwZ2_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039240898211676160"
+          ],
+          "media_source_tweet_id": [
+            "2039240911138488589"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2039348184254959641",
+        "created_at": "2026-04-01T14:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039348184254959641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1633809558513778694",
+              "start": 3,
+              "username": "xuxuna333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KF3uOtjWK",
+              "end": 50,
+              "expanded_url": "https://x.com/xuxuna333/status/2039240911138488589/photo/1",
+              "media_key": "3_2039240898211676160",
+              "start": 27,
+              "url": "https://t.co/0KF3uOtjWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039348184254959641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039240911138488589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuxuna333: 这小男娘就得小男娘出啊 https://t.co/0KF3uOtjWK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039240898211676160"
+          ]
+        },
+        "author_id": "1633809558513778694",
+        "conversation_id": "2039240911138488589",
+        "created_at": "2026-04-01T07:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039240911138488589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KF3uOtjWK",
+              "end": 35,
+              "expanded_url": "https://x.com/xuxuna333/status/2039240911138488589/photo/1",
+              "media_key": "3_2039240898211676160",
+              "start": 12,
+              "url": "https://t.co/0KF3uOtjWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039240911138488589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1662,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这小男娘就得小男娘出啊 https://t.co/0KF3uOtjWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "（中文/吴语/ENG） 坐标苏州 2009.01 目前无糖 | mtx 是玩VRChat的人棍玩家 推上不定时发些动态 有空可以闲聊 点fo的小可爱会收到主包的回fo",
+        "id": "1758149527234891777",
+        "location": "苏州",
+        "name": "XingXing",
+        "pinned_tweet_id": "1999688174415806716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 132,
+          "like_count": 699,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 121
+        },
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T12:38:59.000Z",
+        "description": "性别♂ 坐标浙江 电子宠物 多人设 喜欢看番打游戏 过🚪88接lol（一区千分）/瓦（钻石）陪玩 线下 推特唯一小号搞抽象擦边@mianovo3 抖音灌注四小丸子！私信评论都会看 欢迎同好宝宝贴贴w互fo扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "mianovo3"
+              }
+            ]
+          }
+        },
+        "id": "1633809558513778694",
+        "name": "缘晓晓",
+        "pinned_tweet_id": "1993926968061120572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835919528875941888/nLrH0SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50092,
+          "following_count": 711,
+          "like_count": 10848,
+          "listed_count": 201,
+          "media_count": 623,
+          "tweet_count": 6437
+        },
+        "username": "xuxuna333",
+        "verified": false
+      }
+    ]
+  }
+}
