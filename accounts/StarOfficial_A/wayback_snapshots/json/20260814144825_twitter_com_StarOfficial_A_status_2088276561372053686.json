@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2088276561372053686",
+    "created_at": "2026-08-14T14:48:25.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088276561372053686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meguminsama200…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/meguminsama2009/status/2088116150429172179",
+          "start": 11,
+          "url": "https://t.co/ySLkCSdwqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088276561372053686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088116150429172179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代入小白狗是对的✔️ https://t.co/ySLkCSdwqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2087935311385133057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnWGnUbAAE2m6f.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2088276561372053686",
+        "created_at": "2026-08-14T14:48:25.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088276561372053686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meguminsama200…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/meguminsama2009/status/2088116150429172179",
+              "start": 11,
+              "url": "https://t.co/ySLkCSdwqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088276561372053686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088116150429172179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代入小白狗是对的✔️ https://t.co/ySLkCSdwqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087935311385133057"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2088116150429172179",
+        "created_at": "2026-08-14T04:11:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088116150429172179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTlbiLyWal",
+              "end": 42,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2088116150429172179/photo/1",
+              "media_key": "3_2087935311385133057",
+              "start": 19,
+              "url": "https://t.co/oTlbiLyWal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116150429172179",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087935311385133057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 43349,
+          "like_count": 648,
+          "quote_count": 1,
+          "reply_count": 84,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "以前玩这个的时候我比较喜欢代入女主（ https://t.co/oTlbiLyWal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2088276561372053686",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 331,
+          "like_count": 1642,
+          "listed_count": 8,
+          "media_count": 96,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@Meguminsuki2009\n🟨⬜🟪⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2088249649379631389",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 1939,
+          "like_count": 3456,
+          "listed_count": 2,
+          "media_count": 1165,
+          "tweet_count": 8598
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

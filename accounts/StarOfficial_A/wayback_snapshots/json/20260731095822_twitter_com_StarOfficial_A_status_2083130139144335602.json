@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2083124383502209313",
+    "created_at": "2026-07-31T09:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083130139144335602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1173481494947356672",
+          "start": 0,
+          "username": "sorasakihinaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083130139144335602",
+    "in_reply_to_user_id": "1173481494947356672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083124383502209313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorasakihinaovo 好女孩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083124353793970176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-kBra0AAmriX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083124353785569280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-kBpaoAAdI6n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083124353793974272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-kBra4AA6UZ9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083124353798111232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi-kBsaAAANk-H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2083124383502209313",
+        "created_at": "2026-07-31T09:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083130139144335602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1173481494947356672",
+              "start": 0,
+              "username": "sorasakihinaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083130139144335602",
+        "in_reply_to_user_id": "1173481494947356672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083124383502209313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorasakihinaovo 好女孩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083124353793970176",
+            "3_2083124353785569280",
+            "3_2083124353793974272",
+            "3_2083124353798111232"
+          ]
+        },
+        "author_id": "1173481494947356672",
+        "conversation_id": "2083124383502209313",
+        "created_at": "2026-07-31T09:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083124383502209313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9auSJdvhvX",
+              "end": 26,
+              "expanded_url": "https://x.com/sorasakihinaovo/status/2083124383502209313/photo/1",
+              "media_key": "3_2083124353793970176",
+              "start": 3,
+              "url": "https://t.co/9auSJdvhvX"
+            },
+            {
+              "display_url": "pic.x.com/9auSJdvhvX",
+              "end": 26,
+              "expanded_url": "https://x.com/sorasakihinaovo/status/2083124383502209313/photo/1",
+              "media_key": "3_2083124353785569280",
+              "start": 3,
+              "url": "https://t.co/9auSJdvhvX"
+            },
+            {
+              "display_url": "pic.x.com/9auSJdvhvX",
+              "end": 26,
+              "expanded_url": "https://x.com/sorasakihinaovo/status/2083124383502209313/photo/1",
+              "media_key": "3_2083124353793974272",
+              "start": 3,
+              "url": "https://t.co/9auSJdvhvX"
+            },
+            {
+              "display_url": "pic.x.com/9auSJdvhvX",
+              "end": 26,
+              "expanded_url": "https://x.com/sorasakihinaovo/status/2083124383502209313/photo/1",
+              "media_key": "3_2083124353798111232",
+              "start": 3,
+              "url": "https://t.co/9auSJdvhvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083124383502209313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小春 https://t.co/9auSJdvhvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 329,
+          "like_count": 1600,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-16T06:19:56.000Z",
+        "description": "或是你…其实喜欢猫咪？同好群：1009347158，cos委托🚪:98进主播tg群组",
+        "id": "1173481494947356672",
+        "location": "┌╏ º □ º ╏┐吓           扩列可以私窝~",
+        "name": "🍓桃花星奏🍓",
+        "pinned_tweet_id": "2061111284108869703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915354455719239682/j5zJ6-gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22810,
+          "following_count": 700,
+          "like_count": 5065,
+          "listed_count": 63,
+          "media_count": 517,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "sorasakihinaovo",
+        "verified": false
+      }
+    ]
+  }
+}

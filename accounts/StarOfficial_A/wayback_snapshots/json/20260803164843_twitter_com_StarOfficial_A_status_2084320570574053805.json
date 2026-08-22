@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2084320570574053805",
+    "created_at": "2026-08-03T16:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084320570574053805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520639704517025792",
+          "start": 3,
+          "username": "NekoSaka0706"
+        },
+        {
+          "end": 88,
+          "id": "1545252334925533185",
+          "start": 79,
+          "username": "bzn88bo1"
+        },
+        {
+          "end": 102,
+          "id": "1724777638471098368",
+          "start": 91,
+          "username": "nyayumushi"
+        },
+        {
+          "end": 122,
+          "id": "1520639704517025792",
+          "start": 109,
+          "username": "NekoSaka0706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084320570574053805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084319674771378487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NekoSaka0706: （就当是2kfo福利吧~）\n\n八老师人真的特别好~丝带捆绑特别舒服~还要感谢伟大的姐姐大人把我拍的那么小只www~\n\n🎀：@bzn88bo1\n📷：@nyayumushi\n挨捆的笨蛋：@NekoSaka0706\n\n（出镜人物均已成年，自愿行为，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084319623672172547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz9p49bEAMxZOk.jpg",
+        "width": 3083
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2084319649295196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz9rYabYAAVLQ8.jpg",
+        "width": 3091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2084320570574053805",
+        "created_at": "2026-08-03T16:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084320570574053805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520639704517025792",
+              "start": 3,
+              "username": "NekoSaka0706"
+            },
+            {
+              "end": 88,
+              "id": "1545252334925533185",
+              "start": 79,
+              "username": "bzn88bo1"
+            },
+            {
+              "end": 102,
+              "id": "1724777638471098368",
+              "start": 91,
+              "username": "nyayumushi"
+            },
+            {
+              "end": 122,
+              "id": "1520639704517025792",
+              "start": 109,
+              "username": "NekoSaka0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084320570574053805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084319674771378487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NekoSaka0706: （就当是2kfo福利吧~）\n\n八老师人真的特别好~丝带捆绑特别舒服~还要感谢伟大的姐姐大人把我拍的那么小只www~\n\n🎀：@bzn88bo1\n📷：@nyayumushi\n挨捆的笨蛋：@NekoSaka0706\n\n（出镜人物均已成年，自愿行为，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084319623672172547",
+            "3_2084319649295196160"
+          ]
+        },
+        "author_id": "1520639704517025792",
+        "conversation_id": "2084319674771378487",
+        "created_at": "2026-08-03T16:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084319674771378487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "可爱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "白丝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 70,
+              "id": "1545252334925533185",
+              "start": 61,
+              "username": "bzn88bo1"
+            },
+            {
+              "end": 84,
+              "id": "1724777638471098368",
+              "start": 73,
+              "username": "nyayumushi"
+            },
+            {
+              "end": 104,
+              "id": "1520639704517025792",
+              "start": 91,
+              "username": "NekoSaka0706"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lr8b7z8T3d",
+              "end": 164,
+              "expanded_url": "https://x.com/NekoSaka0706/status/2084319674771378487/photo/1",
+              "media_key": "3_2084319623672172547",
+              "start": 141,
+              "url": "https://t.co/Lr8b7z8T3d"
+            },
+            {
+              "display_url": "pic.x.com/Lr8b7z8T3d",
+              "end": 164,
+              "expanded_url": "https://x.com/NekoSaka0706/status/2084319674771378487/photo/1",
+              "media_key": "3_2084319649295196160",
+              "start": 141,
+              "url": "https://t.co/Lr8b7z8T3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084319674771378487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（就当是2kfo福利吧~）\n\n八老师人真的特别好~丝带捆绑特别舒服~还要感谢伟大的姐姐大人把我拍的那么小只www~\n\n🎀：@bzn88bo1\n📷：@nyayumushi\n挨捆的笨蛋：@NekoSaka0706\n\n（出镜人物均已成年，自愿行为，无任何暴力胁迫因素）\n\n#可爱 #白丝 https://t.co/Lr8b7z8T3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 333,
+          "like_count": 1629,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T05:42:38.000Z",
+        "description": "07年~/163 46kg~/♂~/喜欢绳子~/被缚~/在学绳~/喜欢一切可爱的事物和人物~/只和朋友约线下~/English ok~/不可以涩涩~\n全世界最好的姐姐@nyayumushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "nyayumushi"
+              }
+            ]
+          }
+        },
+        "id": "1520639704517025792",
+        "location": "你的心里~",
+        "name": "这是一只神奇鱼鱼",
+        "pinned_tweet_id": "2033466099468222644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950526812972621824/Tv7MRTsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 304,
+          "like_count": 219,
+          "listed_count": 8,
+          "media_count": 84,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "NekoSaka0706",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T03:44:10.000Z",
+        "description": "图在别人那里随机掉落\n路边一条的捆工\n绳艺爱好者\n女装变态",
+        "id": "1545252334925533185",
+        "location": "杭州",
+        "name": "八稚女",
+        "pinned_tweet_id": "2002755380649263289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757022912358567936/Dyfu7X9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5153,
+          "following_count": 460,
+          "like_count": 470,
+          "listed_count": 15,
+          "media_count": 159,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "bzn88bo1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T13:13:39.000Z",
+        "description": "/166cm/47kg/已成年~/喜欢女装~/喜欢绳子~/喜欢可爱的孩子~/女装只是爱好~/只和熟人约线下哦~/清楚系~不可以涩涩~！小猫：@NekoSaka0706",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "NekoSaka0706"
+              }
+            ]
+          }
+        },
+        "id": "1724777638471098368",
+        "location": "杭州",
+        "name": "喵喵虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724778352974995456/MB0xDvTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14653,
+          "following_count": 881,
+          "like_count": 2338,
+          "listed_count": 41,
+          "media_count": 255,
+          "tweet_count": 2101
+        },
+        "url": "",
+        "username": "nyayumushi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2084465822865727651",
+    "created_at": "2026-08-04T08:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084556369055961342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1275413955242950659",
+          "start": 0,
+          "username": "Gob_aya"
+        },
+        {
+          "end": 21,
+          "id": "1553148955004788736",
+          "start": 9,
+          "username": "guyanguyuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084556369055961342",
+    "in_reply_to_user_id": "1275413955242950659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084465822865727651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gob_aya @guyanguyuya 绫神强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4005,
+        "media_key": "3_2084465808974221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2Cm_pbEAA2BW1.jpg",
+        "width": 2070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2084465822865727651",
+        "created_at": "2026-08-04T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084556369055961342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1275413955242950659",
+              "start": 0,
+              "username": "Gob_aya"
+            },
+            {
+              "end": 21,
+              "id": "1553148955004788736",
+              "start": 9,
+              "username": "guyanguyuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084556369055961342",
+        "in_reply_to_user_id": "1275413955242950659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084465822865727651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gob_aya @guyanguyuya 绫神强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084465808974221312"
+          ]
+        },
+        "author_id": "1275413955242950659",
+        "conversation_id": "2084465822865727651",
+        "created_at": "2026-08-04T02:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084465822865727651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "cos"
+            },
+            {
+              "end": 49,
+              "start": 38,
+              "tag": "BlueArcive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4McqO4Xq7",
+              "end": 73,
+              "expanded_url": "https://x.com/Gob_aya/status/2084465822865727651/photo/1",
+              "media_key": "3_2084465808974221312",
+              "start": 50,
+              "url": "https://t.co/i4McqO4Xq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084465822865727651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2512,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我们ba还能活下去吗？（老图新修，能感觉到实力在慢慢变强吗！）\n\n＃cos #BlueArcive https://t.co/i4McqO4Xq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 333,
+          "like_count": 1631,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "我有易欲症！",
+        "id": "1275413955242950659",
+        "location": "浙江",
+        "name": "哥布绫",
+        "pinned_tweet_id": "2027106267039469945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10591,
+          "following_count": 526,
+          "like_count": 3451,
+          "listed_count": 45,
+          "media_count": 114,
+          "tweet_count": 3280
+        },
+        "url": "",
+        "username": "Gob_aya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T22:42:41.000Z",
+        "description": "这里是咕言咕语，也可以叫我嫣羽。\n         爱好嘛各种类型的游戏，平时休假都是在vrc睡大觉(vrchat_id:咕言咕语）没事喜欢穿穿lo自搭一些角色之类的\nkig:白面鸮，鹿目圆\n(咱是纯清水娃～，发推只为记录日常～)\nCiallo～(∠・ω ‹)⌒☆有对象的啦",
+        "id": "1553148955004788736",
+        "location": "重庆",
+        "name": "咕言咕语",
+        "pinned_tweet_id": "1954516350690623885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882532950849515520/Z9KFgzQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1028,
+          "like_count": 2067,
+          "listed_count": 6,
+          "media_count": 121,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "guyanguyuya",
+        "verified": false
+      }
+    ]
+  }
+}
