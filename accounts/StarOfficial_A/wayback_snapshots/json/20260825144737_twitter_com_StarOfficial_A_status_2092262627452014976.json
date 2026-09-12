@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2084951872201503119",
+    "created_at": "2026-08-25T14:47:37.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092262627452014976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1071202984673964032",
+          "start": 0,
+          "username": "Shijiu_bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092262627452014976",
+    "in_reply_to_user_id": "1071202984673964032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089575590601044357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shijiu_bai 鬼脑一动…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2084951872201503119",
+        "created_at": "2026-08-25T14:47:37.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092262627452014976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1071202984673964032",
+              "start": 0,
+              "username": "Shijiu_bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092262627452014976",
+        "in_reply_to_user_id": "1071202984673964032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089575590601044357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shijiu_bai 鬼脑一动…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071202984673964032",
+        "conversation_id": "2084951872201503119",
+        "created_at": "2026-08-18T04:50:17.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089575590601044357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089575590601044357",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084951872201503119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 这么逆天的文案到底是怎么想出来的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2092262627452014976",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3432,
+          "following_count": 333,
+          "like_count": 1718,
+          "listed_count": 11,
+          "media_count": 100,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-08T00:41:08.000Z",
+        "description": "花下抚弦，花落满地，随你入梦，长醉不醒",
+        "id": "1071202984673964032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091853928514081124",
+        "name": "詩玖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071202984673964032/1782582754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062476011300950016/OgFm_oDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 223,
+          "like_count": 1335,
+          "listed_count": 8,
+          "media_count": 179,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "Shijiu_bai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2095143899203567871",
+    "created_at": "2026-09-02T13:36:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095143899203567871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095143899203567871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093904598671179789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 妈妈你应该庆幸我只是个二次元，而不是一杯柠檬水都要别人请的精神小妹；\n你应该庆幸我只是爱买谷子，而不是帮黄毛买烟；\n你还应该庆幸，我一有钱就去买小纸片和吧唧了，而不是省吃俭用全给黄毛转账了。\n所以母亲大人，我已经很乖了，有这样的女儿，你就…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093904589229862912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8LIUKbMAA9-aD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2095143899203567871",
+        "created_at": "2026-09-02T13:36:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095143899203567871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095143899203567871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093904598671179789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 妈妈你应该庆幸我只是个二次元，而不是一杯柠檬水都要别人请的精神小妹；\n你应该庆幸我只是爱买谷子，而不是帮黄毛买烟；\n你还应该庆幸，我一有钱就去买小纸片和吧唧了，而不是省吃俭用全给黄毛转账了。\n所以母亲大人，我已经很乖了，有这样的女儿，你就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093904589229862912"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2093904598671179789",
+        "created_at": "2026-08-30T03:32:13.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093904598671179789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0s6rewYQLp",
+              "end": 162,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2093904598671179789/photo/1",
+              "media_key": "3_2093904589229862912",
+              "start": 139,
+              "url": "https://t.co/0s6rewYQLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093904598671179789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093904589229862912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5733,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈你应该庆幸我只是个二次元，而不是一杯柠檬水都要别人请的精神小妹；\n你应该庆幸我只是爱买谷子，而不是帮黄毛买烟；\n你还应该庆幸，我一有钱就去买小纸片和吧唧了，而不是省吃俭用全给黄毛转账了。\n所以母亲大人，我已经很乖了，有这样的女儿，你就偷着乐吧。\n不说了，我找我女朋友去了。 https://t.co/0s6rewYQLp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆ 投喂可以加快产出\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2095143899203567871",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 331,
+          "like_count": 1765,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091823206797852672",
+        "3_2091823206793699328",
+        "3_2091823206797922304",
+        "3_2091823206743322624"
+      ],
+      "media_source_tweet_id": [
+        "2091823764086648974",
+        "2091823764086648974",
+        "2091823764086648974",
+        "2091823764086648974"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2092239272594317419",
+    "created_at": "2026-08-25T13:14:49.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092239272594317419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "洛茜"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "ロッシ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1677957254186946560",
+          "start": 3,
+          "username": "BoolStrawberry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGIYmh9UYz",
+          "end": 52,
+          "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+          "media_key": "3_2091823206797852672",
+          "start": 29,
+          "url": "https://t.co/FGIYmh9UYz"
+        },
+        {
+          "display_url": "pic.x.com/FGIYmh9UYz",
+          "end": 52,
+          "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+          "media_key": "3_2091823206793699328",
+          "start": 29,
+          "url": "https://t.co/FGIYmh9UYz"
+        },
+        {
+          "display_url": "pic.x.com/FGIYmh9UYz",
+          "end": 52,
+          "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+          "media_key": "3_2091823206797922304",
+          "start": 29,
+          "url": "https://t.co/FGIYmh9UYz"
+        },
+        {
+          "display_url": "pic.x.com/FGIYmh9UYz",
+          "end": 52,
+          "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+          "media_key": "3_2091823206743322624",
+          "start": 29,
+          "url": "https://t.co/FGIYmh9UYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092239272594317419",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091823206797852672"
+      },
+      {
+        "media_key": "3_2091823206793699328"
+      },
+      {
+        "media_key": "3_2091823206797922304"
+      },
+      {
+        "media_key": "3_2091823206743322624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091823764086648974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BoolStrawberry: #洛茜 #ロッシ https://t.co/FGIYmh9UYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2091823206797852672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQemH6YawAAbrQA.jpg",
+        "width": 1126
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2091823206793699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQemH6XbYAAB9LS.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2715,
+        "media_key": "3_2091823206797922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQemH6Yb0AA1Q7z.jpg",
+        "width": 2716
+      },
+      {
+        "height": 2889,
+        "media_key": "3_2091823206743322624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQemH6LasAATR9D.jpg",
+        "width": 2889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091823206797852672",
+            "3_2091823206793699328",
+            "3_2091823206797922304",
+            "3_2091823206743322624"
+          ],
+          "media_source_tweet_id": [
+            "2091823764086648974",
+            "2091823764086648974",
+            "2091823764086648974",
+            "2091823764086648974"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2092239272594317419",
+        "created_at": "2026-08-25T13:14:49.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092239272594317419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "洛茜"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "ロッシ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1677957254186946560",
+              "start": 3,
+              "username": "BoolStrawberry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 52,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206797852672",
+              "start": 29,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 52,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206793699328",
+              "start": 29,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 52,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206797922304",
+              "start": 29,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 52,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206743322624",
+              "start": 29,
+              "url": "https://t.co/FGIYmh9UYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092239272594317419",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091823206797852672"
+          },
+          {
+            "media_key": "3_2091823206793699328"
+          },
+          {
+            "media_key": "3_2091823206797922304"
+          },
+          {
+            "media_key": "3_2091823206743322624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091823764086648974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BoolStrawberry: #洛茜 #ロッシ https://t.co/FGIYmh9UYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091823206797852672",
+            "3_2091823206793699328",
+            "3_2091823206797922304",
+            "3_2091823206743322624"
+          ]
+        },
+        "author_id": "1677957254186946560",
+        "conversation_id": "2091823764086648974",
+        "created_at": "2026-08-24T09:43:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091823764086648974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "洛茜"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "ロッシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 32,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206797852672",
+              "start": 9,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 32,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206793699328",
+              "start": 9,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 32,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206797922304",
+              "start": 9,
+              "url": "https://t.co/FGIYmh9UYz"
+            },
+            {
+              "display_url": "pic.x.com/FGIYmh9UYz",
+              "end": 32,
+              "expanded_url": "https://x.com/BoolStrawberry/status/2091823764086648974/photo/1",
+              "media_key": "3_2091823206743322624",
+              "start": 9,
+              "url": "https://t.co/FGIYmh9UYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091823764086648974",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091823206797852672"
+          },
+          {
+            "media_key": "3_2091823206793699328"
+          },
+          {
+            "media_key": "3_2091823206797922304"
+          },
+          {
+            "media_key": "3_2091823206743322624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 29216,
+          "like_count": 819,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "#洛茜 #ロッシ https://t.co/FGIYmh9UYz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2092239272594317419",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 333,
+          "like_count": 1717,
+          "listed_count": 11,
+          "media_count": 100,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T08:26:47.000Z",
+        "description": "♂ | 155/49 \nPhD in Computer Science | Embodied AI🖥️\n你可以在别的平台也找到我的同名账号🍓\n谢谢你来看我，要是能喜欢就最好啦💞",
+        "id": "1677957254186946560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092050524325683436",
+        "name": "布尔草莓🍓",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677957254186946560/1701750635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731893457298583552/vTDxuZ15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 165,
+          "like_count": 4656,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "BoolStrawberry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

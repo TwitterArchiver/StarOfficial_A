@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090022043144404992"
+      ],
+      "media_source_tweet_id": [
+        "2090022052585697391"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2091531852540711409",
+    "created_at": "2026-08-23T14:23:47.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091531852540711409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqmOSPecPl",
+          "end": 55,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2090022052585697391/photo/1",
+          "media_key": "3_2090022043144404992",
+          "start": 32,
+          "url": "https://t.co/oqmOSPecPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091531852540711409",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090022043144404992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090022052585697391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 平等地压力每一个群主… https://t.co/oqmOSPecPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2090022043144404992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE_-Y5bwAA-cPT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090022043144404992"
+          ],
+          "media_source_tweet_id": [
+            "2090022052585697391"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2091531852540711409",
+        "created_at": "2026-08-23T14:23:47.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091531852540711409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqmOSPecPl",
+              "end": 55,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2090022052585697391/photo/1",
+              "media_key": "3_2090022043144404992",
+              "start": 32,
+              "url": "https://t.co/oqmOSPecPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091531852540711409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090022043144404992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090022052585697391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 平等地压力每一个群主… https://t.co/oqmOSPecPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090022043144404992"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2090022052585697391",
+        "created_at": "2026-08-19T10:24:22.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090022052585697391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqmOSPecPl",
+              "end": 35,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2090022052585697391/photo/1",
+              "media_key": "3_2090022043144404992",
+              "start": 12,
+              "url": "https://t.co/oqmOSPecPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090022052585697391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090022043144404992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 27438,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "平等地压力每一个群主… https://t.co/oqmOSPecPl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2091531852540711409",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 333,
+          "like_count": 1700,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

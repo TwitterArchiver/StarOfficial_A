@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2091040951699718204",
+    "created_at": "2026-08-22T16:35:32.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091202623462690868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1061274849375531008",
+          "start": 0,
+          "username": "Pasukalu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091202623462690868",
+    "in_reply_to_user_id": "1061274849375531008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091040951699718204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pasukalu0 我呢我呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2000,
+        "height": 1280,
+        "media_key": "13_2091040931411841024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091040931411841024/img/JE_TGokEV0nbThjc.jpg",
+        "public_metrics": {
+          "view_count": 181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091040931411841024/vid/avc1/320x694/PUALZBOVrgLMW07W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091040931411841024/vid/avc1/480x1040/ultj7hW1hX3JcmYI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091040931411841024/vid/avc1/590x1280/ADZBmK7cAf9r5XmU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091040931411841024/pl/9OnDyXljDitu8HCA.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2091040951699718204",
+        "created_at": "2026-08-22T16:35:32.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091202623462690868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1061274849375531008",
+              "start": 0,
+              "username": "Pasukalu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091202623462690868",
+        "in_reply_to_user_id": "1061274849375531008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091040951699718204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pasukalu0 我呢我呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091040931411841024"
+          ]
+        },
+        "author_id": "1061274849375531008",
+        "conversation_id": "2091040951699718204",
+        "created_at": "2026-08-22T05:53:07.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091040951699718204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/naRtLiOmiR",
+              "end": 58,
+              "expanded_url": "https://x.com/Pasukalu0/status/2091040951699718204/video/1",
+              "media_key": "13_2091040931411841024",
+              "start": 35,
+              "url": "https://t.co/naRtLiOmiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091040951699718204",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091040931411841024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1097,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几年前建了个推特亲友群 很久没进新人了 想进的话可以评论或者私信我哦 https://t.co/naRtLiOmiR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2091202623462690868",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 332,
+          "like_count": 1694,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-10T15:10:16.000Z",
+        "description": "“我做了个来自过去的梦”\n📌廣東｜帕苏卡露（パスカル）｜HK AI Engineer (WFH) / U.S. Stock Investor/ Travel & Hotel Enthusiast｜ボカロ/ 百合/ 美少女ゲーム/ VRChat/ Delta Force \n\n另一个我：@Chidorinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "Chidorinya"
+              }
+            ]
+          }
+        },
+        "id": "1061274849375531008",
+        "is_identity_verified": false,
+        "location": "帕维度",
+        "most_recent_tweet_id": "2091191805715116047",
+        "name": "帕苏卡露の秘密花園",
+        "pinned_tweet_id": "1852647793883787567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061274849375531008/1685173591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687913795698716672/CwGHV9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 1373,
+          "like_count": 40993,
+          "listed_count": 9,
+          "media_count": 1241,
+          "tweet_count": 5459
+        },
+        "url": "",
+        "username": "Pasukalu0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

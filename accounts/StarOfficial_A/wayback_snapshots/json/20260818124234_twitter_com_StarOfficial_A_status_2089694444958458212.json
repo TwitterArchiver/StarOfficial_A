@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089693747319869440"
+      ],
+      "media_source_tweet_id": [
+        "2089693755792400845"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2089694444958458212",
+    "created_at": "2026-08-18T12:42:34.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089694444958458212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055937589069361152",
+          "start": 3,
+          "username": "RainyRing_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2VB2vSn7w1",
+          "end": 40,
+          "expanded_url": "https://x.com/RainyRing_A/status/2089693755792400845/photo/1",
+          "media_key": "3_2089693747319869440",
+          "start": 17,
+          "url": "https://t.co/2VB2vSn7w1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089694444958458212",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089693747319869440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089693755792400845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainyRing_A: https://t.co/2VB2vSn7w1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2089693747319869440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAVZDpbEAAAtfs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089693747319869440"
+          ],
+          "media_source_tweet_id": [
+            "2089693755792400845"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2089694444958458212",
+        "created_at": "2026-08-18T12:42:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089694444958458212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055937589069361152",
+              "start": 3,
+              "username": "RainyRing_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VB2vSn7w1",
+              "end": 40,
+              "expanded_url": "https://x.com/RainyRing_A/status/2089693755792400845/photo/1",
+              "media_key": "3_2089693747319869440",
+              "start": 17,
+              "url": "https://t.co/2VB2vSn7w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089694444958458212",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089693747319869440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089693755792400845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainyRing_A: https://t.co/2VB2vSn7w1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089693747319869440"
+          ]
+        },
+        "author_id": "2055937589069361152",
+        "conversation_id": "2089693755792400845",
+        "created_at": "2026-08-18T12:39:50.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089693755792400845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2VB2vSn7w1",
+              "end": 23,
+              "expanded_url": "https://x.com/RainyRing_A/status/2089693755792400845/photo/1",
+              "media_key": "3_2089693747319869440",
+              "start": 0,
+              "url": "https://t.co/2VB2vSn7w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089693755792400845",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089693747319869440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2VB2vSn7w1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2089694444958458212",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3204,
+          "following_count": 333,
+          "like_count": 1668,
+          "listed_count": 9,
+          "media_count": 98,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T09:06:10.000Z",
+        "description": "如果想不到做什么的话 那就听听窗外的雨声吧",
+        "id": "2055937589069361152",
+        "is_identity_verified": false,
+        "location": "江南",
+        "most_recent_tweet_id": "2089693858531840495",
+        "name": "雨霖铃",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055937589069361152/1781831912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067686134361292800/jddyCYCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "RainyRing_A",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

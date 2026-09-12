@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2084186715888218493",
+    "created_at": "2026-08-03T07:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084186715888218493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900748639645167619",
+          "start": 3,
+          "username": "SatoShio03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084186715888218493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084181512619204874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SatoShio03: 和我处对象有很多好处，我可以扣你，我可以陪你看片，同时扣你，你冷暴力我 我直接扣你，下雨天不和我一起打伞，我直接扣你，不和我发消息，我直接扣你，不回我消息，我直接扣你，不好好吃饭我直接扣你，熬夜我直接扣你，不喜欢我我直接扣你，喜欢我我也扣你\n#萝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084181502376742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyACLCbEAArmSp.jpg",
+        "width": 3075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2084186715888218493",
+        "created_at": "2026-08-03T07:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084186715888218493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900748639645167619",
+              "start": 3,
+              "username": "SatoShio03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084186715888218493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084181512619204874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SatoShio03: 和我处对象有很多好处，我可以扣你，我可以陪你看片，同时扣你，你冷暴力我 我直接扣你，下雨天不和我一起打伞，我直接扣你，不和我发消息，我直接扣你，不回我消息，我直接扣你，不好好吃饭我直接扣你，熬夜我直接扣你，不喜欢我我直接扣你，喜欢我我也扣你\n#萝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084181502376742912"
+          ]
+        },
+        "author_id": "1900748639645167619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2084181512619204874",
+        "created_at": "2026-08-03T07:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084181512619204874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "萝莉"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "cosplay"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "神户盐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pBcxEgw1i",
+              "end": 162,
+              "expanded_url": "https://x.com/SatoShio03/status/2084181512619204874/photo/1",
+              "media_key": "3_2084181502376742912",
+              "start": 139,
+              "url": "https://t.co/5pBcxEgw1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084181512619204874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和我处对象有很多好处，我可以扣你，我可以陪你看片，同时扣你，你冷暴力我 我直接扣你，下雨天不和我一起打伞，我直接扣你，不和我发消息，我直接扣你，不回我消息，我直接扣你，不好好吃饭我直接扣你，熬夜我直接扣你，不喜欢我我直接扣你，喜欢我我也扣你\n#萝莉 #cosplay #神户盐 https://t.co/5pBcxEgw1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "location": "在你心里",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 333,
+          "like_count": 1628,
+          "listed_count": 8,
+          "media_count": 92,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:19:32.000Z",
+        "description": "Satou&Shio",
+        "id": "1900748639645167619",
+        "name": "Sato",
+        "pinned_tweet_id": "2079440631819038770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075077564180385792/Xd5s_MAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 26,
+          "like_count": 133,
+          "listed_count": 10,
+          "media_count": 48,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "SatoShio03",
+        "verified": true
+      }
+    ]
+  }
+}

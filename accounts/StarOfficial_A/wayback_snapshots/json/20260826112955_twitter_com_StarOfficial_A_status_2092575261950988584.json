@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078765567998308352"
+      ],
+      "media_source_tweet_id": [
+        "2078765581680128162"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2092575261950988584",
+    "created_at": "2026-08-26T11:29:55.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092575261950988584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1758149527234891777",
+          "start": 3,
+          "username": "StarOfficial_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5Dd2laFZR",
+          "end": 117,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2078765581680128162/photo/1",
+          "media_key": "3_2078765567998308352",
+          "start": 94,
+          "url": "https://t.co/g5Dd2laFZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092575261950988584",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2078765567998308352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078765581680128162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarOfficial_A: 群友炫耀他的新杯子：「可以加热，可以自己蠕动，还能用手机App远程遥控」\n我：「真巧，我也是」\n群友：「你买的什么牌子？」\n我：「我说，我也是…」 https://t.co/g5Dd2laFZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2078765567998308352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlCRTPaMAAo0Dm.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078765567998308352"
+          ],
+          "media_source_tweet_id": [
+            "2078765581680128162"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2092575261950988584",
+        "created_at": "2026-08-26T11:29:55.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092575261950988584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1758149527234891777",
+              "start": 3,
+              "username": "StarOfficial_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5Dd2laFZR",
+              "end": 117,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2078765581680128162/photo/1",
+              "media_key": "3_2078765567998308352",
+              "start": 94,
+              "url": "https://t.co/g5Dd2laFZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092575261950988584",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2078765567998308352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078765581680128162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarOfficial_A: 群友炫耀他的新杯子：「可以加热，可以自己蠕动，还能用手机App远程遥控」\n我：「真巧，我也是」\n群友：「你买的什么牌子？」\n我：「我说，我也是…」 https://t.co/g5Dd2laFZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078765567998308352"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2078765581680128162",
+        "created_at": "2026-07-19T08:55:10.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078765581680128162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5Dd2laFZR",
+              "end": 97,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2078765581680128162/photo/1",
+              "media_key": "3_2078765567998308352",
+              "start": 74,
+              "url": "https://t.co/g5Dd2laFZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765581680128162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2078765567998308352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 69808,
+          "like_count": 956,
+          "quote_count": 2,
+          "reply_count": 266,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "群友炫耀他的新杯子：「可以加热，可以自己蠕动，还能用手机App远程遥控」\n我：「真巧，我也是」\n群友：「你买的什么牌子？」\n我：「我说，我也是…」 https://t.co/g5Dd2laFZR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2092575261950988584",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 333,
+          "like_count": 1719,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

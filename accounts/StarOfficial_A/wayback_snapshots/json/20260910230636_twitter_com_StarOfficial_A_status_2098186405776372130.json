@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098186392409088001"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2098186405776372130",
+    "created_at": "2026-09-10T23:06:36.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T00:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098186405776372130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cud3i0qRHu",
+          "end": 88,
+          "expanded_url": "https://x.com/StarOfficial_A/status/2098186405776372130/photo/1",
+          "media_key": "3_2098186392409088001",
+          "start": 65,
+          "url": "https://t.co/cud3i0qRHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098186405776372130",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098186392409088001"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一小伙遇到黄皮子讨封。\n小伙先行一步：你看我像公务员还是事业编？\n黄大仙还没来得及说话，突然从旁边跑过一只猫，\n猫叫道：劳↓务↑ https://t.co/cud3i0qRHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2098186392409088001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5BaEAaIAEUa4_.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098186392409088001"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2098186405776372130",
+        "created_at": "2026-09-10T23:06:36.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098186405776372130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cud3i0qRHu",
+              "end": 88,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2098186405776372130/photo/1",
+              "media_key": "3_2098186392409088001",
+              "start": 65,
+              "url": "https://t.co/cud3i0qRHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098186405776372130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098186392409088001"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一小伙遇到黄皮子讨封。\n小伙先行一步：你看我像公务员还是事业编？\n黄大仙还没来得及说话，突然从旁边跑过一只猫，\n猫叫道：劳↓务↑ https://t.co/cud3i0qRHu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆ 投喂可以加快产出\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2098186405776372130",
+        "name": "XingXing",
+        "pinned_tweet_id": "2097707829654356258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4104,
+          "following_count": 330,
+          "like_count": 1784,
+          "listed_count": 12,
+          "media_count": 96,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

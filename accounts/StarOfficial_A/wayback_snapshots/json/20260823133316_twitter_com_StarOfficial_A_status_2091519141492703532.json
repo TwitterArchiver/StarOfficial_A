@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067997087137214464",
+        "3_2067997087128772608"
+      ],
+      "media_source_tweet_id": [
+        "2067997626411397592",
+        "2067997626411397592"
+      ]
+    },
+    "author_id": "1758149527234891777",
+    "conversation_id": "2091519141492703532",
+    "created_at": "2026-08-23T13:33:16.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091519141492703532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1218020588251426816",
+          "start": 3,
+          "username": "Filene_ccc"
+        },
+        {
+          "end": 44,
+          "id": "1779861442373824512",
+          "start": 36,
+          "username": "x_flinx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qoJNT4ug1",
+          "end": 68,
+          "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+          "media_key": "3_2067997087137214464",
+          "start": 45,
+          "url": "https://t.co/5qoJNT4ug1"
+        },
+        {
+          "display_url": "pic.x.com/5qoJNT4ug1",
+          "end": 68,
+          "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+          "media_key": "3_2067997087128772608",
+          "start": 45,
+          "url": "https://t.co/5qoJNT4ug1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091519141492703532",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2067997087137214464"
+      },
+      {
+        "media_key": "3_2067997087128772608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067997626411397592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Filene_ccc: 发完工资也是为自己买第一套衣服了！\n摄 @x_flinx https://t.co/5qoJNT4ug1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067997087137214464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMAZN9bMAAcopr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2067997087128772608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMAZN7aYAAFo2g.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067997087137214464",
+            "3_2067997087128772608"
+          ],
+          "media_source_tweet_id": [
+            "2067997626411397592",
+            "2067997626411397592"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2091519141492703532",
+        "created_at": "2026-08-23T13:33:16.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091519141492703532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1218020588251426816",
+              "start": 3,
+              "username": "Filene_ccc"
+            },
+            {
+              "end": 44,
+              "id": "1779861442373824512",
+              "start": 36,
+              "username": "x_flinx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qoJNT4ug1",
+              "end": 68,
+              "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+              "media_key": "3_2067997087137214464",
+              "start": 45,
+              "url": "https://t.co/5qoJNT4ug1"
+            },
+            {
+              "display_url": "pic.x.com/5qoJNT4ug1",
+              "end": 68,
+              "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+              "media_key": "3_2067997087128772608",
+              "start": 45,
+              "url": "https://t.co/5qoJNT4ug1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091519141492703532",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2067997087137214464"
+          },
+          {
+            "media_key": "3_2067997087128772608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067997626411397592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Filene_ccc: 发完工资也是为自己买第一套衣服了！\n摄 @x_flinx https://t.co/5qoJNT4ug1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067997087137214464",
+            "3_2067997087128772608"
+          ]
+        },
+        "author_id": "1218020588251426816",
+        "conversation_id": "2067997626411397592",
+        "created_at": "2026-06-19T15:47:10.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067997626411397592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1779861442373824512",
+              "start": 20,
+              "username": "x_flinx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qoJNT4ug1",
+              "end": 52,
+              "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+              "media_key": "3_2067997087137214464",
+              "start": 29,
+              "url": "https://t.co/5qoJNT4ug1"
+            },
+            {
+              "display_url": "pic.x.com/5qoJNT4ug1",
+              "end": 52,
+              "expanded_url": "https://x.com/Filene_ccc/status/2067997626411397592/photo/1",
+              "media_key": "3_2067997087128772608",
+              "start": 29,
+              "url": "https://t.co/5qoJNT4ug1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067997626411397592",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2067997087137214464"
+          },
+          {
+            "media_key": "3_2067997087128772608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 10767,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "发完工资也是为自己买第一套衣服了！\n摄 @x_flinx https://t.co/5qoJNT4ug1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ 目前无糖 | mtx \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2091519141492703532",
+        "name": "XingXing",
+        "pinned_tweet_id": "2068252461970620602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3417,
+          "following_count": 333,
+          "like_count": 1699,
+          "listed_count": 11,
+          "media_count": 99,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-17T04:02:10.000Z",
+        "description": "156/37kg男ee，私信前可先知悉，私信没回就是被系统拦了没收到（）",
+        "id": "1218020588251426816",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2091221158565999078",
+        "name": "为什么不坐下来，喝杯猹呢",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061974107164737536/LIAw1wg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 110,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Filene_ccc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T13:16:56.000Z",
+        "description": "我的思念将随你进入梦乡。\n画师推：@basiI91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "basiI91"
+              }
+            ]
+          }
+        },
+        "id": "1779861442373824512",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2091222855266746396",
+        "name": "风凛凛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779861442373824512/1743156140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779909582061707264/rxahJDoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11035,
+          "following_count": 271,
+          "like_count": 2491,
+          "listed_count": 32,
+          "media_count": 76,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "x_flinx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
