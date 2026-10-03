@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1758149527234891777",
+    "conversation_id": "2099166635798253773",
+    "created_at": "2026-09-14T22:44:34.000Z",
+    "display_text_range": [
+      24,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099630414818373779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1275413955242950659",
+          "start": 0,
+          "username": "Gob_aya"
+        },
+        {
+          "end": 23,
+          "id": "1581317559957209088",
+          "start": 9,
+          "username": "hinatahimarii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099630414818373779",
+    "in_reply_to_user_id": "1275413955242950659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099176478198161700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gob_aya @hinatahimarii 我也想草你❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758149527234891777",
+        "conversation_id": "2099166635798253773",
+        "created_at": "2026-09-14T22:44:34.000Z",
+        "display_text_range": [
+          24,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099630414818373779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1275413955242950659",
+              "start": 0,
+              "username": "Gob_aya"
+            },
+            {
+              "end": 23,
+              "id": "1581317559957209088",
+              "start": 9,
+              "username": "hinatahimarii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099630414818373779",
+        "in_reply_to_user_id": "1275413955242950659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099176478198161700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gob_aya @hinatahimarii 我也想草你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275413955242950659",
+        "conversation_id": "2099166635798253773",
+        "created_at": "2026-09-13T16:40:47.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099176478198161700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581317559957209088",
+              "start": 0,
+              "username": "hinatahimarii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099176478198161700",
+        "in_reply_to_user_id": "1581317559957209088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099166635798253773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinatahimarii 我想操你❤️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆ 投喂可以加快产出\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2099630414818373779",
+        "name": "XingXing",
+        "pinned_tweet_id": "2097707829654356258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 330,
+          "like_count": 1813,
+          "listed_count": 12,
+          "media_count": 95,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-23T13:02:46.000Z",
+        "description": "我有易欲症！",
+        "id": "1275413955242950659",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2099475338409685130",
+        "name": "哥布绫",
+        "pinned_tweet_id": "2088011354523447320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275413955242950659/1739863937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275414064861077504/v6EpcaF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11568,
+          "following_count": 542,
+          "like_count": 3697,
+          "listed_count": 51,
+          "media_count": 104,
+          "tweet_count": 3504
+        },
+        "url": "",
+        "username": "Gob_aya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-15T16:14:32.000Z",
+        "description": "倘若没有机会言说再见\n就当此刻已然言说",
+        "id": "1581317559957209088",
+        "is_identity_verified": false,
+        "location": "￡6",
+        "most_recent_tweet_id": "2099563740001919345",
+        "name": "土狗小黄",
+        "pinned_tweet_id": "2087153890206855312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581317559957209088/1782781760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071762981910880256/Ulh0LaTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59835,
+          "following_count": 1360,
+          "like_count": 64570,
+          "listed_count": 288,
+          "media_count": 47,
+          "tweet_count": 27931
+        },
+        "url": "",
+        "username": "hinatahimarii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
